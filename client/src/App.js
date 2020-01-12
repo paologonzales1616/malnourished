@@ -1,26 +1,32 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
 
-function App() {
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Store from "./core/utils/Store";
+
+import HomePage from "./pages/home";
+import AboutPage from "./pages/about";
+import DatasetPage from "./pages/dataset";
+import AccountPage from "./pages/account";
+import PredictionPage from "./pages/prediction";
+import VisualizationPage from "./pages/visualization"
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Store>
+        <Switch>
+          <Route exact path="/" component={HomePage} />
+          <Route path="/about" component={AboutPage} />
+          <Route path="/dataset" component={DatasetPage} />
+          <Route path="/account" component={AccountPage} />
+          <Route path="/prediction" component={PredictionPage} />
+          <Route path="/visualization" component={VisualizationPage} />
+        </Switch>
+      </Store>
+    </Router>
   );
-}
+};
 
 export default App;
