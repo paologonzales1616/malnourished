@@ -14,16 +14,17 @@ server.use(bodyParser.json());
 server.use(bodyParser.urlencoded({ extended: true }));
 server.use(logger("dev"));
 
-
-
 server.get("/data/:brgy_index/:year", async (req, res) => {
   const brgy_index = req.params.brgy_index;
-  const year = req.params.year
+  const year = req.params.year;
   const brgyData = await data.getData(parseInt(brgy_index), year);
   if (brgyData.length == 0) {
     return res.json({ message: "No available data." });
   }
-  res.json({ sex: functions.getGender(brgyData) });
+  res.json({
+    sex: functions.getGender(brgyData),
+    age: functions.getAge(brgyData)
+  });
 });
 
 // Serve the static files from the React app
