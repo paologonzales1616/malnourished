@@ -1,15 +1,13 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faAlignLeft,
-  faPowerOff,
-  faInfoCircle
-} from "@fortawesome/free-solid-svg-icons";
-import { Navbar, Button, Nav, OverlayTrigger, Tooltip } from "react-bootstrap";
-import { AppContext } from "../../core/utils/Store";
+import { faAlignLeft } from "@fortawesome/free-solid-svg-icons";
+import { Navbar, Button, Nav, Form } from "react-bootstrap";
+import { AppContext, BrgyContext } from "../../core/utils/Store";
 import { withRouter } from "react-router-dom";
+import { BARANGAY_PROPERITES } from "../../core/utils/Constants";
 const Navigationbar = ({ history }) => {
   const { app, setApp } = useContext(AppContext);
+  const { brgy, setBrgy } = useContext(BrgyContext);
 
   return (
     <Navbar
@@ -49,6 +47,21 @@ const Navigationbar = ({ history }) => {
               <FontAwesomeIcon size="lg" icon={faPowerOff} />
             </Nav.Link>
           </OverlayTrigger> */}
+          {app.page !== "account" && app.page != "about" ? (
+            <Form.Control
+              value={brgy}
+              onChange={e => setBrgy(e.target.value)}
+              as="select"
+            >
+              {BARANGAY_PROPERITES.map((val, index) => (
+                <option value={index} key={index}>
+                  {val.name}
+                </option>
+              ))}
+            </Form.Control>
+          ) : (
+            <></>
+          )}
         </Nav>
       </Navbar.Collapse>
     </Navbar>

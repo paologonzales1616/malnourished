@@ -2708,3 +2708,8 @@ export const TEXT_PROPS = {
   "text-letter-spacing": 0.05,
   "text-offset": [0, 1.5]
 };
+
+export const HEADERS = {
+  Accept: "application/json",
+  "Content-Type": "application/json"
+};

@@ -1,0 +1,532 @@
+"Child Seq.","Address or Location of Residence","Name of Mother or Caregiver","Full Name of Child","Indigenous Preschool Child?",Sex,"Date of Birth","Actual Date of Weighing",Weight,Height,"Age in Months","Weight for Age Status","Height for Age Status","Height for Length/Height Status"
+1,2854 Purok 4,"Sasi, Elizabeth","Sasi, Earvin James",NO,M,01/05/2015,01/10/2019,15.7,104.8,48,N,N,N
+2,2854 Purok 4,"Sasi, Elizabeth","Lirio, Jahara Elise",NO,F,05/04/2017,01/10/2019,10,87.1,20,N,N,N
+3,Purok 4,"Empinado, Jocelyn","Empinado, Lyca",NO,F,08/23/2014,01/10/2019,19.1,111,52,N,N,N
+4,Purok 4,"Canape, Marimar","Pancho, Mathew Rave",NO,M,06/02/2016,01/10/2019,11,88,31,N,N,N
+5,2892 Purok 4,"Cangao, Paulina","Cangao, Frantzhel Mori",NO,F,05/27/2017,01/10/2019,8.5,78,19,N,N,N
+6,2892 Purok 4,"Cangao, Paulina","Cangao, Raven Calix",NO,M,06/16/2014,01/10/2019,16,108,54,N,N,N
+7,2892 Purok 4,"Cangao, Gemmalyn","Cangao, Shanye Arianne",NO,F,07/22/2016,01/10/2019,13.1,95,29,N,N,N
+8,2892 Purok 4,"Cangao, Jesseri","Raminto, Alexander",NO,M,03/25/2018,01/10/2019,9,71,9,N,N,N
+9,2892 Purok 4,"Macayan, Grynalyn","Macayen, Margaux",NO,F,01/24/2015,01/10/2019,14.2,94,47,N,N,N
+10,2892 Purok 4,"Macayan, Grynalyn","Cangao, Samantha Eliz",NO,F,11/28/2018,01/10/2019,5.4,57,1,N,N,N
+11,Purok 4,"Stevens, Jane","Calatin, Althea",NO,F,05/29/2015,01/10/2019,13,94.2,43,N,N,N
+12,Purok 4,"Camacho, Eloisa","Camacho, John Vincent",NO,M,04/24/2017,01/10/2019,10.5,86.3,20,N,N,N
+13,Purok 4,"Camacho, Eloisa","Camacho, Neil James",NO,M,04/24/2017,01/10/2019,10.8,87,20,N,N,N
+14,Purok 4,"Cangao, Mariane","Abad, Justine Mavis",NO,F,12/05/2016,01/10/2019,12.5,92,25,N,N,N
+15,2902 Purok 4,"Seprioto, Joshele","Bernardo, Jhayzie",NO,M,07/29/2016,01/10/2019,12.5,92,29,N,N,N
+16,2902 Purok 4,"Seprioto, Joshele","Bernardo, Kyrie",NO,M,01/15/2018,01/10/2019,9,74.6,11,N,N,N
+17,Purok 4,"Daet, Charisse Anne","Cangao, Brittaney Miles",NO,F,12/09/2017,01/10/2019,9.4,78,13,N,N,N
+18,2916 Purok 4,"Solinap, Hannaniah","Medrano, Niarew Zhei",NO,F,06/27/2018,01/10/2019,7,68.4,6,N,N,N
+19,2898 Purok 4,"Lubi, Maridel Joyce","Lubi, Althea Nicole",NO,F,05/09/2018,01/10/2019,9.2,72,8,N,N,N
+20,Purok 4,"De Ada, Jimsy","Basera, Jaimie Loraine",NO,F,02/10/2017,01/10/2019,11.3,87,23,N,N,N
+21,Purok 4,"Cerezo, Jaira","Cerezo, Princess Alleya",NO,F,07/08/2017,01/10/2019,10.6,79,18,N,N,N
+22,Purok 4,"Maquera, Marife","Maquera, Ramjohn Cesar",NO,M,08/07/2016,01/10/2019,13.2,93.4,29,N,N,N
+23,Purok 4,"Stevens, Janice","Stevens, Jahzel",NO,M,10/16/2016,01/10/2019,11,87.5,26,N,N,N
+24,Purok 4,"Stevens, Ruth","Stevens, Sabrina Faye",NO,F,11/23/2014,01/10/2019,18,103,49,N,N,N
+25,2904 Purok 4,"Zapanta, Marayah Angelica","Zapanta, Allianah Mae",NO,F,02/29/2016,01/10/2019,14,95.6,34,N,N,N
+26,2864 Purok 4,"Holgado, Chloe Klein","Holgado, Khalid Zion",NO,M,03/22/2018,01/12/2019,8.6,71,9,N,N,N
+27,2856 Purok 4,"David, Rose Ann","Elec, Frederick James",NO,M,07/25/2014,01/12/2019,18,109.5,53,N,N,N
+28,2856 Purok 4,"David, Rose Ann","Elec, Nichole Anne",NO,F,10/06/2016,01/12/2019,11.2,87,27,N,N,N
+29,2864 Purok 4,"Elec, Chloi Klein","Elec, Keiandra Rein",NO,F,04/20/2015,01/12/2019,13,98.3,44,N,N,N
+30,Purok 4,"Empinado, Jocelyn","Empinado, Divine Zoila",NO,F,03/16/2017,01/12/2019,11,84.6,21,N,N,N
+31,Purok 4,"Dino, Emily","Fajardo, Dan Raijin",NO,M,08/16/2017,01/12/2019,10.2,80,16,N,N,N
+32,2896 Purok 4,"Jamile, Leslie","Jamile, Elijien",NO,M,10/28/2014,01/12/2019,15,103,50,N,N,N
+33,2896 Purok 4,"Jamile, Leslie","Jamile, Elisse",NO,F,06/08/2017,01/12/2019,8.5,79,19,N,N,N
+34,Purok 4,"Dumaicos, Queenie Domes","Jandoquille, Carl Quentt",NO,M,04/08/2017,01/12/2019,10.8,84,21,N,N,N
+35,Purok 4,"Stevens, Raquele","Oca, Venus Francine",NO,F,04/27/2017,01/12/2019,12,87.7,20,N,N,N
+36,2892 Purok 4,"Solinap, Hannaniah","Medrano, Nick Andrew",NO,M,01/19/2017,01/12/2019,11.6,86,23,N,N,N
+37,2916 Purok 4,"Remojo, Liezl","Remojo, Khian",NO,M,06/02/2017,01/12/2019,10.7,80,19,N,N,N
+38,Purok 4,"Lantican, Jacklyn","Lantican, Kiel Russel",NO,M,09/04/2015,01/12/2019,19.2,105,40,N,N,N
+39,Purok 4,"Gibe, Marcadette","Gibe, Kiezha Cassandra",NO,F,10/04/2017,01/12/2019,9.7,76,15,N,N,N
+40,2946 Purok 4,"Palermo, Jocelyn","Bigcas, Francis Jose",NO,M,01/19/2015,01/12/2019,16,103,47,N,N,N
+41,2954 Purok 4,"Matundan, Geraldine","Matundan, Third Gabriel",NO,M,09/19/2017,01/12/2019,9,75.6,15,N,N,N
+42,Purok 4,"Rodriguez, Myriam","Rodriguez, Kaillie Anne",NO,F,09/14/2014,01/12/2019,13,97.8,51,N,N,N
+43,Purok 4,"Suralta, Jovilyn","Suralta, Jahzara Brenly",NO,F,09/28/2017,01/12/2019,10,75,15,N,N,N
+44,Purok 4,"Bueno, Noreen","Bueno, Ethan Skyler",NO,M,09/29/2017,01/12/2019,9.7,80,15,N,N,N
+45,Purok 4,"Bueno, Noreen","Bueno, Cassandra Ysabel",NO,F,03/29/2016,01/12/2019,14,95.6,33,N,N,N
+46,Purok 4,"Manlapaz, Naomi","Pelegrina, Zoey",NO,F,12/23/2015,01/12/2019,16,100.5,36,N,N,N
+47,Purok 4,"Sarmiento, Rowena","Medrana, Analiazette Sitti Gold",NO,F,10/03/2014,01/12/2019,15,100.4,51,N,N,N
+48,Purok 4,"Velasco, Ivee","Cadayuna, Precious Beth",NO,F,12/02/2015,01/12/2019,12.6,98,37,N,N,N
+49,Purok 4,"Martin, Luzviminda","Martin, Princess Lara",NO,F,03/11/2014,01/12/2019,19,115.5,58,N,N,N
+50,3018 Purok 4,"Pado, Laica","Pado, Jayson Jr.",NO,M,08/12/2016,01/12/2019,11,84.5,29,N,N,N
+51,3018 Purok 4,"Pado, Laica","Pado, Jaica Mae",NO,F,07/20/2014,01/12/2019,13.5,100,53,N,N,N
+52,Purok 4,"Ablaza, Yna Catalina","Cleto, Cheena Ymara",NO,F,12/05/2015,01/12/2019,13,97,37,N,N,N
+53,Purok 4,"Mendoza, Madey","Mendoza, Princess Mitch",NO,F,09/28/2015,01/12/2019,15,92,39,N,N,N
+54,Purok 5,"Lozano, Maria Cristina","Lozano, Lovely Joy",NO,F,02/14/2015,01/18/2019,15.6,104,47,N,N,N
+55,Purok 5,"Lopez, Carmela","Lopez, Chloe Ann",NO,F,01/03/2016,01/18/2019,15,100.5,36,N,N,N
+56,Purok 5,"Linato, Reinalyn","Linato, Jhayvler",NO,M,09/01/2014,01/18/2019,16,103,52,N,N,N
+57,Purok 5,"Ponso, Katherine","Ponso, Jamwel Kurt",NO,M,09/08/2015,01/18/2019,17,103.7,40,N,N,N
+58,Purok 5,,"Sacdalan, Princess Bhasilia",NO,F,05/26/2014,01/18/2019,16.5,102,55,N,N,N
+59,Purok 5,"Redondo, Angela","Cordero, Eirin John",NO,M,11/28/2015,01/18/2019,18.5,101.5,37,N,N,N
+60,Purok 5,"Estonilo, Maria April Grace","Estonilo, Rafaelle Alein",NO,M,05/04/2014,01/18/2019,15,106,56,N,N,N
+61,Purok 5,"San Esteban, Cathleen","Lawas, Ivan Miguel",NO,M,11/26/2014,01/18/2019,21.2,110.6,49,N,N,N
+62,Purok 5,"Ligero, Merlisa","Ligero, Mikhael Antonio",NO,M,11/22/2015,01/18/2019,13.5,93.5,37,N,N,N
+63,Purok 5,"Marco, Melody","Marco, Christine Joy",NO,F,12/06/2015,01/18/2019,17.5,102.5,37,N,N,N
+64,Purok 5,"Lim, Ma. Chesca","Lim, Ma. Anneuella Sophie",NO,F,06/05/2016,01/18/2019,12.6,98,31,N,N,N
+65,Purok 5,"Mejia, Mary Grace","Magora, Hailie Maddy",NO,F,09/21/2015,01/18/2019,16,99.5,39,N,N,N
+66,Purok 5,"Moral, Sarah Jane","Moral, Zofia Allery",NO,F,12/06/2016,01/18/2019,11,82,25,N,N,N
+67,Purok 5,"Genil, Sunshine","Perfecto, Shamilcah Jeremie",NO,M,06/11/2016,01/18/2019,15,96,31,N,N,N
+68,Purok 5,"Reyes, Lyris","Reyes, Oscar",NO,M,04/01/2015,01/18/2019,20,107,45,N,N,N
+69,Purok 5,"Sulla, Ma. Kristina","Serfino, Kimberly Claire",NO,F,08/26/2014,01/18/2019,13,98,52,N,N,N
+70,Purok 5,"Buenavista, Antoneth","Servito, Precious Saphire",NO,F,07/31/2015,01/18/2019,16,102,41,N,N,N
+71,Purok 5,"Villar, Lorraine","Villar, Caleb Franco Laurence",NO,M,03/13/2014,01/18/2019,19,110,58,N,N,N
+72,Purok 5,"Villar, Sarah Kay","Villar, Mary Shantal",NO,F,04/06/2014,01/18/2019,19.6,111,57,N,N,N
+73,Purok 5,"Moral, Kathleen","Moral, Mackenzie Aiden Keith",NO,M,04/13/2016,01/18/2019,13,93.5,33,N,N,N
+74,Purok 5,"Anglo, Aggie","Anglo, Godiel Isaac",NO,M,04/17/2014,01/18/2019,21,112,57,N,N,N
+75,Purok 5,"Bautista, Joy","Bautista, Georgina Rhille",NO,F,04/17/2015,01/18/2019,15.6,98.6,45,N,N,N
+76,Purok 5,"Bigyan, Patricia","Bigyan, Jeorgina",NO,F,03/12/2015,01/18/2019,15,97,46,N,N,N
+77,Purok 5,"Reyes, Kelly","Canilao, Patricia Ivy",NO,F,12/08/2016,01/18/2019,10.6,86,25,N,N,N
+78,3021 Purok 5,"Tamayo, Jelynne","Cordoba, Jonnel Almanzo",NO,M,06/23/2016,01/18/2019,11.6,91.5,30,N,N,N
+79,Purok 5,"Gallega, April","Gallega, Phoenix Francis Cloud",NO,M,04/21/2015,01/18/2019,14.6,99.7,44,N,N,N
+80,Purok 5,"Cunma, Joyce","Gulay, Sofia Vernyce",NO,F,10/28/2015,01/18/2019,13.4,97,38,N,N,N
+81,3205 Purok 5,"Reformado, Janine","Heredia, Atheana Cleo",NO,F,11/14/2016,01/18/2019,10.8,90.5,26,N,N,N
+82,Purok 5,"Rino, Yamine Amor","Alvarez, Beau Kyrie Billy",NO,M,08/27/2014,01/18/2019,19.7,105.3,52,N,N,N
+83,3271 Purok 5,"Bataan, Jocelyn","Licodine, Rheyvan",NO,M,06/07/2016,01/18/2019,12.8,96,31,N,N,N
+84,Purok 5,"Borata, Zaira","Suñega, Jared Christopher",NO,M,10/19/2014,01/18/2019,18.3,102.5,50,N,N,N
+85,Purok 5,"Domingo, Judith","Unson, Natacia Jae",NO,F,04/01/2014,01/18/2019,20.5,112,57,N,N,N
+86,Purok 5,"Rivera, Monalisa","Rivera, Paul Emerson",NO,M,09/25/2014,01/18/2019,15.6,110,51,N,N,N
+87,Purok 5,"Lalap, Vichel","Lalap, Chelsea",NO,F,04/13/2014,01/18/2019,17,113.5,57,N,N,N
+88,Purok 5,"Brazal, Nelisa","Brazal, Maria Cattaleya",NO,F,10/13/2015,01/18/2019,14,98.5,39,N,N,N
+89,Purok 5,"Ambrocio, Ma. Angelica","Lorilla, Zyrus Peter",NO,M,06/10/2014,01/18/2019,14.5,99,55,N,N,N
+90,Purok 5,"Trinidad, Chrisna","Trinidad, Macy",NO,F,06/09/2016,02/01/2019,16.2,97,31,N,N,N
+91,Purok 5,"Barrameda, Gretchen Senita","Barrameda, Daniel Jay",NO,M,09/13/2018,02/01/2019,8,64.5,4,N,N,N
+92,Purok 5,"Tino, Grace","Tino,Jacob Mathew",NO,M,07/26/2017,02/01/2019,10.5,82.5,18,N,N,N
+93,Purok 5,"Labrador, Josephine","Labrador, Janaiah Kyrine",NO,F,01/19/2019,02/01/2019,3.6,48,0,N,N,N
+94,Purok 5,"Lorilla, Russelle","Bautista, Athena Jane",NO,F,06/08/2018,02/01/2019,7.9,68,7,N,N,N
+95,Purok 5,"Rexserra, Deza Reynancia","Rexserra, Alexander",NO,M,05/19/2017,02/01/2019,10.6,85,20,N,N,N
+96,Purok 5,"Sacdalan, Rachelle","Ramos, Allen Iverson",NO,M,09/03/2017,02/01/2019,11,81.6,16,N,N,N
+97,Purok 5,"Ramil, April","Ramil, Lotus Elise",NO,F,06/04/2017,02/01/2019,9.5,84.6,19,N,N,N
+98,Purok 5,"Amutan, Meramie","Bayona, Miel Pauleene",NO,F,03/24/2018,02/01/2019,9.4,73.2,10,N,N,N
+99,Purok 5,"Villar, Eliosa","Nebreja, Cian",NO,M,05/04/2018,02/01/2019,9.5,72.5,8,N,N,N
+100,3097 Purok 5,"Echapare, Jeralyn","Abraham, Morjelyn",NO,F,05/04/2018,02/01/2019,9,71.6,8,N,N,N
+101,3227 Purok 5,"Regecia, Brithney","Carandang, Ma. Ethera Fayette",NO,F,06/15/2018,02/01/2019,8,69.7,7,N,N,N
+102,3051 Purok 5,"Bonador, Catrina","Bonador, Xandre Genesis Sam",NO,M,09/20/2018,02/01/2019,6.5,64.5,4,N,N,N
+103,3405 Purok 5,"Reformado, Jinny","Reformado, Zamantha Yvonne",NO,F,09/06/2018,02/01/2019,6,64,4,N,N,N
+104,Purok 5,"Perez, Belinda","Perez, Rylen Rain",NO,F,09/13/2018,02/01/2019,6.6,65,4,N,N,N
+105,3137 Purok 5,"Liwanag, Kyla Gaile","Gathercole, Kyine Scottish",NO,M,12/05/2018,02/01/2019,4,52.5,1,N,N,N
+106,Purok 5,"Fernandez, Margareth","Barrion, Zydrick Skye",NO,M,08/30/2018,02/01/2019,7.6,68.5,5,N,N,N
+107,Purok 5,"Fernandez, Margareth","Barrion, Kiernan Rein",NO,M,08/23/2017,02/01/2019,10.7,80.1,17,N,N,N
+108,Purok 5,"Dumbrique, Gerlie","Dumbrique, Eleandre Gabriel",NO,M,07/12/2018,02/01/2019,7,67,6,N,N,N
+109,3097 Purok 5,"Abraham, Robina","Roldan, Dxxie Reign",NO,F,01/11/2019,02/01/2019,3.5,48.6,0,N,N,N
+110,3123 B Purok 5,"Chavez, Carmela May Divina","Chavez, Prince Charlie",NO,M,01/25/2019,02/01/2019,4,52.7,0,N,N,N
+111,Purok 6,"Pulvera, Rodalyn","Pulvera, Khrishia Jewel",NO,F,10/13/2014,02/01/2019,13,104,51,N,N,W
+112,3142 Purok 6,"Binaday, Arlene","Binaday, Angelo Ghil",NO,M,06/25/2016,02/01/2019,14,94,31,N,N,N
+113,3072 Purok 6,"Quiñones, Cindy","Quiñones, Joshua Raim",NO,M,11/12/2014,02/01/2019,19.5,112.5,50,N,N,N
+114,3072 Purok 6,"Quiñones, Cindy","Quiñones, Caleb Daniel",NO,M,11/26/2016,02/01/2019,12,95,26,N,N,N
+115,Purok 6,"Dela Cruz, Adeleine","Dela Cruz, Kenshin",NO,M,10/21/2015,02/01/2019,14,94,39,N,N,N
+116,Purok 6,"Nillas, Marry Rose","Nillas, Maria Seirin",NO,F,10/15/2016,02/01/2019,13,90.5,27,N,N,N
+117,Purok 6,"Simbulan, Fermina","Simbulan, Clarence",NO,M,03/25/2015,02/01/2019,16,106.5,46,N,N,N
+118,Purok 6,"Timbreza, Carissa Mae","Timbreza, Erisse Hailey",NO,F,04/16/2016,02/05/2019,15.5,100,33,N,N,N
+119,Purok 6,"Bitara, Fatima","Bitara, Angelica Faith",NO,F,03/10/2016,02/05/2019,16,101,34,N,N,N
+120,Purok 6,"Dino, Emily","Fajardo, Quincy Thea",NO,F,05/14/2014,02/05/2019,17,108,56,N,N,N
+121,Purok 6,"Nalupa, Teresa","Nalupa, Vali Timothy",NO,M,05/12/2015,02/05/2019,14.6,106,44,N,N,N
+122,Purok 6,"Talay, Rosalyn","Talay, Ramyer Nyl",NO,M,07/22/2016,02/05/2019,11,84,30,N,St,N
+123,Purok 6,"Macaro, Yohanna Mei","Talay, Jeymei Eynnah",NO,F,03/17/2015,02/05/2019,11,90,46,UW,St,N
+124,Purok 6,"Dalisay, Cleofe","Talay, Princess Thosscca",NO,F,05/04/2016,02/05/2019,14.5,98,33,N,N,N
+125,Purok 6,"Dalisay, Cleofe","Talay, Cleijohn",NO,M,12/25/2014,02/05/2019,16,101,49,N,N,N
+126,Purok 6,"Alanan, Anie Anne","Cortez, Princess Anne",NO,F,03/04/2015,02/05/2019,15,105,47,N,N,N
+127,Purok 6,"Alanan, Anie Anne","Cortez, Rose Anne",NO,F,04/05/2016,02/05/2019,13,100,34,N,N,N
+128,3399 Purok 6,"Catilo, Irish","Quimpo, Francis Gabriel",NO,M,10/29/2014,02/05/2019,17,109,51,N,N,N
+129,3403 Purok 6,"Anda, Zarah Jane","Anda, Ameerah Lexine",NO,F,08/13/2015,02/05/2019,18,106,41,N,N,N
+130,Purok 6,"Servito, May","Riaz, Noorulain",NO,F,07/07/2014,02/05/2019,18.5,105,54,N,N,N
+131,Purok 6,"Servito, May","Riaz, Soliman",NO,M,04/14/2018,02/05/2019,10,73.5,9,N,N,N
+132,Purok 6,"Magundayao, Dome Rose","Arlegui, Kent Afriel",NO,M,07/09/2015,02/08/2019,18,107,42,N,N,N
+133,Purok 6,"Monleon, Elvira","Pacanas, Jiromite",NO,M,05/21/2014,02/08/2019,16,106,56,N,N,N
+134,Purok 6,"Monleon, Elvira","Pacanas, John Railey",NO,M,08/02/2015,02/08/2019,13,97,42,N,N,N
+135,Purok 6,"Atali, Aleyah","Atali, Aqeefah",NO,F,03/30/2015,02/08/2019,14,99.5,46,N,N,N
+136,Purok 6,"Torres, Analyn","Austria, Janah",NO,F,11/20/2016,02/08/2019,11.5,91.5,26,N,N,N
+137,Purok 6,"Simbulan, Fermina","Ballesteros, Lareece Anne",NO,F,07/18/2014,02/08/2019,16.5,104,54,N,N,N
+138,Purok 6,"Lagahit, Rina Lou","Barreda, John Clarence",NO,M,10/01/2016,02/08/2019,11.5,89.6,28,N,N,N
+139,Purok 6,"Cabauatan, Jermaine","Cabauatan, Shawn Clyde",NO,M,04/20/2016,02/08/2019,15,98,33,N,N,N
+140,Purok 6,"Samson, Tricia","Cruzana, Rayven Vince",NO,M,10/07/2016,02/08/2019,12.6,89,28,N,N,N
+141,Purok 6,"Laman, Antonette","Dimaano, Haraya",NO,F,10/14/2014,02/08/2019,16.3,106,51,N,N,N
+142,Purok 6,"Gatpolintan, Analie","Gatpolintan, Angela",NO,F,10/03/2015,02/08/2019,15.7,103.5,40,N,N,N
+143,Purok 6,,"Laco, Ismael",NO,M,12/04/2014,02/08/2019,16,105,50,N,N,N
+144,Purok 6,,"Laco, Princess Johara",NO,F,07/15/2015,02/08/2019,14.3,97,42,N,N,N
+145,Purok 6,"Laco, Reynalyn","Laco, Isnairah",NO,F,06/03/2016,02/08/2019,12.6,85,32,N,N,N
+146,Purok 6,"Lazaro, Moricel","Lazaro, Drew Iñigo",NO,M,04/20/2014,02/08/2019,22,113,57,N,N,N
+147,Purok 4,"Malapitan, Camille","Malapitan, Carylle Ashia",NO,F,01/13/2019,03/01/2019,5,57,1,N,N,N
+148,2994 Purok 4,"Ablaza, Yna Catalina","Ablaza, Ceeyan Yzaki",NO,M,04/07/2018,03/01/2019,9.5,73.5,10,N,N,N
+149,2930 Purok 4,"Bautista, Carmela","Bautista, Prince Jeff",NO,M,06/11/2018,03/01/2019,7.5,70.2,8,N,N,N
+150,Purok 4,"Mendoza, Madey","Mendoza, Madison Jade",NO,F,09/19/2018,03/01/2019,8,67,5,N,N,N
+151,Purok 4,"Mercado, Cherry","Rivera, Erich",NO,F,09/24/2018,03/01/2019,8.3,67.5,5,N,N,N
+152,3228 Purok 4,"Panes, Lani","Panes, Asiana",NO,F,10/04/2018,03/01/2019,6.5,62.5,4,N,N,N
+153,Purok 4,"Velasco, Ivee","Cadayuna, Patricia",NO,F,12/12/2018,03/01/2019,5.4,59.2,2,N,N,N
+154,2964 Purok 4,"Bartilet, Ana Liza","Guban, Arvin Cristoph",NO,M,07/26/2018,03/01/2019,8,70,7,N,N,N
+155,Purok 4,"Vito, Judith","Vito, Ethan Sam",NO,M,08/07/2018,03/01/2019,7.6,68.6,6,N,N,N
+156,Purok 4,"Canape, Marimar","Pancho, Rhian Mitch",NO,F,02/12/2019,03/01/2019,3.2,48.6,0,N,N,N
+157,Purok 4,"De Guia, Verona","De Guia, Juvedy Felin",NO,F,01/17/2019,03/01/2019,3.4,51.5,1,N,N,N
+158,Purok 4,"Ibañez, Jerel Anne","Ibañez, Princess Anne",NO,F,08/02/2017,03/01/2019,10.2,85.6,18,N,N,N
+159,Purok 4,"Atole, Monica","Lawas, Kymon Daine",NO,M,09/25/2017,03/01/2019,13.1,85,17,N,N,N
+160,Purok 4,"Manahan, Angelita","Mundin, Rhaine",NO,M,11/11/2017,03/01/2019,10.5,83.2,15,N,N,N
+161,2919 Purok 5,"Maranan, Aprilyn","Banatlao, Carllyn",NO,F,03/05/2018,03/01/2019,9.6,75,11,N,N,N
+162,3261 Purok 5,"Trespalacio, Gemmalyn","Trespalacio, Maja Ysabel",NO,F,04/18/2018,03/01/2019,9,74.5,10,N,N,N
+163,Purok 5,"Bigyan, Patricia","Bigyan, Jeoprix",NO,M,01/14/2018,03/01/2019,10.2,72.5,13,N,N,N
+164,3215 Purok 5,"Andaya, Gemma","Andaya, Denver Cairo",NO,M,08/16/2017,03/01/2019,12,85.5,18,N,N,N
+165,Purok 5,"Escarez, Jenny Mae","Escarez, Enrique Jwqyn",NO,M,06/21/2018,03/01/2019,9.6,72.6,8,N,N,N
+166,Purok 5,"Gapas, Flordaliza","Gapas, Miliaza Eunice",NO,F,02/26/2017,03/01/2019,12,92,24,N,N,N
+167,Purok 5,"Lalap, Vichel","Lalap, Cherwin",NO,M,11/12/2018,03/01/2019,5,59.5,3,N,N,N
+168,3229 Purok 5,"Suiton, Irine","Suiton, Oceanne Rhys",NO,F,05/26/2018,03/01/2019,9.2,72.6,9,N,N,N
+169,3239 Purok 5,"Castañeda, Venus","Castañeda, Caio",NO,M,07/15/2018,03/01/2019,8,67.5,7,N,N,N
+170,3239 Purok 5,"Castañeda, Venus","Castañeda, Caius",NO,M,07/15/2018,03/01/2019,8.4,68,7,N,N,N
+171,Purok 5,"Brazal, Nelisa","Brazal, Moana Isabela",NO,F,01/06/2018,03/01/2019,10.6,73.5,13,N,N,N
+172,Purok 5,"Bacalocating, Jennyveth","Bacalocating, Julsen",NO,F,01/06/2017,03/07/2019,12,94,26,N,N,N
+173, Purok 5,"Ceda, Chara","Dilan, Philippe Alexandre",NO,M,06/30/2017,03/07/2019,11.5,81,20,N,N,N
+174,Purok 5,"Andaya, May Aritcheta","Himantog, Francis Nell",NO,M,06/05/2017,03/07/2019,13,84,21,N,N,N
+175,Purok 5,"Fajardo, Sarah Jean","Malitic, Ford Miller",NO,M,12/31/2017,03/07/2019,10,75.3,14,N,N,N
+176,Purok 5,"Olivarez, Vita Mae","Olivarez, Euben Paul Andrie",NO,M,05/23/2017,03/07/2019,13.5,85,21,N,N,N
+177,3219 Purok 5,"Romero, Ma. Theresa","Romero, Jethroe Efhraim",NO,M,11/28/2017,03/07/2019,11,82,15,N,N,N
+178,3263 Purok 5,"Santos, Annie Mei","Santos, Lucas Antonio",NO,M,06/20/2017,03/07/2019,10.7,83.5,20,N,N,N
+179,Purok 5,"De Mesa, Marilou","Lawas, Jhaymar",NO,M,12/04/2017,03/07/2019,11.6,82.6,15,N,N,N
+180,Purok 6,"Vela, Adeleine","Dela Cruz, Raishin Summer",NO,F,06/01/2017,03/07/2019,12,84,21,N,N,N
+181,Purok 6,"Timbreza, Carissa Mae","Timbreza, Anieca Elisse",NO,F,05/10/2018,03/07/2019,10,74,9,N,N,N
+182,Purok 6,"Navales, Vangie","Navales, Mark Angelo",NO,M,07/28/2018,03/07/2019,9,67,7,N,N,N
+183,Purok 6,"Fortuna, Perly","Fortuna, Crisman Jr.",NO,M,01/03/2019,03/07/2019,5,59,2,N,N,N
+184,3406 Purok 6,"Orulfo, Cherry Ann","Rufo, Alonzo Brye",NO,M,01/07/2019,03/07/2019,5.5,58,2,N,N,N
+185,Purok 6,"Malig-on, Ennie","Cagamcam, Dylan Lei",NO,M,10/27/2018,03/07/2019,6,62.4,4,N,N,N
+186,Purok 6,"Idalo, Krischel","Cablas, Jhon Cris",NO,M,10/28/2017,03/07/2019,10,81,16,N,N,N
+187,Purok 6,"Monleon, Elvira","Pacanas, John Lennon",NO,M,02/18/2019,03/07/2019,3.6,51,0,N,N,N
+188,Purok 6,"Berin, Jonna Alyssa","Berin, Rajah Achiles",NO,M,01/13/2018,03/07/2019,9.5,76,13,N,N,N
+189,Purok 6,"Dalisay, Bettina Mari","Dalisay, Serin Felice",NO,F,03/01/2018,03/07/2019,9,72,12,N,N,N
+190,Purok 6,"Tigue, Roselle","Tigue, Athan Kristoff",NO,M,03/30/2018,03/07/2019,9,72.3,11,N,N,N
+191,Purok 6,"Savante, Lyra Jean","Asilo, Amiel Mcfinn",NO,M,03/21/2018,03/07/2019,10,74.6,11,N,N,N
+192,Purok 6,"Maute, Samanoding","Maute, Mohammad Ashraf",NO,M,04/19/2018,03/07/2019,8.7,70,10,N,N,N
+193,3415 Purok 6,"Yambao, Jez Patricia","Yambao, Johna Cleo",NO,F,04/25/2018,03/07/2019,9.3,73,10,N,N,N
+194,3380 Purok 6,"Lawas, Jenifer","Lawas, Elle Jaye",NO,F,05/23/2018,03/07/2019,8,68,9,N,N,N
+195,Purok 6,"Gatpolintan, Charlene","Clerigo, Aron Zack",NO,M,06/03/2018,03/07/2019,9,70,9,N,N,N
+196,3373 Purok 6,"Elomina, Madel","Elomina, Elaisa Trinity",NO,F,06/12/2018,03/07/2019,8.6,71,8,N,N,N
+197,Purok 6,"Albay, Jovilyn","Albay, Xavier Joaquin",NO,M,06/08/2018,03/07/2019,8.7,72.4,8,N,N,N
+198,Purok 6,"Lawas, Maricris","Lawas, Elisha Loreen",NO,F,06/29/2018,03/07/2019,8.8,71,8,N,N,N
+199,3359 Purok 6,"Parpan, Anna Theresa","Parpan, Annicco",NO,F,11/09/2018,03/07/2019,6,60,3,N,N,N
+200,Purok 6,"Alforja, Cherry May","Pingol, Maria Francheska",NO,F,09/25/2018,03/07/2019,7,64,5,N,N,N
+201,Purok 6,"Estrellan, Weena Vi","Icao, Rylai Wynther",NO,M,10/03/2018,03/07/2019,7.2,65,5,N,N,N
+202,2906 Purok 6,"Peñaflor, Dimples","Gatpolintan, Alliyah Winslet",NO,F,11/12/2018,03/07/2019,5.5,59,3,N,N,N
+203,Purok 6,"Abdul, Samira","Maute, Asnima",NO,F,11/26/2018,03/07/2019,6,61,3,N,N,N
+204,3401 Purok 6,"Caballero, Jayselle","Alfero, Ethan Carter",NO,M,11/01/2018,03/07/2019,7,65,4,N,N,N
+205,3118 Purok 6,"Duque, JP Roma","Duque, Josue Luis",NO,M,12/17/2018,03/07/2019,5.4,58,2,N,N,N
+206,3334 Purok 6,"Garcia, Lovely","Garcia, Rome Lyon",NO,M,08/22/2018,03/07/2019,7,68,6,N,N,N
+207,Purok 6,"Aguirre, Gina","Aguirre, Aaron",NO,M,01/04/2018,03/08/2019,11,82,14,N,N,N
+208,Purok 6,"Acheta, Aiza","Ancheta, Thirdy Johannah",NO,M,03/08/2017,03/08/2019,15,92,24,N,N,N
+209,Purok 6,"Mosquera, Ester","Barreda, Aiko James",NO,M,04/06/2017,03/08/2019,13.5,87,23,N,N,N
+210,Purok 6,"Barreda, Bernadette","Costa, Briolliona Dianna Mae",NO,F,08/31/2017,03/08/2019,12.6,83.4,18,N,N,N
+211,Purok 6,"Dela Cruz, Hazel","Dela Cruz, Jared Hale",NO,M,11/25/2017,03/08/2019,10.5,81,15,N,N,N
+212,Purok 6,"Delos Reyes, Delma","Delos Reyes, Elianah Francia",NO,F,11/15/2017,03/08/2019,12.3,82,15,N,N,N
+213,Purok 6,"Laman, Antonette","Dimaano, Mayari",NO,F,12/04/2017,03/08/2019,11.5,80,15,N,N,N
+214,Purok 6,"Quizon, Valerie","Faylona, Jhin Hailey",NO,F,04/28/2017,03/08/2019,14,89,22,N,N,N
+215,Purok 6,"Festejo, Merinisa","Festejo, Matteo Vaughn",NO,M,04/29/2017,03/08/2019,14.6,90,22,N,N,N
+216,Purok 6,"Zata, Elmira","Gibas, Westley",NO,M,10/28/2017,03/08/2019,10.6,80,16,N,N,N
+217,Purok 6,"Bagos, Jonalyn","Jung, Yesol",NO,M,02/09/2017,03/08/2019,14.5,93,24,N,N,N
+218,Purok 6,"Luzon, Rose Ann","Luzon, Thea Rose",NO,F,07/29/2017,03/08/2019,13.4,87,19,N,N,N
+219,Purok 6,"Malinao, Marianne","Malinao, Lizzie Brielle",NO,F,09/13/2017,03/08/2019,12.6,85.4,17,N,N,N
+220,Purok 6,,"Maute, Sasha Pauleen",NO,F,06/17/2014,03/08/2019,20,111.5,56,N,N,N
+221,Purok 6,"Mejia, Krishna Ada","Mejia, Aen Rya",NO,F,05/11/2017,03/08/2019,12.5,89.6,21,N,N,N
+222,Purok 6,"Parala, Marinette","Parala, Matthew",NO,M,04/13/2014,03/08/2019,21,113,58,N,N,N
+223,Purok 6,"Esmenda, Gemma","Peñero, Jordan James",NO,M,01/05/2018,03/08/2019,12.6,82,14,N,N,N
+224,Purok 6,"Esmenda, Gemma","Peñero, Rich Ron",NO,M,06/09/2016,03/08/2019,16.3,94,32,N,N,N
+225,Purok 6,,"Punda, Summayah",NO,F,08/04/2014,03/08/2019,18.6,102.5,55,N,N,N
+226,Purok 6,"Sanchez, Hermenegildo","Sanchez, Ray John",NO,M,05/30/2014,03/08/2019,22,113.5,57,N,N,N
+227,Purok 6,"Valencia, Yzabelle Grace","Valencia, Yohan Miguel",NO,M,10/09/2017,03/08/2019,12.6,83.4,16,N,N,N
+228,Purok 6,"Villanueva, Arceli Tala","Villanueva, Luis Emanuel",NO,M,05/19/2017,03/08/2019,13.6,87.5,21,N,N,N
+229,Purok 6,"Villanueva, Mary Grace","Villanueva, Prinze Estefan",NO,M,07/24/2015,03/08/2019,19.5,103.4,43,N,N,N
+230,Purok 6,"Dela Cruz, Cheryl Ann","Ybanez, Princess Ann",NO,F,08/02/2017,03/08/2019,12.6,86.3,19,N,N,N
+231,Purok 7,"Dalguntas, Shirlie","Dalguntas, John Ace",NO,M,01/13/2018,03/21/2019,11,77,14,N,N,N
+232,Purok 7,"Castillo, Joyce Louise","Castillo, Lucas Rey",NO,M,02/11/2018,03/21/2019,10.4,76.4,13,N,N,N
+233,Purok 7,"Nadignon, Cecile","Bodoy, Richell Ann",NO,F,01/26/2019,03/21/2019,5,56,1,N,N,N
+234,Purok 7,"Patron, Rizel","Patron, Maliah Ysabelle",NO,F,07/08/2018,03/21/2019,7.6,72.5,8,N,N,N
+235,Purok 7,"Inamarga, Jezebel","Estañero, Marcus",NO,M,08/14/2018,03/21/2019,7,67.6,7,N,N,N
+236,Purok 7,"Evangelista, Lita","Evangelista, Uno Jose",NO,M,08/21/2018,03/21/2019,8,67,7,N,N,N
+237,Purok 7,"Panday, Karen","Alejandro, Mirakleyr",NO,F,08/30/2017,03/21/2019,12,81,18,N,N,N
+238,Purok 7,"Paras, Kristine Mae","Aragones, Kirsten Trebor",NO,M,03/02/2019,03/21/2019,4.2,52,0,N,N,N
+239,Purok 7,"Inamarga, Joan","Ablitas, Allen Zyrus",NO,M,04/25/2016,03/21/2019,16.5,97,34,N,N,N
+240,Purok 7,"Inamarga, Joan","Ablitas, Franchezka Sofia",NO,F,08/02/2017,03/21/2019,13.2,84.6,19,N,N,N
+241,Purok 7,"Macasinag, Maricar","Alfaro, Ma. Adeleine Grey",NO,F,11/23/2016,03/21/2019,15,93,27,N,N,N
+242,Purok 7,,"Almero, Tyron",NO,M,12/05/2015,03/21/2019,18,100,39,N,N,N
+243,Purok 7,"Lobos, Sherlyn","Andes, Sherwin Dale",NO,M,10/30/2014,03/21/2019,20.5,106,52,N,N,N
+244,Purok 7,"Cabarles, Cecille","Cabarles, Viel Elly",NO,M,09/23/2015,03/21/2019,18.6,101.3,41,N,N,N
+245,Purok 7,"Catapang, Maria Carina","Catapang, Cara Erika",NO,F,02/07/2017,03/21/2019,14.6,93.1,25,N,N,N
+246,Purok 7,"Jebulan, Nemia","Corporal, Aron Stephen",NO,M,01/24/2018,03/21/2019,10,78.2,13,N,N,N
+247,Purok 7,"Dalut, Melisa","Dalut, Aaliyah Samantha",NO,F,06/02/2016,03/21/2019,12.5,100,33,N,N,W
+248,Purok 7,"Dumagais, Marilyn","Dumagais, Adrian",NO,M,09/02/2017,03/21/2019,13.4,85,18,N,N,N
+249,Purok 7,"Elec, Jennylyn","Elec, Sophia Rose",NO,F,10/15/2016,03/21/2019,15.5,95,29,N,N,N
+250,Purok 7,"Anonuevo, Annaliza","Galang, Andrei",NO,M,01/05/2018,03/21/2019,10.6,80.5,14,N,N,N
+251,Purok 7,"Garcia, Vernie Liza","Garcia, Ethan Al",NO,M,08/10/2017,03/21/2019,12.6,81.5,19,N,N,N
+252,Purok 7,"Garcia, Minerva","Garcia, Macy",NO,F,01/17/2017,03/21/2019,15,92,26,N,N,N
+253,Purok 7,"Gecaro, Marites","Gecaro, Eunice",NO,F,05/10/2015,03/21/2019,13.5,104.5,46,N,N,W
+254,Purok 7,,"Gibe, Shid Rhanber",NO,M,12/22/2014,03/21/2019,21.6,110,50,N,N,N
+255,Purok 7,"Sabuyos, Rizalina","Ison, John Kenneth",NO,M,07/25/2016,03/21/2019,17,99.4,31,N,N,N
+256,Purok 7,"Soblaon, Laiza","Jazareno, Allaiza",NO,F,12/23/2016,03/21/2019,10.5,88,26,N,N,N
+257,Purok 7,"Dongon, Jesica","Levantocia, Ashley Jhade",NO,F,11/09/2014,03/21/2019,14,95.4,52,N,St,N
+258,Purok 7,"Daan, Yolalita","Levantocia, Jasper",NO,M,04/02/2015,03/21/2019,12.5,94.2,47,UW,St,N
+259,Purok 7,"Ibañez, Joyce Bhell","Licuanan, Remhineder",NO,M,05/13/2017,03/21/2019,13,83,22,N,N,N
+260,Purok 7,,"Macasinag, Jesusa Noelene",NO,F,12/27/2015,03/21/2019,13.5,98,38,N,N,N
+261,Purok 7,"Macasinag, Jennylyn","Macasinag, John Lucas",NO,M,10/30/2016,03/21/2019,11,92,28,N,N,W
+262,Purok 7,"Borabo, Jenifer","Macoll, Eion Gjord",NO,M,07/05/2017,03/21/2019,13.5,86,20,N,N,N
+263,Purok 7,"Medina, Mary Lynn","Medina, Jacob Alexander",NO,M,09/25/2017,03/21/2019,12.3,83,17,N,N,N
+264,Purok 7,"Mendoza, Virginia","Mendoza, Jessica",NO,F,10/29/2014,03/21/2019,16,104,52,N,N,N
+265,Purok 7,"Mercado, Grace","Mercado, John Raylie",NO,M,04/11/2015,03/21/2019,12,93,47,UW,St,N
+266,Purok 7,"Pan, Marilyn Sallador","Pan, Cedella Sari",NO,F,05/28/2016,03/21/2019,17,99.6,33,N,N,N
+267,Purok 7,"Passi, Maricel","Passi, Robby Nathan",NO,M,06/21/2017,03/21/2019,13.2,90.2,21,N,N,N
+268,Purok 7,"Cuaterno, Marilyn","Patron, Victoria Marie",NO,F,06/21/2014,03/21/2019,23,113.2,57,N,N,N
+269,Purok 7,"Pua, Aicell","Pua, Ashanty Kendra",NO,F,03/12/2017,03/21/2019,13.5,88.4,24,N,N,N
+270,Purok 7,"Rudio, Maria Margarita","Rudio, Zaionn Markus",NO,M,05/30/2016,03/21/2019,16.4,98.4,33,N,N,N
+271,Purok 7,"Macasinag, April","Saraza, France Ashiro Luis",NO,M,07/07/2017,03/21/2019,10.5,83.4,20,N,N,N
+272,Purok 7,"Dongon, Rodora","Sonia, Quen Athena",NO,F,04/09/2016,03/21/2019,17,97,35,N,N,N
+273,Purok 7,"Urriquia, Lealoe","Urriquia, Lyon Tyler Rex",NO,M,06/08/2016,03/21/2019,16.6,98.3,33,N,N,N
+274,Purok 7,"Yunting, Nelly","Yunting, Clay Ford",NO,M,11/26/2015,03/21/2019,15.5,96.2,39,N,N,N
+275,Purok 7,"Yunting, Michelle","Yunting, Faye",NO,F,09/20/2015,03/21/2019,17.4,102,42,N,N,N
+276,Purok 7,"Villaber, Michele","Yunting, Fionalyn",NO,F,11/06/2017,03/21/2019,12,80,16,N,N,N
+277,,,"Bartillo, Samy",NO,M,06/21/2014,03/21/2019,20,113.4,57,N,N,N
+278,,,"Collantes, Jhay Anne",NO,F,05/26/2014,03/21/2019,21.4,112.5,57,N,N,N
+279,,,"Cruz, Russell Kobie",NO,M,08/27/2014,03/21/2019,19.8,111.5,54,N,N,N
+280,,,"Dardo, Ada Nicole",NO,F,07/17/2014,03/21/2019,19,110.2,56,N,N,N
+281,,,"De Leon, Stephan Ezekiel",NO,M,10/20/2014,03/21/2019,18.6,101.6,53,N,N,N
+282,,,"Delos Reyes, Anthonette",NO,F,12/22/2014,03/21/2019,19.4,105,50,N,N,N
+283,,,"Doma, Adriel",NO,M,04/05/2014,03/21/2019,23.4,116.2,59,N,N,N
+284,,,"Joval, Athena",NO,F,07/18/2014,03/21/2019,17.6,106.2,56,N,N,N
+285,,,"Lapiz, Jannah Michaella",NO,F,01/21/2015,03/21/2019,18.2,101,50,N,N,N
+286,,,"Legaspi, Mattie",NO,F,08/15/2014,03/21/2019,21.3,113.2,55,N,N,N
+287,,,"Magnaye, Zabrina",NO,F,09/18/2014,03/21/2019,19,104,54,N,N,N
+288,,,"Martelino, Louis Cross",NO,M,09/25/2014,03/21/2019,17.6,105.2,53,N,N,N
+289,,,"Pablo, Seth Jairus",NO,M,04/20/2014,03/21/2019,23.4,116,59,N,N,N
+290,,,"Responso, Dan Jabez Gabriel",NO,M,06/03/2015,03/21/2019,16.5,107,45,N,N,N
+291,,,"Sabiñano, Sabrina Shayle",NO,F,06/01/2014,03/21/2019,20.5,114,57,N,N,N
+292,,,"Samson, Cael Wylchester",NO,M,12/16/2014,03/21/2019,18.4,106,51,N,N,N
+293,,,"San Valentin, Arkhiel Paul",NO,M,10/28/2014,03/21/2019,16.6,103,52,N,N,N
+294,,,"Ternate, Athena",NO,F,09/23/2014,03/21/2019,19,104,53,N,N,N
+295,,,"Tribdino, Krisshina",NO,F,09/05/2014,03/21/2019,21.6,113.5,54,N,N,N
+296,,,"Valderama, Allan Ventura Jr.",NO,M,04/01/2014,03/21/2019,23.1,116.2,59,N,N,N
+297,2930 Purok 4,"Bautista, Frances Mae","Bautista, Zack Jheniel",NO,M,03/25/2019,03/27/2019,3.5,52.3,0,N,N,N
+298,Purok 5,"Pascua, Joanna","Pascua, Sebastian Psalms",NO,M,03/11/2019,03/27/2019,3,50.4,0,N,N,N
+299,Purok 5,"Marco, Melody","Marco, Cristel Jean",NO,F,02/16/2019,03/27/2019,4.8,54.5,1,N,N,N
+300,2923 Purok 5,"Ballesteros, Jackielyn","Ballesteros, Sophia Kelsey",NO,F,02/18/2019,03/27/2019,4,52.5,1,N,N,N
+301,3296 B Purok 6,"Baguhin, Janine","Baguhin, Primrose Harper",NO,F,02/15/2019,03/27/2019,4.6,55.2,1,N,N,N
+302,Purok 7,"Magaso, Mary Grace","Panday, Zaiden Ailse",NO,M,03/24/2019,03/27/2019,4,51.3,0,N,N,N
+303,Purok 7,"Festejo, Merinisa","Festejo, Marcus Vihn",NO,M,02/02/2019,03/27/2019,5,54,1,N,N,N
+304,PUROK 3 ,"ALMARVEZ, LUIZA LOUISE ","ALMARVEZ,ZACH KYRIE",NO,M,10/04/2018,01/12/2019,7.4,66,3,N,T,N
+305,PUROK 3 ,"ALMARVEZ, LUIZA LOUISE ","ALMARVEZ,ZAFINA JANELLA ",NO,F,07/25/2014,01/12/2019,14.5,101,53,N,N,N
+306,PUROK 3 ,"ROSELADA, GELENE ","ROSELADA, MA. JENNYLYN",NO,F,08/28/2016,01/12/2019,14.7,99,28,N,T,N
+307,PUROK 3 ,"MAGO, JHAMAILA ","MAGO, JOHN CARLO",NO,M,11/11/2017,01/12/2019,10.9,90,14,N,T,N
+308,PUROK 3 ,"ASENCE, EBOSIR JR ","ASENCE, EROS",NO,M,04/01/2017,01/12/2019,14.2,87.1,21,N,N,N
+309,PUROK 3 ,"VILLANUEVA, AYLEEN","VILLANUEVA, CHRYZ AKI",NO,M,06/05/2018,01/12/2019,8.5,74,7,N,T,N
+310,PUROK 3 ,"VILLANUEVA, AYLEEN","VILLANUEVA, CHRYZ ALI ",NO,M,01/06/2015,01/12/2019,16.8,108,48,N,N,N
+311,PUROK 3 ,"GAYAHAN, ABEGAIL","GAYAHAN, JOHN DAVID A. ",NO,M,05/30/2016,01/12/2019,12.2,94,31,N,N,N
+312,PUROK 3 ,LAPIZ MARY  JEAN,"DE MESA, JHAZZRE KYRYH",NO,F,12/11/2017,01/12/2019,10,81,13,N,T,N
+313,PUROK 3 ,"IGLESIAS, MARY ANN","IGLESIAS, MARY ATHENA YNGRYD ",NO,F,03/15/2017,01/12/2019,10,87,21,N,N,N
+314,PUROK 3 ,"DIMAPILIS,SYMNY","DIMAPILIS, GENESIS MAUEL",NO,M,01/02/2015,01/12/2019,12.3,101,48,UW,N,W
+315,PUROK 3 ,"CALOBOSO,ALEXANDER","CALIBOSO, CARL ALEXIS ",NO,M,08/02/2018,01/12/2019,7.2,66,5,N,N,N
+316,PUROK 3 ,"BANASIHAN,MICHELLE","PANAO,SEAN",NO,M,07/13/2014,01/12/2019,15.8,107,53,N,N,N
+317,PUROK 3 ,"BELLEZA, MERCY","GERONA,ZEUS MAYDEN",NO,M,05/21/2015,01/12/2019,10.5,87,43,SUW,SSt,N
+318,PUROK 3 ,"BANDIAN,MELIZA ","BANDIAN,CAMILLE ",NO,F,05/13/2016,01/12/2019,13,98,31,N,N,N
+319,PUROK 3 ,"CHAVEZ, ELLEN ","CANAYON, STEPHEN JAMES",NO,M,11/12/2017,01/12/2019,9,80,14,N,N,N
+320,PUROK 3 ,"CHAVEZ, ELLEN ","CANAYON,ANGELO ",NO,M,09/02/2015,01/12/2019,13,99,40,N,N,N
+321,PUROK 3 ,"CHAVEZ, ELLEN ","CANAYON,JAYMARK",NO,M,09/13/2014,01/12/2019,15,103,51,N,N,N
+322,PUROK 3 ,"VALDERMA, ALLAN SR.","VALDERAMA, ALLAN JR.",NO,M,04/01/2014,01/12/2019,19.1,116,57,N,N,N
+323,PUROK 3 ,"VALDERMA, ALLAN SR.","VALDERAMA, JULILIAN JADE",NO,M,11/12/2015,01/12/2019,12.1,90.1,38,N,N,N
+324,PUROK 3 ,"SANDOVAL,GENESIS","SANDOVAL,KEZIAH GENIESE ",NO,M,10/23/2015,01/12/2019,11.5,90.1,38,N,N,N
+325,PUROK 3 ,"YUTUC,JELANIE","NIEVA, ZION KYIE ",NO,M,03/24/2018,01/12/2019,10.6,79,9,N,T,N
+326,PUROK 3 ,"PAPASIN, KAMILLE ","MERCADO,DANIELLE FERNAN",NO,M,06/29/2014,01/12/2019,15.5,104.5,54,N,N,N
+327,PUROK 3 ,"MANALO,PERLITA","MANALO,JOHN AERON",NO,M,12/17/2016,01/12/2019,12.5,88.5,24,N,N,N
+328,PUROK 3 ,"MANALO,PERLITA","MANALO,JANNAH NICOLE",NO,F,03/19/2015,01/12/2019,14.5,97,45,N,N,N
+329,PUROK 3 ,"DOLUNTAP, LISA ","DOLUNTAP,LESLIE ",NO,F,03/25/2014,01/12/2019,14.4,99.3,57,N,N,N
+330,PUROK 3 ,"SUBIAGA,EVELYN ","REFRED, RHAFAELLA ERA",NO,F,11/30/2017,01/13/2019,7.3,73,13,N,N,W
+331,PUROK 3 ,"GAYATAO, LENEFIE","GAYATAO, RENNIEL",NO,M,10/16/2016,01/13/2019,11.2,94,26,N,N,W
+332,PUROK 3 ,"ARREZA, JOANNIE ",ARREZA WILSON GABRIEL,NO,M,10/16/2014,01/13/2019,18.9,108.5,50,N,N,N
+333,PUROK 3 ,"NAZ, ANGELINA","BAUTISTA,TIFFANY LEIGH",NO,F,11/16/2017,01/13/2019,9,75,13,N,N,N
+334,PUROK 3 ,"DE OCAMPO, ROWENA ","DE OCAMPO, RIEL",NO,M,06/25/2017,01/13/2019,11.8,81.1,18,N,N,N
+335,PUROK 3 ,"ZACARIAS, SARAH B.","FLORES, JUSTINE RAIN Z.",NO,M,06/08/2017,01/13/2019,12.2,96.5,19,N,T,N
+336,PUROK 2( BAGONG NAYON),"LAPITAN, JENNYLYN ",REVILLEZA YAGIE NICOLO,NO,M,06/21/2015,01/13/2019,13.5,96.2,42,N,N,N
+337,PUROK 2( BAGONG NAYON),"LAPITAN, JENNYLYN ","REVILLEZA,KAHLID NEGIE",NO,M,10/02/2018,01/13/2019,6.3,64,3,N,N,N
+338,PUROK 2( BAGONG NAYON),"LAPITAN,JONA PAULA","NAVALEZ, MA. FRANCHESKA",NO,F,11/12/2016,01/13/2019,10.1,86,26,N,N,N
+339,PUROK 2( BAGONG NAYON),"SUMABONG, MARISSA ","SUMABONG, MAXINE JADE ",NO,F,07/06/2017,01/13/2019,10.1,88,18,N,T,N
+340,PUROK 2( BAGONG NAYON),"ABRENILLA, JONALYN","BENDERO,JHAYRON",NO,M,06/23/2015,01/13/2019,13,95.5,42,N,N,N
+341,PUROK 2( BAGONG NAYON),"BENDERO, ARRIANE JOY","WAGA, ZACH HARY ",NO,M,12/30/2016,01/13/2019,11.9,93,24,N,N,N
+342,PUROK 2( BAGONG NAYON),"DALANON, MELINDA ","DALANON, CHRINZ ELLIAZAR",NO,M,05/15/2015,01/13/2019,14,96,43,N,N,N
+343,PUROK 2( BAGONG NAYON),"MARANAN, ANNALYN","MARANAN, SUMMER",NO,F,04/16/2016,01/13/2019,13,94,32,N,N,N
+344,PUROK 2( BAGONG NAYON),"PLANTILLA, AIZA ","PLANTILLA, HAZEL ANN",NO,F,05/15/2014,01/13/2019,18.2,106.7,55,N,N,N
+345,PUROK 2( BAGONG NAYON),"SONIO, AIZA ","SONIO, MIGUEL ANDRESS",NO,M,11/23/2017,01/13/2019,9,76,13,N,N,N
+346,PUROK 2( BAGONG NAYON),"MORAGAY, ROSE MARIE ","VILLATE, ALISHA DYLE ",NO,F,12/10/2017,01/13/2019,7.4,73,13,N,N,N
+347,PUROK 2( BAGONG NAYON),"MIJARES, JOCELYN","MIJARES,JOHN ALDRIN",NO,M,08/14/2014,01/13/2019,17.4,111.5,52,N,N,N
+348,PUROK 2( BAGONG NAYON),"FRANCISCO, MARY JEAN","NAVARRO, GABRIEL",NO,M,06/23/2017,01/13/2019,9.3,82,18,N,N,N
+349,PUROK 2( BAGONG NAYON),"FRANCISCO, MARY JEAN","NAVARRO,JAVIER ",NO,M,11/19/2015,01/13/2019,12.3,90,37,N,N,N
+350,PUROK 2( BAGONG NAYON),"DINO, JHENYVIE ","DINO, FLOYD",NO,M,04/23/2015,01/13/2019,14.1,99,44,N,N,N
+351,PUROK 2( BAGONG NAYON),"MARANAN,RAQUEL","BATION, CHRISTINE JOY ",NO,F,09/08/2014,01/13/2019,13.6,103,52,N,N,N
+352,PUROK 3 ,"BAUTISTA, JEAN","BAUTISTA,JEYMS EAN",NO,M,01/15/2018,01/13/2019,9.1,73,11,N,N,N
+353,PUROK 3 ,"POLICARPIO, EDITHA ","BAUTISTA,JHAIRA NICOLE ",NO,F,06/07/2015,01/13/2019,14,96,43,N,N,N
+354,PUROK 2( BAGONG NAYON),"PUERTO, JANETH","MARANAN, KHENDRA ",NO,F,08/09/2015,01/16/2019,13.6,99,41,N,N,N
+355,PUROK 2( BAGONG NAYON),"PUERTO, JANETH","MARANAN,KYLE",NO,M,10/02/2018,01/16/2019,7.4,61,3,N,N,N
+356,PUROK 2( BAGONG NAYON),"MAGUNDAYAO, GRETHEN","MAGUNDAYAO, CHRIS MATHEW",NO,M,05/23/2016,01/16/2019,11.4,89,31,N,N,N
+357,PUROK 2( BAGONG NAYON),"GREGORIO, GIELENE","ALBARACIN,CHRIS ARGIEL",NO,M,06/11/2016,01/16/2019,10.9,89,31,N,N,N
+358,PUROK 2( BAGONG NAYON),"PALIS,GLADYLYN","PALIS,EURILYN ",NO,F,09/29/2017,01/16/2019,10.1,72.2,15,N,N,N
+359,PUROK 2( BAGONG NAYON),"SAN LORENZO, JENNY","SAN LORENZO,HEIRES",NO,F,10/13/2017,01/16/2019,8.3,77.3,15,N,N,N
+360,PUROK 2( BAGONG NAYON),"DEDOLLO, MICHELLE",DEDOLLO MIGUEL SAMANTHA ,NO,F,10/21/2016,01/16/2019,11.1,90.5,26,N,N,N
+361,PUROK 2( BAGONG NAYON),"MONTANIO, JENNIFER ","VILLATE,CHRIS LAURENCE",NO,M,07/16/2014,01/16/2019,14.6,103.9,54,N,N,N
+362,PUROK 2( BAGONG NAYON),"MONTANIO, JENNIFER ","VILLATE, KENT VINCENT ",NO,M,07/16/2016,01/16/2019,12,92,30,N,N,N
+363,PUROK 2( BAGONG NAYON),"MINGAO, ,MAJORIE","MINGAO, JOANA MAE",NO,M,02/04/2015,01/16/2019,14.4,94.6,47,N,N,N
+364,PUROK 2( BAGONG NAYON),"BAGUI,MELANIE ","HAIT, RAIN",NO,F,06/14/2018,01/16/2019,9.1,66,7,N,N,OW
+365,PUROK 2( BAGONG NAYON),"SOLIS, ERICA","SANTILLAN, SKY ENDRIC",NO,M,06/17/2018,01/16/2019,7.3,66,6,N,N,N
+366,PUROK 2( BAGONG NAYON),"DEDOLLO,IRENE","GREGORIO,MAT MICHEAL",NO,M,01/10/2019,01/16/2019,3,51,0,N,N,N
+367,PUROK 2( BAGONG NAYON),"GREGORIO,MERLIZA ","SORIA, MISHA RHIEN",NO,F,12/14/2018,01/16/2019,4,52,1,N,N,N
+368,PUROK 2( BAGONG NAYON),"GUTRIEREZ, MARICAR","DOLLAR,JAYMAR",NO,M,03/16/2016,01/16/2019,12.9,89,34,N,N,N
+369,PUROK 2( BAGONG NAYON),"GUTRIEREZ, MARICAR","DOLLAR,JOHN MARK",NO,M,07/09/2018,01/16/2019,8.9,70,6,N,N,N
+370,PUROK 2( BAGONG NAYON),"FERRER, ANNELEANE","NABOR,CHRISTIAN",NO,M,07/09/2018,01/16/2019,7.9,70,6,N,N,N
+371,PUROK 2( BAGONG NAYON),"BAGUI,WILMA","BAGUI,WILLAM MATHEW ",NO,M,04/27/2016,01/16/2019,12,89,32,N,N,N
+372,PUROK 2( BAGONG NAYON),"BAGUI, IRENE ","BAGUI,JAMES KYRIE ",NO,M,02/09/2016,01/16/2019,11.4,91,35,N,N,N
+373,PUROK 2( BAGONG NAYON),"SORYAO,MIA ","SORYAO,LAURENCE MARK",NO,M,12/07/2014,01/16/2019,14.5,102.9,49,N,N,N
+374,PUROK 2( BAGONG NAYON),"SAPURAN,EVANGELINE ","SORYAO,VENICE ",NO,F,06/05/2017,01/16/2019,13,87,19,N,N,N
+375,PUROK 2( BAGONG NAYON),"SORYAO,MIA ","SORYAO,ANNA RICA ",NO,F,10/15/2018,01/16/2019,5.5,62.1,3,N,N,N
+376,PUROK 2( BAGONG NAYON),"FERNANDEZ,MIKAELA","EDUARTE,MARK JUSTIN",NO,M,09/08/2016,01/06/2019,13,87.9,27,N,N,N
+377,PUROK 2( BAGONG NAYON),"FERNANDEZ,MIKAELA","EDUARTE,MARKUS BRYLE ",NO,M,12/13/2018,01/16/2019,3.9,51,1,N,N,N
+378,PUROK 2( BAGONG NAYON),"MAGUNDAYAO, ALLIEN","MAGUNDAYAO,ANGELINE",NO,F,11/05/2018,01/16/2019,4.5,53,2,N,N,N
+379,PUROK 2( BAGONG NAYON),"BAYLOSIS,ROSANE",BAYLOSIS ROSEMAY,NO,F,01/22/2017,01/16/2019,10.1,85.8,23,N,N,N
+380,PUROK 2( BAGONG NAYON),"COMPRA,MARY GRACE,","COMPRA,CALIX ",NO,M,10/07/2018,01/16/2019,6.2,63.9,3,N,N,N
+381,PUROK 2( BAGONG NAYON),"ESPINOLA,ALAISHA MAE","ESPINOLA,ALLIANA RENE",NO,F,01/11/2016,01/16/2019,13.9,92,36,N,N,N
+382,PUROK 2( BAGONG NAYON),"SARCIA,MARYJANE ","SARCIA,EZEKIEL",NO,M,02/12/2018,01/16/2019,10.1,75.4,11,N,N,N
+383,PUROK 2( BAGONG NAYON),"DINGLASAN,ARIANE","DINGLASAN,QUEEN VENICE ZIA",NO,F,07/24/2017,01/16/2019,9.4,83,17,N,N,N
+384,PUROK 2( BAGONG NAYON),"DAVID,ROSANA","ELEC,JACK DANIEL",NO,M,09/26/2014,01/16/2019,15,104,51,N,N,N
+385,PUROK 2( BAGONG NAYON),"RAMOS,ANNA LORRAINE","DALANON,DAVE AZRAEL",NO,M,01/14/2018,01/16/2019,10.9,87,12,N,T,N
+386,PUROK 2( BAGONG NAYON),"SABEL,CHERRY","SERENO,SOPHIA ALEXA",NO,F,11/03/2015,01/16/2019,13.9,104,38,N,N,N
+387,PUROK 2( BAGONG NAYON),"CEREZO,JHAIRA","CEREZO,ALEA",NO,F,07/08/2017,01/16/2019,10.1,79.5,18,N,N,N
+388,PUROK 2( BAGONG NAYON),"ELEC,THEA ","ELEC,ALTHEA JEAN",NO,F,01/29/2014,01/16/2019,14.5,101,59,N,N,N
+389,PUROK 3 ,"RODRIGUEZ,MIRIAM","RODRIGUEZ,KYLIE  ANNE",NO,F,09/14/2014,01/16/2019,18.1,108.9,52,N,N,N
+390,PUROK 3 ,"PAGSIAT,MECEL","CAINGCOY,DANIEL",NO,M,12/04/2014,01/16/2019,15.6,108.8,49,N,N,N
+391,PUROK 3 ,"YUNZAL,MARIVIC ","YUNZAL,YSABELLA YAH EI",NO,F,10/17/2016,01/16/2019,11.6,92.4,26,N,N,N
+392,PUROK 3 ,"PAREJA,CRISELDA ","ADISAS,RUTH JERSEY",NO,F,08/09/2014,01/16/2019,14.6,101.5,53,N,N,N
+393,PUROK 3 ,"MATEO,JOANNE ","MATEO,JHANELLA",NO,F,12/11/2018,01/16/2019,5,57,1,N,N,N
+394,PUROK 3 ,"RUBIO,JESSICA","RUBIO,AMBER ",NO,F,08/14/2018,01/16/2019,7.2,70,5,N,T,N
+395,PUROK 3 ,"DIMAPILIS, ANNE CARMELY","NAVASERO,ASHLEY",NO,F,05/17/2014,01/16/2019,14.5,106,55,N,N,N
+396,PUROK 3 ,"DALEJA,KAREN, ABBY","DALEJA,JHUSTIN MATHEW",NO,M,08/03/2017,01/16/2019,10.7,82.7,17,N,N,N
+397,PUROK 3 ,"DALEJA,KAREN, ABBY","DALEJA,MARK JHERIC ",NO,M,08/09/2017,01/16/2019,10.1,82,17,N,N,N
+398,PUROK 3 ,"LANTICAN,KARIZE KAYLI","OPULENCIA,KAELA LOUISE",NO,F,10/20/2016,01/16/2019,10,82.4,26,N,N,N
+399,PUROK 3 ,"PANTING,MONICA","PANTING,MEGGYIEL",NO,M,08/19/2015,01/16/2019,14.6,104,40,N,N,N
+400,PUROK 3 ,"CALAGOS,KAREN","CALAGOS,KZ ANDREI",NO,M,09/01/2015,01/16/2019,15,104,40,N,N,N
+401,PUROK 3 ,"RODRIGO,GENALYN","CANO,PRINCESS JEAN",NO,F,03/03/2015,01/16/2019,12.3,95.1,46,N,N,N
+402,PUROK 3 ,"RODRIGO,GENALYN","CANO, JOHN ANGELO ",NO,M,11/11/2014,01/16/2019,18,117.9,50,N,T,N
+403,PUROK 3 ,"GARCIA,LOVELY","DELOS SANTOS,KAI MATHEW",NO,M,06/27/2018,01/16/2019,9.3,69,6,N,N,N
+404,PUROK 3 ,"PUA,LILIBETH","PUA,ZCENIRO",NO,M,10/21/2014,01/16/2019,14.6,108.3,50,N,N,W
+405,PUROK 3 ,"PUA,LILIBETH","PUA,ZCENRIC",NO,M,12/03/2017,01/16/2019,9.3,75.5,13,N,N,N
+406,PUROK 3 ,"VIILLANUEVA,IRISH","CINCO,PRICESS MIKKAELA ",NO,F,05/10/2015,01/16/2019,14.5,101,44,N,N,N
+407,PUROK 3 ,"MAGUNDAYAO, MA CHRISTINA ","MAGUNDAYAO,BRIAN",NO,M,02/28/2014,01/16/2019,14.3,108,58,N,N,W
+408,PUROK 3 ,"BALLEORES,GLAIZA","BALLEORES,ARA",NO,F,09/26/2015,01/16/2019,14.6,106.1,39,N,T,N
+409,PUROK 3 ,"MINGAO,CARMELA","JUMAWID,JHAMELA",NO,F,01/17/2015,01/19/2019,13.9,104.1,48,N,N,N
+410,PUROK 3 ,"SONIO, AIZA ","SONIO,MUTYA",NO,F,01/06/2016,01/19/2019,14.6,106,36,N,T,N
+411,PUROK 3 ,"GENIO,ARNITA ","GENIO,DOMINICK",NO,M,01/16/2014,01/12/2019,15.9,106,59,N,N,N
+412,PUROK 3 ,"SOLIS,ARMIDA","NAVASERO,NIGEL",NO,M,09/17/2014,01/19/2019,16.9,109,52,N,N,N
+413,PUROK 3 ,"DE JESUS,LADY KAREN","PAGSIAT,PRINCE SAREN",NO,M,12/20/2016,01/19/2019,12.3,91.2,24,N,N,N
+414,PUROK 3 ,"VILLAMOR,MARIFE ","VILLAMOR,HIRO AIDEN",NO,M,09/18/2015,01/19/2019,13.9,92.3,40,N,N,N
+415,PUROK 3 ,"MANANA,ROSE CECIL","MENDOZA,CHRISTINE VERONICA",NO,F,10/30/2015,01/19/2019,12.6,98.2,38,N,N,N
+416,KM 61,"VILLAMOR,GRACE","MAGBANUA,LINCES JADE",NO,F,10/13/2014,01/22/2019,14.2,96,51,N,N,N
+417,KM 61,"VILLAMOR,CHRISTINE ","VILLAMOR,CRYSTAL DEN ",NO,F,08/16/2017,01/22/2019,9.9,75,17,N,N,N
+418,KM 61,"ALBERTO,MARY GRACE ","PASAYAN,VIELA GRAE",NO,F,12/16/2015,01/22/2019,13.8,89,37,N,N,N
+419,KM 61,"VALERA,ROSALIE","RUIZ,RECCA LEBRON RUIZ ",NO,F,01/28/2017,01/22/2019,9.6,84,23,N,N,N
+420,KM 61,,"VILLAMOR,PRINCE ",NO,M,08/16/2014,01/22/2019,14.9,107,53,N,N,N
+421,KM 61,"VILLAMOR,NANETH","RAFON,SARAH MAE ",NO,F,05/23/2016,01/22/2019,14.8,91,31,N,N,N
+422,KM 61,"PICACHE,KATYA","ASUNSION,KIERA DION ALEXA",NO,F,03/16/2014,01/22/2019,17.8,106,58,N,N,N
+423,KM 61,"CANSINO,AIZA ","CANSINO,MARIA ALAISA ",NO,F,01/26/2016,01/22/2019,13.4,93,35,N,N,N
+424,PUROK 2(CARBERN VILLAGE),"ESGUERRA,JULIE ANN ","ESGUERRA,JACON DYLAN",NO,M,11/22/2014,02/27/2019,15.4,100,51,N,N,N
+425,PUROK 2(CARBERN VILLAGE),"OCON,AIZA","OCON,MARA NICOLE ",NO,F,10/18/2016,02/27/2019,9.7,84,28,N,N,N
+426,PUROK 2(CARBERN VILLAGE),"PEREZ,EMILY","PEREZ,JOHN PAUL",NO,M,04/09/2014,02/27/2019,20,109,58,N,N,N
+427,PUROK 2(CARBERN VILLAGE),"AVINCOLA,JULIE ANN","ADVINCOLA,BIANNE DARLENE",NO,F,02/26/2014,01/19/2019,22.4,110.3,58,N,N,N
+428,PUROK 2(CARBERN VILLAGE),"ADVINCOLA,JULIE ANN","ADVINCOLA,DANIEL",NO,M,06/16/2014,02/19/2019,21.9,110,56,N,N,N
+429,PUROK 2(CARBERN VILLAGE),"OLVIDA,MA. ALONA ","SILVA,ZACH ANDRIE",NO,M,07/10/2016,02/27/2019,12,86.5,31,N,N,N
+430,PUROK 2(CARBERN VILLAGE),"ORCA,MA FE","ORCA,ALISTER ",NO,M,11/20/2016,02/27/2019,15,94,27,N,N,N
+431,PUROK 2(CARBERN VILLAGE),"LAURENTE,EMELY","LAURENTE,ZETH",NO,M,10/15/2016,02/27/2019,11.2,90,28,N,N,N
+432,PUROK 2(CARBERN VILLAGE),"IBEK,JONALYN","IBEK,IRENE JOY",NO,F,12/04/2014,02/27/2019,13.6,103,50,N,N,N
+433,PUROK 2(CARBERN VILLAGE),"IBEK,JONALYN","IBEK,MIA JENECA",NO,F,11/29/2016,02/27/2019,9.6,84.5,26,N,N,N
+434,PUROK 2(CARBERN VILLAGE),"VERTUSO,MA CLARISE","SOLIVEN,DAHZEL ELORY",NO,F,11/21/2017,02/27/2019,10.9,80,15,N,N,N
+435,PUROK 2(CARBERN VILLAGE),"BAIT IT,GLORIA MAE","BAIT IT,DIANA",NO,F,11/24/2017,02/27/2019,9.3,74.1,15,N,N,N
+436,PUROK 2(CARBERN VILLAGE),"CHICO,NESILYN JOY","RAMOS,MIA LIAN JOYCE",NO,F,08/18/2017,02/27/2019,9.4,78,18,N,N,N
+437,PUROK 2(CARBERN VILLAGE),"CHICO,MARLYN","VISCCARA,THOMAS",NO,M,02/06/2016,02/27/2019,11.8,92,36,N,N,N
+438,PUROK 2(CARBERN VILLAGE),,"ANUNCIADO,STANLEY",NO,M,07/23/2014,02/27/2019,15,101,55,N,N,N
+439,PUROK 2(CARBERN VILLAGE),"GONZAGA,KRISTINE","PINEDA,ZIA",NO,F,10/29/2018,02/27/2019,5.5,60,3,N,N,N
+440,PUROK 2(CARBERN VILLAGE),"BAUTISTA,HERTUDES","BAUTISTA,EMMANUEL JR.",NO,M,06/30/2016,02/27/2019,13.9,89,31,N,N,N
+441,PUROK 2(CARBERN VILLAGE),"APOLINARIO,AIDA","APOLINARIO,PRIMA HAILLEY",NO,F,04/26/2014,02/27/2019,21.9,113.9,58,N,N,N
+442,PUROK 2(CARBERN VILLAGE),"NATIVIDAD,DANNIKA ","ABALOS,KING WILSON",NO,M,11/19/2017,03/01/2019,12.1,78,15,N,N,OW
+443,PUROK 2(CARBERN VILLAGE),"LANTICAN,KIMBELY","NATIVIDAD,SAMANTHA AISHA",NO,F,01/07/2017,03/01/2019,10,84,25,N,N,N
+444,PUROK 2( BAGONG NAYON),"TABUAC,PRECIOUS","LOPEZ,CRECICIOUS SHANELL",NO,M,11/30/2018,03/01/2019,6.6,64,3,N,N,N
+445,PUROK 2( BAGONG NAYON),MA. GRENICA HONEY GENE EDUARTE,"EDUARTE,SHIA AVRILL",NO,F,12/26/2018,03/01/2019,5,56,2,N,N,N
+446,PUROK 2( BAGONG NAYON),"TAMBOR,MASELYN","CONSTANTINO,MARJORIE",NO,F,05/10/2015,03/01/2019,13.9,104,45,N,N,N
+447,PUROK 2( BAGONG NAYON),"BAGUI, WILMA","JAVIER,KELVIN DAVE",NO,M,12/29/2014,03/01/2019,17.3,105,50,N,N,N
+448,PUROK 2( BAGONG NAYON),"BAGUI,MARITES","BAGUI,JOHN MARTIN",NO,M,11/11/2014,03/01/2019,15.7,109,51,N,N,N
+449,PUROK 2( BAGONG NAYON),"RAMOS,AYLEEN","BON,ZACHIRA FAITH",NO,F,02/20/2014,02/13/2019,17,101,59,N,N,N
+450,PUROK 2( BAGONG NAYON),,"BON,JAIRIL CLYDE",NO,M,05/02/2015,03/01/2019,12.5,93.6,45,N,N,N
+451,PUROK 2( BAGONG NAYON),"RELLORES,GLAIZA","RELLORES,AIRA ",NO,F,09/26/2016,03/01/2019,12.5,93.6,29,N,N,N
+452,PUROK 2( BAGONG NAYON),"DEDOLLO,MICHELE","DEDOLLO,MIGUEL",NO,M,10/21/2016,03/01/2019,12.8,96.5,28,N,N,N
+453,PUROK 2( BAGONG NAYON),"MARANIA,JONALYN","JUMAWID,CHELSEA",NO,F,12/23/2017,03/01/2019,8.7,75,14,N,N,N
+454,PUROK 2( BAGONG NAYON),"DALANON,MARICEL","DALANON,JM",NO,M,09/04/2016,03/01/2019,13.5,98.2,29,N,T,N
+455,PUROK 3 ,"CASIPONG,JOANNA MARIE","CASIPONG,JOAQUIN MATEO",NO,M,07/07/2014,03/01/2019,14.1,101.3,55,N,N,N
+456,PUROK 3 ,"CASIPONG,JOANNA MARIE","CASIPONG,JIANNA MARIEZ",NO,F,09/15/2018,03/01/2019,7.9,64,5,N,N,N
+457,PUROK 2,PELIGRINA GWEN IRIS ,"PELIGRINA,MIKKA ARAMIS ",NO,F,05/06/2016,03/06/2019,13.8,93.1,34,N,N,N
+458,PUROK 3 ,"AMMOROZA,KAREN","HILBERIO,JAMES KYLER",NO,M,05/19/2014,03/06/2019,14,99.5,57,N,N,N
+459,PUROK 3 ,"BUCAD,DHINA ","BUCAD,SOPHIA",NO,F,09/14/2014,03/06/2019,18.9,104,53,N,N,N
+460,PUROK 2 (NATURES VILLAGE),"OBEROS,ZOSANE","OBSQUIO,BRIX ZICKI",NO,M,08/21/2016,03/06/2019,10.5,85.1,30,N,N,N
+461,PUROK 2 (NATURES VILLAGE),"DELOS SANTOS,PRINCESS JASMINE ","SARIO,ANDREA MAE ",NO,F,05/18/2015,03/06/2019,15.9,99.1,45,N,N,N
+462,PUROK 2 (NATURES VILLAGE),"MENDOZA,MARIANE","LANTICAN,XIANINE MAY",NO,F,05/10/2014,03/06/2019,15.9,101,57,N,N,N
+463,PUROK 2 (NATURES VILLAGE),"ARAGONES,NENETH","ARAGONES,NICK OLIVER",NO,M,10/05/2014,03/06/2019,13.9,103,53,N,N,N
+464,PUROK 2 (NATURES VILLAGE),"ARAGONES,NENETH","ARAGONES,NICKA JADE",NO,F,01/22/2017,03/06/2019,10.9,86,25,N,N,N
+465,PUROK 2 (NATURES VILLAGE),"CARUMBA,MYLENE","CARUMBA,JAKE DAREL",NO,M,09/09/2017,03/06/2019,11.3,84,17,N,N,N
+466,PUROK 2 (NATURES VILLAGE),"SAN VALENTINE,SAMANTHA ","MANZANILLA,JOHN KENDEL",NO,M,06/10/2017,03/06/2019,12,86,20,N,N,N
+467,PUROK 2 (NATURES VILLAGE),"SAN VALENTINE,SAMANTHA ","MANZANILLA,JOHANNE ATALIA",NO,F,06/26/2017,03/06/2019,8.9,78,20,N,N,N
+468,PUROK 2 (NATURES VILLAGE),"ANGELES,REMEDIOS ","ANGELES,KEILYN",NO,F,09/11/2015,03/06/2019,15.5,98,41,N,N,N
+469,PUROK 2 (NATURES VILLAGE),"CASTILIO,DENNESE MARIE","CASTILLIO, CEIZER",NO,M,06/29/2015,03/06/2019,13.3,93,44,N,N,N
+470,PUROK 2 (NATURES VILLAGE),"CASTILIO,DENNESE MARIE","CASTILLIO,XEANNE CHAZE",NO,M,09/22/2014,03/06/2019,19,108,53,N,N,N
+471,PUROK 2 (NATURES VILLAGE),"DELLA CRUZ,ANNA LORRAINE ","PASCUAL,ISAAC JOAQUIN ",NO,M,06/08/2014,03/06/2019,19,109,56,N,N,N
+472,PUROK 2 (NATURES VILLAGE),"AGONCILLO,VANESSA ","LANTICAN,MARYCHELLE BLARE ",NO,F,02/13/2016,03/06/2019,16.7,95,36,N,N,N
+473,PUROK 2 (NATURES VILLAGE),"DUGA DUGA,ELIZA ",DE VILLA ROSE MARIE,NO,F,10/22/2014,03/06/2019,14.4,101,52,N,N,N
+474,PUROK 2 (NATURES VILLAGE),"ULAC,ELVIRA ","ULAC,MARGARRETE JADE ",NO,F,09/21/2015,03/06/2019,14.7,93,41,N,N,N
+475,PUROK 2 (NATURES VILLAGE),"NAVAL,VIERA MARIZ","NAVAL,NARCO MIGUEL",NO,M,11/08/2014,03/06/2019,14.4,103,51,N,N,N
+476,PUROK 2 (NATURES VILLAGE),"PANTELEON,HONEY","PANTELEON,JORDAN",NO,M,10/14/2017,03/06/2019,12,78,16,N,N,N
+477,PUROK 2 (NATURES VILLAGE),"MEDALIA,MARILOU","MADELIA,SHANELLE",NO,F,01/22/2019,03/06/2019,4.9,56,1,N,N,N
+478,PUROK 2 (NATURES VILLAGE),"MELO,HAZEL","CASTANEDA,ZADHEL",NO,M,03/19/2017,03/06/2019,11.2,81,23,N,N,N
+479,PUROK 2 (NATURES VILLAGE),"CORONEL,JESSA ","CORONEL,REX DANIEL",NO,M,03/04/2015,03/06/2019,9.1,86,48,SUW,SSt,SW
+480,PUROK 2 (NATURES VILLAGE),"MALABUYOC,LOVELY GRACE ","MALABUYOC,RENZ",NO,M,09/17/2018,03/06/2019,7.6,69,5,N,N,N
+481,PUROK 2 (NATURES VILLAGE),"ZAMORA,GERALDINE ","PESIGAN,YUAN ADRIELLE",NO,M,01/09/2014,01/05/2019,19,107,59,N,N,N
+482,PUROK 2 (NATURES VILLAGE),"ZAMORA,GERALDINE ","PEGISAN,LIAN ADRIENNE ",NO,M,01/26/2016,03/06/2019,12.3,90.1,37,N,N,N
+483,PUROK 2 (NATURES VILLAGE),"YAMSON,ARLENE","ATOLI,RIENE AIENLY",NO,F,04/28/2017,03/06/2019,12.9,89,22,N,N,N
+484,PUROK 3 ,"AVINCOLA,DN","AVINCOLA,DANIEL",NO,M,06/15/2015,03/16/2019,16,101,45,N,N,N
+485,PUROK 3 ,"BALBOA,JENICA","BALBOA,PAUL ELAIDiA",NO,F,09/24/2015,03/06/2019,14.5,101,41,N,N,N
+486,PUROK 3 ,"ORO,CATHERINE ","BALLOSA,MARO",NO,M,10/09/2014,03/06/2019,18,106,52,N,N,N
+487,PUROK 3 ,"BALMES,HANNA","BALMES,LUIGIE ",NO,M,08/14/2016,03/06/2019,13.6,102,30,N,T,N
+488,PUROK 3 ,"BORLAQDAN,ANNE","BORLAQDAN,KADYCAE",NO,M,09/26/2015,03/06/2019,16,101,41,N,N,N
+489,PUROK 3 ,"BUNAN,DINA","BUNAN,AIRIAN JOY",NO,F,08/14/2016,03/06/2019,14.5,97,30,N,N,N
+490,PUROK 3 ,"ONG,BECA ONANG","CAAYUPAN,GABRIEL",NO,M,12/05/2016,03/06/2019,12,89,27,N,N,N
+491,PUROK 3 ,"AZAGRA,CHARMAINE ","CABALIDA,CRIS ANGELO",NO,M,09/23/2017,03/06/2019,9.9,84,17,N,N,N
+492,PUROK 3 ,"CAMACHO,HAZEL ANN","CAMACHO,KATE ",NO,F,08/02/2014,03/06/2019,15.9,101,55,N,N,N
+493,PUROK 3 ,"CANATE, ,MA EDITHA ","CANATE,MICHAELA",NO,F,09/09/2017,03/06/2019,12.3,84,17,N,N,N
+494,PUROK 3 ,"CHAVEZ, ELLEN ",CANAYON ANGELO,NO,M,09/02/2015,03/06/2019,14,101,42,N,N,N
+495,PUROK 3 ,"LALOG,GABRIELLE","CASTRO,ARKIESHA JAVAINNE ",NO,F,09/27/2017,03/06/2019,12.9,83,17,N,N,N
+496,PUROK 3 ,"CASA, ANN","CASA,ART JOHN",NO,M,09/17/2015,03/06/2019,14.3,101,41,N,N,N
+497,PUROK 3 ,"PUA,ROSE ANN","CASALME,EVEN RAIN",NO,F,11/13/2016,03/12/2019,10.9,86,27,N,N,N
+498,PUROK 3 ,"DALANON,CHRIS ","DALANON,CHRINZ ELIAZAR",NO,M,05/15/2015,03/12/2019,13.6,98,45,N,N,N
+499,PUROK 3 ,"DAO,APRIL JOY","DAO,ZHAI AMBER ",NO,F,05/28/2016,03/12/2019,12.9,89,33,N,N,N
+500,PUROK 3 ,"DELA CRUZ,FLABELLE","DELA CRUZ,JOAQUIN IÑIGO",NO,M,05/27/2015,03/12/2019,14.6,106,45,N,N,N
+501,PUROK 3 ,"ERASGA,EMELIZA","ERASGA,KLYDE NOEL",NO,M,06/25/2017,03/12/2019,11.2,89.3,20,N,N,N
+502,PUROK 3 ,"DORADO,ANNA JEIEL ",DORADO MA. JOHANNA ,NO,F,07/02/2015,03/12/2019,13.6,101,44,N,N,N
+503,PUROK 3 ,"DAVID,ROSE ANN","ELEC,FREDIRICK JAMES ",NO,M,07/25/2014,03/12/2019,19,106,55,N,N,N
+504,PUROK 3 ,"BALAHAN,LESLIE","EUGENIO,PIA VENNESE",NO,F,09/09/2016,03/12/2019,14.3,97,30,N,N,N
+505,PUROK 3 ,"FABELLAR, MA. DOLORES ","FABELLAR,YUAN MIGUEL",NO,M,08/08/2014,03/12/2019,15.9,101,55,N,N,N
+506,PUROK 3 ,"FLORES,KIELA ","FLORES,KIEL DELMAR ",NO,M,12/01/2015,03/12/2019,12,91,39,N,N,N
+507,PUROK 3 ,"GREGORIO,MARICEL","GUTIEREZ,MADISON",NO,M,12/24/2014,03/12/2019,13.9,101,50,N,N,N
+508,KM 61,"IBO,CLARY JANE ","IBO,ZANE KRISHA",NO,F,09/15/2017,03/12/2019,12.3,89.3,17,N,T,N
+509,KM61,"IBO,CLARE JANE","IBO, ZYOE JANE KRISHA",NO,F,09/15/2017,03/12/2019,12.3,89,17,N,T,N
+510,KM 61,"INDINO,JANE ","INDINO,ANDREA JANE ",NO,F,07/09/2017,03/12/2019,9.9,81,20,N,N,N
+511,KM61,"PASAHOL,ABIGAIL","JARIOLA,SEBASTIAN",NO,M,11/29/2017,03/12/2019,9.1,81.2,15,N,N,N
+512,PUROK 3 ,"JAVIER,HANNA","JAVIER,CALUN DAVE ",NO,M,05/21/2015,03/12/2019,16.3,101,45,N,N,N
+513,PUROK 3 ,"JAZARENO,LAIZA ","JAZARENO,ALLAIZA ",NO,F,12/23/2016,03/12/2019,11.2,87,26,N,N,N
+514,PUROK 3 ,"CEPILLO,JOVELYN ","KALAW,AIZA ZAYCEE",NO,F,08/09/2017,03/15/2019,12.3,87,19,N,N,N
+515,PUROK 3 ,"LAPITAN,MIRASOL","LAPITAN,SOLEIL BERNANDINE ",NO,F,02/24/2014,01/12/2019,19,106,58,N,N,N
+516,PUROK 3 ,"LATOZA,GRACE","LATOZA,ROHAN JAIRAH ",NO,F,01/14/2015,03/15/2019,16.9,101,50,N,N,N
+517,PUROK 3 ,"LOZANO, MARIA CHRISTINA ",LOZANO LOVELY JOY ,NO,F,06/30/2015,03/15/2019,15,99,44,N,N,N
+518,PUROK 3 ,"MALAYBA,DIANE ","MALAYBA,ISABELA ",NO,F,09/13/2017,03/15/2019,11,79,18,N,N,N
+519,PUROK 3 ,"MANAY,MONNETE ",MANAY AJ,NO,M,02/16/2016,03/15/2019,14,91,36,N,N,N
+520,PUROK 3 ,"MARANAN,GINA ","MARANAN,JHON XANDER ",NO,M,12/17/2016,03/15/2019,13.1,86,26,N,N,N
+521,PUROK 3 ,"CERNAL,JUDILYN ","CERNAL, MAY ",NO,F,07/10/2015,03/15/2019,15.3,101,44,N,N,N
+522,PUROK 3 ,"LAZO,MARJORIE ","MINGAO,JHON MATEO",NO,M,10/08/2014,03/15/2019,14.3,99,53,N,N,N
+523,PUROK 3 ,"MORTEL,KRISANTA ","MORTEL,GIAN MIREY ",NO,M,07/15/2016,03/15/2019,12.3,91,32,N,N,N
+524,PUROK 3 ,"NAVALES,ANNA","NAVALES,MA. FRANCHESKA ",NO,F,11/28/2016,03/15/2019,13.3,89,27,N,N,N
+525,PUROK 3 ,"NICDAO,IZA MARIE ","NICDAO,CALEB",NO,M,11/24/2015,03/15/2019,14.2,91,39,N,N,N
+526,PUROK 3 ,SUBIAGAJEDALYN,"PATOC,JAN ADRIAN",NO,M,08/15/2015,03/15/2019,15.3,107,43,N,N,N
+527,PUROK 3 ,"SITJAR,GRACE ","PATOC,GRACY JADE ",NO,F,07/17/2015,03/15/2019,14.9,106,43,N,N,N
+528,PUROK 3 ,"DELA CRUZ, ANNA LORRIEN","PASCUAL,JOAQUIN",NO,M,06/08/2014,03/15/2019,16.9,104.3,57,N,N,N
+529,PUROK 3 ,"ZAMORA,MERRY JANE ","ZAMORA,NESHLY JAMES ",NO,M,12/02/2015,03/15/2019,14.7,101,39,N,N,N
+530,PUROK 3 ,"MAGTIBAY,ANGELINE ","ZACHARIAS,MAXWELL LAURENT ",NO,M,09/20/2017,03/15/2019,13.2,84,17,N,N,N
+531,PUROK 3 ,"VALDEZ,RONALYN ","VALDEZ, AJ ",NO,M,07/09/2014,03/15/2019,18,102,56,N,N,N
