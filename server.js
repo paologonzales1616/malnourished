@@ -23,7 +23,13 @@ server.get("/data/:brgy_index/:year", async (req, res) => {
   }
   res.json({
     sex: functions.getGender(brgyData),
-    age: functions.getAge(brgyData)
+    age: functions.getAge(brgyData),
+    getWeightForAge059: functions.getWeightForAge059(brgyData),
+    getHeightForAge059: functions.getHeightForAge059(brgyData),
+    getWeightForHeightLength059: functions.getWeightForHeightLength059(brgyData),
+    getWeightForAge071: functions.getWeightForAge071(brgyData),
+    getHeightForAge071: functions.getWeightForAge071(brgyData),
+    getWeightForHeightLength071: functions.getWeightForHeightLength071(brgyData)
   });
 });
 

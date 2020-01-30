@@ -52,7 +52,184 @@ function getAge(data) {
   };
 }
 
+function getWeightForAge059(data) {
+  let normal = 0;
+  let overweight = 0;
+  let underweight = 0;
+  let severely_underweight = 0;
+
+  data.map(v => {
+    const age = parseInt(v["Age in Months"]);
+    if (age < 60) {
+      const weight = v["Weight for Age Status"];
+      if (weight == "N") {
+        normal++;
+      } else if (weight == "OW") {
+        overweight++;
+      } else if (weight == "UW") {
+        underweight++;
+      } else if (weight == "SUW") {
+        severely_underweight++;
+      }
+    }
+  });
+
+  return {
+    normal,
+    overweight,
+    underweight,
+    severely_underweight
+  };
+}
+
+function getHeightForAge059(data) {
+  let normal = 0;
+  let tall = 0;
+  let stunted = 0;
+  let severely_stunted = 0;
+  data.map(v => {
+    const age = parseInt(v["Age in Months"]);
+    if (age < 60) {
+      const height = v["Height for Age Status"];
+      if (height == "N") {
+        normal++;
+      } else if (height == "T") {
+        tall++;
+      } else if (height == "St") {
+        stunted++;
+      } else if (height == "SSt") {
+        severely_stunted++;
+      }
+    }
+  });
+  return {
+    normal,
+    tall,
+    stunted,
+    severely_stunted
+  };
+}
+
+function getWeightForHeightLength059(data) {
+  let normal = 0;
+  let overweight = 0;
+  let obese = 0;
+  let wasted = 0;
+  let severely_wasted = 0;
+  data.map(v => {
+    const age = parseInt(v["Age in Months"]);
+    if (age < 60) {
+      const height = v["Height for Length/Height Status"];
+      if (height == "N") {
+        normal++;
+      } else if (height == "OW") {
+        overweight++;
+      } else if (height == "O") {
+        obese++;
+      } else if (height == "W") {
+        wasted++;
+      } else if (height == "SW") {
+        severely_wasted++;
+      }
+    }
+  });
+  return {
+    normal,
+    overweight,
+    obese,
+    wasted,
+    severely_wasted
+  };
+}
+
+function getWeightForAge071(data) {
+  let normal = 0;
+  let overweight = 0;
+  let underweight = 0;
+  let severely_underweight = 0;
+
+  data.map(v => {
+    const weight = v["Weight for Age Status"];
+    if (weight == "N") {
+      normal++;
+    } else if (weight == "OW") {
+      overweight++;
+    } else if (weight == "UW") {
+      underweight++;
+    } else if (weight == "SUW") {
+      severely_underweight++;
+    }
+  });
+
+  return {
+    normal,
+    overweight,
+    underweight,
+    severely_underweight
+  };
+}
+
+function getHeightForAge071(data) {
+  let normal = 0;
+  let tall = 0;
+  let stunted = 0;
+  let severely_stunted = 0;
+  data.map(v => {
+    const height = v["Height for Age Status"];
+    if (height == "N") {
+      normal++;
+    } else if (height == "T") {
+      tall++;
+    } else if (height == "St") {
+      stunted++;
+    } else if (height == "SSt") {
+      severely_stunted++;
+    }
+  });
+  return {
+    normal,
+    tall,
+    stunted,
+    severely_stunted
+  };
+}
+
+function getWeightForHeightLength071(data) {
+  let normal = 0;
+  let overweight = 0;
+  let obese = 0;
+  let wasted = 0;
+  let severely_wasted = 0;
+  data.map(v => {
+    const height = v["Height for Length/Height Status"];
+    if (height == "N") {
+      normal++;
+    } else if (height == "OW") {
+      overweight++;
+    } else if (height == "O") {
+      obese++;
+    } else if (height == "W") {
+      wasted++;
+    } else if (height == "SW") {
+      severely_wasted++;
+    }
+  });
+  return {
+    normal,
+    overweight,
+    obese,
+    wasted,
+    severely_wasted
+  };
+}
+
 module.exports = {
   getGender: getGender,
-  getAge: getAge
+  getAge: getAge,
+  getWeightForAge059: getWeightForAge059,
+  getHeightForAge059: getHeightForAge059,
+  getWeightForHeightLength059: getWeightForHeightLength059,
+  getWeightForAge071: getWeightForAge071,
+  getHeightForAge071: getHeightForAge071,
+  getWeightForHeightLength071: getWeightForHeightLength071
 };

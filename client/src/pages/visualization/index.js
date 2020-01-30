@@ -3,7 +3,7 @@ import Content from "../../components/content/Content";
 import { AppContext } from "../../core/utils/Store";
 import { config } from "../../core/config";
 import { Row, Col, Card } from "react-bootstrap";
-import { Pie } from "react-chartjs-2";
+import { Pie, Bar } from "react-chartjs-2";
 import { HEADERS } from "../../core/utils/Constants";
 import "chartjs-plugin-labels";
 const Index = () => {
@@ -21,6 +21,44 @@ const Index = () => {
       age_36_47: 0,
       age_48_59: 0,
       age_60_71: 0
+    },
+    getWeightForAge059: {
+      normal: 0,
+      overweight: 0,
+      underweight: 0,
+      severely_underweight: 0
+    },
+    getHeightForAge059: {
+      normal: 0,
+      tall: 0,
+      stunted: 0,
+      severely_stunted: 0
+    },
+    getWeightForHeightLength059: {
+      normal: 0,
+      overweight: 0,
+      obese: 0,
+      wasted: 0,
+      severely_wasted: 0
+    },
+    getWeightForAge071: {
+      normal: 0,
+      overweight: 0,
+      underweight: 0,
+      severely_underweight: 0
+    },
+    getHeightForAge071: {
+      normal: 0,
+      tall: 0,
+      stunted: 0,
+      severely_stunted: 0
+    },
+    getWeightForHeightLength071: {
+      normal: 0,
+      overweight: 0,
+      obese: 0,
+      wasted: 0,
+      severely_wasted: 0
     }
   });
 
@@ -81,21 +119,24 @@ const Index = () => {
         <Col sm={12} md={6}>
           <Card className="shadow-sm p-2 text-center">
             <p>AGE SUMMARY</p>
-            <Pie
+            <Bar
               options={{
                 responsive: true,
+                legend: {
+                  position: "top"
+                },
                 plugins: {
                   labels: {
                     render: "value",
                     // precision: 2,
                     fontColor: [
-                      "white",
-                      "white",
-                      "white",
-                      "white",
-                      "white",
-                      "white",
-                      "white"
+                      "black",
+                      "black",
+                      "black",
+                      "black",
+                      "black",
+                      "black",
+                      "black"
                     ],
                     fontSize: 16
                   }
@@ -119,9 +160,10 @@ const Index = () => {
                       "#ff9f40",
                       "#ffcd56",
                       "#4bc0c0",
-                      "#f48024",`
-                      "#989bd0"`
-                    ]
+                      "#f48024",
+                      "#989bd0"
+                    ],
+                    label: "AGE SUMMARY"
                   }
                 ],
                 labels: [
@@ -142,20 +184,34 @@ const Index = () => {
         <Col sm={12} md={4}>
           <Card className="shadow-sm p-2 text-center">
             <p>WEIGHT FOR AGE SUMMARY (0-59 MONTHS)</p>
-            <Pie
+            <Bar
               options={{
                 responsive: true,
                 plugins: {
                   labels: {
-                    render: "percentage",
-                    precision: 2,
-                    fontColor: ["white", "white"],
-                    fontSize: 16
+                    render: "value",
+                    fontColor: ["black", "black", "black", "black"]
                   }
                 }
               }}
               data={{
-                datasets: [],
+                datasets: [
+                  {
+                    data: [
+                      brgyData.getWeightForAge059.normal,
+                      brgyData.getWeightForAge059.overweight,
+                      brgyData.getWeightForAge059.underweight,
+                      brgyData.getWeightForAge059.severely_underweight
+                    ],
+                    backgroundColor: [
+                      "#ff6384",
+                      "#36a2eb",
+                      "#ff9f40",
+                      "#ffcd56"
+                    ],
+                    label: "WEIGHT FOR AGE SUMMARY (0-59 MONTHS)"
+                  }
+                ],
                 labels: [
                   "Normal",
                   "Overweight",
@@ -169,20 +225,34 @@ const Index = () => {
         <Col sm={12} md={4}>
           <Card className="shadow-sm p-2 text-center">
             <p>HEIGHT FOR AGE SUMMARY (0-59 MONTHS)</p>
-            <Pie
+            <Bar
               options={{
                 responsive: true,
                 plugins: {
                   labels: {
-                    render: "percentage",
-                    precision: 2,
-                    fontColor: ["white", "white"],
-                    fontSize: 16
+                    render: "value",
+                    fontColor: ["black", "black", "black", "black"]
                   }
                 }
               }}
               data={{
-                datasets: [],
+                datasets: [
+                  {
+                    data: [
+                      brgyData.getHeightForAge059.normal,
+                      brgyData.getHeightForAge059.tall,
+                      brgyData.getHeightForAge059.stunted,
+                      brgyData.getHeightForAge059.severely_stunted
+                    ],
+                    backgroundColor: [
+                      "#ff6384",
+                      "#36a2eb",
+                      "#ff9f40",
+                      "#ffcd56"
+                    ],
+                    label: "HEIGHT FOR AGE SUMMARY (0-59 MONTHS)"
+                  }
+                ],
                 labels: ["Normal", "Tall", "Stunted", "Severely Stunted"]
               }}
             />
@@ -191,20 +261,36 @@ const Index = () => {
         <Col sm={12} md={4}>
           <Card className="shadow-sm p-2 text-center">
             <p>WEIGHT FOR HEIGHT/LENGTH SUMMARY (0-59 MONTHS)</p>
-            <Pie
+            <Bar
               options={{
                 responsive: true,
                 plugins: {
                   labels: {
-                    render: "percentage",
-                    precision: 2,
-                    fontColor: ["white", "white"],
-                    fontSize: 16
+                    render: "value",
+                    fontColor: ["black", "black", "black", "black", "black"]
                   }
                 }
               }}
               data={{
-                datasets: [],
+                datasets: [
+                  {
+                    data: [
+                      brgyData.getWeightForHeightLength059.normal,
+                      brgyData.getWeightForHeightLength059.overweight,
+                      brgyData.getWeightForHeightLength059.obese,
+                      brgyData.getWeightForHeightLength059.wasted,
+                      brgyData.getWeightForHeightLength059.severely_wasted
+                    ],
+                    backgroundColor: [
+                      "#ff6384",
+                      "#36a2eb",
+                      "#ff9f40",
+                      "#ffcd56",
+                      "#bc98f5"
+                    ],
+                    label: "WEIGHT FOR HEIGHT/LENGTH SUMMARY (0-59 MONTHS)"
+                  }
+                ],
                 labels: [
                   "Normal",
                   "Overweight",
@@ -221,20 +307,34 @@ const Index = () => {
         <Col sm={12} md={4}>
           <Card className="shadow-sm p-2 text-center">
             <p>WEIGHT FOR AGE SUMMARY (0-71 MONTHS)</p>
-            <Pie
+            <Bar
               options={{
                 responsive: true,
                 plugins: {
                   labels: {
-                    render: "percentage",
-                    precision: 2,
-                    fontColor: ["white", "white"],
-                    fontSize: 16
+                    render: "value",
+                    fontColor: ["black", "black", "black", "black"]
                   }
                 }
               }}
               data={{
-                datasets: [],
+                datasets: [
+                  {
+                    data: [
+                      brgyData.getWeightForAge071.normal,
+                      brgyData.getWeightForAge071.overweight,
+                      brgyData.getWeightForAge071.underweight,
+                      brgyData.getWeightForAge071.severely_underweight
+                    ],
+                    backgroundColor: [
+                      "#ff6384",
+                      "#36a2eb",
+                      "#ff9f40",
+                      "#ffcd56"
+                    ],
+                    label: "WEIGHT FOR AGE SUMMARY (0-71 MONTHS)"
+                  }
+                ],
                 labels: [
                   "Normal",
                   "Overweight",
@@ -248,20 +348,34 @@ const Index = () => {
         <Col sm={12} md={4}>
           <Card className="shadow-sm p-2 text-center">
             <p>HEIGHT FOR AGE SUMMARY (0-71 MONTHS)</p>
-            <Pie
+            <Bar
               options={{
                 responsive: true,
                 plugins: {
                   labels: {
-                    render: "percentage",
-                    precision: 2,
-                    fontColor: ["white", "white"],
-                    fontSize: 16
+                    render: "value",
+                    fontColor: ["black", "black", "black", "black"]
                   }
                 }
               }}
               data={{
-                datasets: [],
+                datasets: [
+                  {
+                    data: [
+                      brgyData.getWeightForAge071.normal,
+                      brgyData.getWeightForAge071.tall,
+                      brgyData.getWeightForAge071.stunted,
+                      brgyData.getWeightForAge071.severely_stunted
+                    ],
+                    backgroundColor: [
+                      "#ff6384",
+                      "#36a2eb",
+                      "#ff9f40",
+                      "#ffcd56"
+                    ],
+                    label: "HEIGHT FOR AGE SUMMARY (0-71 MONTHS)"
+                  }
+                ],
                 labels: ["Normal", "Tall", "Stunted", "Severely Stunted"]
               }}
             />
@@ -270,20 +384,36 @@ const Index = () => {
         <Col sm={12} md={4}>
           <Card className="shadow-sm p-2 text-center">
             <p>WEIGHT FOR HEIGHT/LENGTH SUMMARY (0-71 MONTHS)</p>
-            <Pie
+            <Bar
               options={{
                 responsive: true,
                 plugins: {
                   labels: {
-                    render: "percentage",
-                    precision: 2,
-                    fontColor: ["white", "white"],
-                    fontSize: 16
+                    render: "value",
+                    fontColor: ["black", "black", "black", "black", "black"]
                   }
                 }
               }}
               data={{
-                datasets: [],
+                datasets: [
+                  {
+                    data: [
+                      brgyData.getWeightForHeightLength071.normal,
+                      brgyData.getWeightForHeightLength071.overweight,
+                      brgyData.getWeightForHeightLength071.obese,
+                      brgyData.getWeightForHeightLength071.wasted,
+                      brgyData.getWeightForHeightLength071.severely_wasted
+                    ],
+                    backgroundColor: [
+                      "#ff6384",
+                      "#36a2eb",
+                      "#ff9f40",
+                      "#ffcd56",
+                      "#bc98f5"
+                    ],
+                    label: "WEIGHT FOR HEIGHT/LENGTH SUMMARY (0-71 MONTHS)"
+                  }
+                ],
                 labels: [
                   "Normal",
                   "Overweight",
