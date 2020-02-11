@@ -10,12 +10,10 @@ import {
   faChartBar,
   faUser
 } from "@fortawesome/free-solid-svg-icons";
-import { Nav, Button, Row, Col, Image, Container } from "react-bootstrap";
+import { Nav, Button, Row, Col, Container } from "react-bootstrap";
 import classNames from "classnames";
 import { AppContext } from "../../core/utils/Store";
 import { Link, withRouter } from "react-router-dom";
-// import logo_no_title from "../../assets/images/logoNoTitle.png";
-// import logo_name from "../../assets/images/logoName.png";
 const SideBar = () => {
   const { app, setApp } = useContext(AppContext);
 
@@ -35,21 +33,11 @@ const SideBar = () => {
         >
           <FontAwesomeIcon icon={faTimes} pull="right" size="xs" />
         </Button>
-        <Container>
-          <Row>
-            <Col className="p-0 text-center" md={3}>
-              {/* <Image src={logo_no_title} fluid alt="logo_no_title" /> */}
-            </Col>
-            <Col className="p-0 text-center" md={9}>
-              {/* <Image src={logo_name} fluid alt="logo_name" /> */}
-            </Col>
-          </Row>
-        </Container>
       </div>
 
       <Nav className="flex-column pt-2">
         <Nav.Item className={classNames({ active: "home" == app.page })}>
-          <Link className="nav-link" to="/">
+          <Link className="nav-link" to="/home">
             <FontAwesomeIcon icon={faHome} className="mr-2" />
             Home
           </Link>
@@ -74,12 +62,17 @@ const SideBar = () => {
             Dataset
           </Link>
         </Nav.Item>
-        <Nav.Item className={classNames({ active: "account" == app.page })}>
-          <Link className="nav-link" to="/account">
-            <FontAwesomeIcon icon={faUser} className="mr-2" />
-            Account
-          </Link>
-        </Nav.Item>
+        {localStorage.getItem("accountType") == "admin" ? (
+          <Nav.Item className={classNames({ active: "account" == app.page })}>
+            <Link className="nav-link" to="/account">
+              <FontAwesomeIcon icon={faUser} className="mr-2" />
+              Account
+            </Link>
+          </Nav.Item>
+        ) : (
+          <></>
+        )}
+
         <Nav.Item className={classNames({ active: "about" == app.page })}>
           <Link className="nav-link" to="/about">
             <FontAwesomeIcon icon={faInfoCircle} className="mr-2" />

@@ -1,3 +1,11 @@
 .env
 node_modules
 package-lock.json
+
+
+# [
+#     {
+#         "username": "user",
+#         "password": "user123"
+#     }
+# ]

@@ -95,9 +95,9 @@ function getHeightForAge059(data) {
         normal++;
       } else if (height == "T") {
         tall++;
-      } else if (height == "St") {
+      } else if (height == "St" || height == "S") {
         stunted++;
-      } else if (height == "SSt") {
+      } else if (height == "SSt" || height == "SS") {
         severely_stunted++;
       }
     }
@@ -180,9 +180,9 @@ function getHeightForAge071(data) {
       normal++;
     } else if (height == "T") {
       tall++;
-    } else if (height == "St") {
+    } else if (height == "St" || height == "S") {
       stunted++;
-    } else if (height == "SSt") {
+    } else if (height == "SSt" || height == "SS") {
       severely_stunted++;
     }
   });

@@ -1,14 +1,23 @@
 import React, { useContext, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faAlignLeft } from "@fortawesome/free-solid-svg-icons";
-import { Navbar, Button, Nav, Form } from "react-bootstrap";
-import { AppContext, BrgyContext } from "../../core/utils/Store";
+import { faAlignLeft, faPowerOff } from "@fortawesome/free-solid-svg-icons";
+import {
+  Navbar,
+  Button,
+  Nav,
+  Form,
+  OverlayTrigger,
+  Tooltip
+} from "react-bootstrap";
+import { AppContext, BrgyContext, DateContext } from "../../core/utils/Store";
 import { withRouter } from "react-router-dom";
 import { BARANGAY_PROPERITES } from "../../core/utils/Constants";
+import Datetime from "react-datetime";
+import "react-datetime/css/react-datetime.css";
 const Navigationbar = ({ history }) => {
   const { app, setApp } = useContext(AppContext);
   const { brgy, setBrgy } = useContext(BrgyContext);
-
+  const { date, setDate } = useContext(DateContext);
   return (
     <Navbar
       bg="light"
@@ -24,15 +33,38 @@ const Navigationbar = ({ history }) => {
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="ml-auto pt-2" navbar>
-          {/* <OverlayTrigger
-            placement="auto"
-            overlay={<Tooltip>Information</Tooltip>}
-          >
-            <Nav.Link href="#">
-              <FontAwesomeIcon size="lg" icon={faInfoCircle} />
-            </Nav.Link>
-          </OverlayTrigger> */}
-          {/* <OverlayTrigger
+          {app.page != "account" &&
+          app.page != "about" &&
+          app.page != "home" ? (
+            <>
+              {app.page != "prediction" ? (
+                <Datetime
+                  className="mr-1"
+                  value={date}
+                  dateFormat="YYYY"
+                  timeFormat={false}
+                  onChange={date => setDate(date._d.getFullYear().toString())}
+                />
+              ) : (
+                <></>
+              )}
+              <Form.Control
+                value={brgy}
+                onChange={e => setBrgy(e.target.value)}
+                as="select"
+                className="mr-5"
+              >
+                {BARANGAY_PROPERITES.map((val, index) => (
+                  <option value={index} key={index}>
+                    {val.name}
+                  </option>
+                ))}
+              </Form.Control>
+            </>
+          ) : (
+            <></>
+          )}
+          <OverlayTrigger
             placement="auto"
             overlay={<Tooltip>Sign Out</Tooltip>}
           >
@@ -40,28 +72,14 @@ const Navigationbar = ({ history }) => {
               onClick={e => {
                 e.preventDefault();
                 history.push("/login");
-                Functions.logout();
+                localStorage.removeItem("accountType");
+                localStorage.removeItem("brgy")
               }}
               href="#"
             >
               <FontAwesomeIcon size="lg" icon={faPowerOff} />
             </Nav.Link>
-          </OverlayTrigger> */}
-          {app.page !== "account" && app.page != "about" ? (
-            <Form.Control
-              value={brgy}
-              onChange={e => setBrgy(e.target.value)}
-              as="select"
-            >
-              {BARANGAY_PROPERITES.map((val, index) => (
-                <option value={index} key={index}>
-                  {val.name}
-                </option>
-              ))}
-            </Form.Control>
-          ) : (
-            <></>
-          )}
+          </OverlayTrigger>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

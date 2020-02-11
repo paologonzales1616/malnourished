@@ -1,66 +1,16 @@
 import React, { useContext, useEffect, useState, useLayoutEffect } from "react";
 import Content from "../../components/content/Content";
-import { AppContext } from "../../core/utils/Store";
+import { AppContext, DateContext, BrgyContext } from "../../core/utils/Store";
 import { config } from "../../core/config";
 import { Row, Col, Card } from "react-bootstrap";
 import { Pie, Bar } from "react-chartjs-2";
-import { HEADERS } from "../../core/utils/Constants";
+import { HEADERS, DATA_VISUALIZATION_MODEL } from "../../core/utils/Constants";
 import "chartjs-plugin-labels";
 const Index = () => {
   const { app, setApp } = useContext(AppContext);
-  const [brgyData, setBrgyData] = useState({
-    sex: {
-      female: 0,
-      male: 0
-    },
-    age: {
-      age_0_5: 0,
-      age_6_11: 0,
-      age_12_23: 0,
-      age_24_35: 0,
-      age_36_47: 0,
-      age_48_59: 0,
-      age_60_71: 0
-    },
-    getWeightForAge059: {
-      normal: 0,
-      overweight: 0,
-      underweight: 0,
-      severely_underweight: 0
-    },
-    getHeightForAge059: {
-      normal: 0,
-      tall: 0,
-      stunted: 0,
-      severely_stunted: 0
-    },
-    getWeightForHeightLength059: {
-      normal: 0,
-      overweight: 0,
-      obese: 0,
-      wasted: 0,
-      severely_wasted: 0
-    },
-    getWeightForAge071: {
-      normal: 0,
-      overweight: 0,
-      underweight: 0,
-      severely_underweight: 0
-    },
-    getHeightForAge071: {
-      normal: 0,
-      tall: 0,
-      stunted: 0,
-      severely_stunted: 0
-    },
-    getWeightForHeightLength071: {
-      normal: 0,
-      overweight: 0,
-      obese: 0,
-      wasted: 0,
-      severely_wasted: 0
-    }
-  });
+  const { date, setDate } = useContext(DateContext);
+  const { brgy, setBrgy } = useContext(BrgyContext);
+  const [brgyData, setBrgyData] = useState(DATA_VISUALIZATION_MODEL);
 
   useEffect(() => {
     document.title = config.title + " | Data Visualization";
@@ -70,16 +20,23 @@ const Index = () => {
 
   useLayoutEffect(() => {
     fetchData();
-  }, []);
+  }, [date, brgy]);
 
   const fetchData = async () => {
     const optionsLegend = {
       headers: HEADERS
     };
     try {
-      const res = await fetch(`/data/0/2019`, optionsLegend);
+      const res = await fetch(
+        `${config.host}/data/${brgy}/${date}`,
+        optionsLegend
+      );
       const data = await res.json();
       console.log(data);
+      if (data.message) {
+        setBrgyData(DATA_VISUALIZATION_MODEL);
+        return;
+      }
       setBrgyData(data);
     } catch (error) {
       console.error(error);
@@ -89,6 +46,15 @@ const Index = () => {
   return (
     <Content>
       <Row className="pb-3">
+        <Col sm={12} md={12}>
+          {(brgyData.sex.female == 0 || brgyData.sex.male == 0) ? (
+            <Card className="text-center p-2 mb-3">
+              <h3 className="p-0 m-0">No Available Data</h3>
+            </Card>
+          ) : (
+            <></>
+          )}
+        </Col>
         <Col sm={12} md={6}>
           <Card className="shadow-sm p-2 text-center">
             <p>PERCENTAGE OF MALE AND FEMALE CHILDREN</p>
@@ -362,10 +328,10 @@ const Index = () => {
                 datasets: [
                   {
                     data: [
-                      brgyData.getWeightForAge071.normal,
-                      brgyData.getWeightForAge071.tall,
-                      brgyData.getWeightForAge071.stunted,
-                      brgyData.getWeightForAge071.severely_stunted
+                      brgyData.getHeightForAge071.normal,
+                      brgyData.getHeightForAge071.tall,
+                      brgyData.getHeightForAge071.stunted,
+                      brgyData.getHeightForAge071.severely_stunted
                     ],
                     backgroundColor: [
                       "#ff6384",

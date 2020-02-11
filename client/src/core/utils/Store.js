@@ -6,9 +6,11 @@ export const AppContext = createContext({
   previousWidth: -1,
   page: "home"
 });
-
+export const UserContext = createContext({
+  loggedIn: false
+});
 export const BrgyContext = createContext(0);
-
+export const DateContext = createContext(new Date().getFullYear().toString());
 const Store = ({ children }) => {
   const [brgy, setBrgy] = useState(0);
   const [app, setApp] = useState({
@@ -17,11 +19,19 @@ const Store = ({ children }) => {
     previousWidth: -1,
     page: "home"
   });
+  const [date, setDate] = useState(new Date().getFullYear().toString());
+  const [user, setUser] = useState({
+    loggedIn: false
+  });
   return (
     <AppContext.Provider value={{ app, setApp }}>
-      <BrgyContext.Provider value={{ brgy, setBrgy }}>
-        {children}
-      </BrgyContext.Provider>
+      <UserContext.Provider value={{ user, setUser }}>
+        <BrgyContext.Provider value={{ brgy, setBrgy }}>
+          <DateContext.Provider value={{ date, setDate }}>
+            {children}
+          </DateContext.Provider>
+        </BrgyContext.Provider>
+      </UserContext.Provider>
     </AppContext.Provider>
   );
 };

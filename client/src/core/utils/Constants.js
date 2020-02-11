@@ -2617,85 +2617,99 @@ export const BARANGAY_PROPERITES = [
     name: "Anos",
     population: 0,
     marker_coords: [121.2312, 14.1743],
-    boundary: ANOS_BOUNDARY
+    boundary: ANOS_BOUNDARY,
+    brgy: "anos"
   },
   {
     name: "Bagong Silang",
     population: 0,
     marker_coords: [121.2254, 14.1391],
-    boundary: BAGONG_SILANG_BOUNDARY
+    boundary: BAGONG_SILANG_BOUNDARY,
+    brgy: "bagong_silang"
   },
   {
     name: "Bambang",
     population: 0,
     marker_coords: [121.2175, 14.1773],
-    boundary: BAMBANG_BOUNDARY
+    boundary: BAMBANG_BOUNDARY,
+    brgy: "bambang"
   },
   {
     name: "Batong Malake",
     population: 0,
     marker_coords: [121.2385, 14.1643],
-    boundary: BATONG_MALAKE_BOUNDARY
+    boundary: BATONG_MALAKE_BOUNDARY,
+    brgy: "batong_malake"
   },
   {
     name: "Baybayin (poblacion)",
     population: 0,
     marker_coords: [121.2233, 14.1812],
-    boundary: BAYBAYIN_BOUNDARY
+    boundary: BAYBAYIN_BOUNDARY,
+    brgy: "baybayin"
   },
   {
     name: "Bayog",
     population: 0,
     marker_coords: [121.2483, 14.1873],
-    boundary: BAYOG_BOUNDARY
+    boundary: BAYOG_BOUNDARY,
+    brgy: "bayog"
   },
   {
     name: "Lalakay",
     population: 0,
     marker_coords: [121.2068, 14.1708],
-    boundary: LALAKAY_BOUNDARY
+    boundary: LALAKAY_BOUNDARY,
+    brgy: "lalakay"
   },
   {
     name: "Maahas",
     population: 0,
     marker_coords: [121.258, 14.1766],
-    boundary: MAAHAS_BOUNDARY
+    boundary: MAAHAS_BOUNDARY,
+    brgy: "maahas"
   },
   {
     name: "Malinta",
     population: 0,
     marker_coords: [121.2326, 14.1857],
-    boundary: MALINTA_BOUNDARY
+    boundary: MALINTA_BOUNDARY,
+    brgy: "malinta"
   },
   {
     name: "Mayondon",
     population: 0,
     marker_coords: [121.2387, 14.1887],
-    boundary: MAYONDON_BOUNDARY
+    boundary: MAYONDON_BOUNDARY,
+    brgy: "mayondon"
   },
   {
     name: "Putho Tuntungin",
     population: 0,
     marker_coords: [121.2541, 14.1504],
-    boundary: PUTHO_TUNTUNGIN_BOUNDARY
+    boundary: PUTHO_TUNTUNGIN_BOUNDARY,
+    brgy: "putho_tuntungin"
   },
   {
     name: "San Antonio",
     population: 0,
     marker_coords: [121.2482, 14.1757],
-    boundary: SAN_ANTONIO_BOUNDARY
+    boundary: SAN_ANTONIO_BOUNDARY,
+    brgy: "san_antonio"
   },
   {
     name: "Tadlac",
     population: 0,
     marker_coords: [121.2068, 14.1791],
-    boundary: TADLAC_BOUNDARY
+    boundary: TADLAC_BOUNDARY,
+    brgy: "tadlac"
   },
   {
     name: "Timugan (poblacion)",
     population: 0,
     marker_coords: [121.2219, 14.1737],
-    boundary: TIMUGAN_BOUNDARY
+    boundary: TIMUGAN_BOUNDARY,
+    brgy: "timugan"
   }
 ];
 
@@ -2713,3 +2727,99 @@ export const HEADERS = {
   Accept: "application/json",
   "Content-Type": "application/json"
 };
+
+export const DATA_VISUALIZATION_MODEL = {
+  sex: {
+    female: 0,
+    male: 0
+  },
+  age: {
+    age_0_5: 0,
+    age_6_11: 0,
+    age_12_23: 0,
+    age_24_35: 0,
+    age_36_47: 0,
+    age_48_59: 0,
+    age_60_71: 0
+  },
+  getWeightForAge059: {
+    normal: 0,
+    overweight: 0,
+    underweight: 0,
+    severely_underweight: 0
+  },
+  getHeightForAge059: {
+    normal: 0,
+    tall: 0,
+    stunted: 0,
+    severely_stunted: 0
+  },
+  getWeightForHeightLength059: {
+    normal: 0,
+    overweight: 0,
+    obese: 0,
+    wasted: 0,
+    severely_wasted: 0
+  },
+  getWeightForAge071: {
+    normal: 0,
+    overweight: 0,
+    underweight: 0,
+    severely_underweight: 0
+  },
+  getHeightForAge071: {
+    normal: 0,
+    tall: 0,
+    stunted: 0,
+    severely_stunted: 0
+  },
+  getWeightForHeightLength071: {
+    normal: 0,
+    overweight: 0,
+    obese: 0,
+    wasted: 0,
+    severely_wasted: 0
+  }
+};
+
+export const HEATMAP_OPTIONS = [
+  {
+    option: "HEIGHT FOR AGE SUMMARY (Normal)"
+  },
+  {
+    option: "HEIGHT FOR AGE SUMMARY (Tall)"
+  },
+  {
+    option: "HEIGHT FOR AGE SUMMARY (Stunted)"
+  },
+  {
+    option: "HEIGHT FOR AGE SUMMARY (Severely Stunted)"
+  },
+  {
+    option: "WEIGHT FOR AGE SUMMARY (Normal)"
+  },
+  {
+    option: "WEIGHT FOR AGE SUMMARY (Overweight)"
+  },
+  {
+    option: "WEIGHT FOR AGE SUMMARY (Underweight)"
+  },
+  {
+    option: "WEIGHT FOR AGE SUMMARY (Severely Underweight)"
+  },
+  {
+    option: "WEIGHT FOR HEIGHT/LENGTH SUMMARY (Normal)"
+  },
+  {
+    option: "WEIGHT FOR HEIGHT/LENGTH SUMMARY (Overweight)"
+  },
+  {
+    option: "WEIGHT FOR HEIGHT/LENGTH SUMMARY (Obese)"
+  },
+  {
+    option: "WEIGHT FOR HEIGHT/LENGTH SUMMARY (Wasted)"
+  },
+  {
+    option: "WEIGHT FOR HEIGHT/LENGTH SUMMARY (Severly Wasted)"
+  }
+];

@@ -1,10 +1,11 @@
 import React from 'react'
+import Content from '../../components/content/Content'
 
 const Index = () => {
     return (
-        <div>
+        <Content>
             
-        </div>
+        </Content>
     )
 }
 
