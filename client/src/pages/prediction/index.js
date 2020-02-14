@@ -7,6 +7,7 @@ import {
   HEADERS,
   BARANGAY_PROPERITES
 } from "../../core/utils/Constants";
+import { ToastContainer, toast } from "react-toastify";
 import { Row, Col, Card } from "react-bootstrap";
 import { Line, Bar } from "react-chartjs-2";
 const Index = () => {
@@ -41,6 +42,10 @@ const Index = () => {
           optionsLegend
         );
         const data = await res.json();
+        if (data.message) {
+          notifyA()
+          return 
+        }
         setPrediction(data);
         console.log(data);
       } else {
@@ -49,6 +54,10 @@ const Index = () => {
           optionsLegend
         );
         const data = await res.json();
+        if (data.message) {
+          notifyA()
+          return 
+        }
         setPrediction(data);
         console.log(data);
       }
@@ -56,9 +65,15 @@ const Index = () => {
       console.error(error);
     }
   }
-
+  const notifyA = () =>
+    toast.error(`No available prediction`, { containerId: "A" });
   return (
     <Content>
+          <ToastContainer
+        enableMultiContainer
+        containerId={"A"}
+        position={toast.POSITION.TOP_RIGHT}
+      />
       <Row>
         <Col className="pb-3" sm={12} md={4}>
           <Card className="shadow-sm p-2 text-center h-100">
