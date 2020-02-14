@@ -78,77 +78,107 @@ server.get("/dataset/:brgy_index/:year", async (req, res) => {
 
 server.get("/prediction/:brgy_index", async (req, res) => {
   const { brgy_index } = req.params;
-  // const { brgys } = require("./constants");
-  // const { getHeatmapData } = require("./functions");
-  // const brgy = brgy[brgy_index];
-  // const year = parseInt(new Date().getFullYear().toString());
-  let data = {
-    getWeightForAge: [
-      {
-        normal: 0,
-        overweight: 0,
-        underweight: 0,
-        severely_underweight: 0
-      },
-      {
-        normal: 0,
-        overweight: 0,
-        underweight: 0,
-        severely_underweight: 0
-      },
-      {
-        normal: 0,
-        overweight: 0,
-        underweight: 0,
-        severely_underweight: 0
-      }
-    ],
-    getHeightForAge: [
-      {
-        normal: 0,
-        tall: 0,
-        stunted: 0,
-        severely_stunted: 0
-      },
-      {
-        normal: 0,
-        tall: 0,
-        stunted: 0,
-        severely_stunted: 0
-      },
-      {
-        normal: 0,
-        tall: 0,
-        stunted: 0,
-        severely_stunted: 0
-      }
-    ],
-    getWeightForHeightLength: [
-      {
-        normal: 0,
-        overweight: 0,
-        obese: 0,
-        wasted: 0,
-        severely_wasted: 0
-      },
-      {
-        normal: 0,
-        overweight: 0,
-        obese: 0,
-        wasted: 0,
-        severely_wasted: 0
-      },
-      {
-        normal: 0,
-        overweight: 0,
-        obese: 0,
-        wasted: 0,
-        severely_wasted: 0
-      }
-    ]
-  };
+  const { brgys } = require("./constants");
+  const {
+    getWeightForHeightLength071,
+    getHeightForAge071,
+    getWeightForAge071
+  } = require("./functions");
+  const brgy = brgys[brgy_index];
+  const year = parseInt(new Date().getFullYear().toString());
 
- return res.json(data);
+  try {
+    const data1 = require(`./data/${parseInt(year) - 2}/${brgy}.json`);
+    const data2 = require(`./data/${parseInt(year) - 1}/${brgy}.json`);
+
+    let data = {
+      getWeightForAge: [
+        getWeightForAge071(data1),
+        getWeightForAge071(data2),
+        {
+          normal: parseInt(
+            (getWeightForAge071(data1).normal +
+              getWeightForAge071(data2).normal) /
+              2
+          ),
+          overweight: parseInt(
+            (getWeightForAge071(data1).overweight +
+              getWeightForAge071(data2).overweight) /
+              2
+          ),
+          underweight: parseInt(
+            (getWeightForAge071(data1).underweight +
+              getWeightForAge071(data2).underweight) /
+              2
+          ),
+          severely_underweight: parseInt(
+            (getWeightForAge071(data1).severely_underweight +
+              getWeightForAge071(data2).severely_underweight) /
+              2
+          )
+        }
+      ],
+      getHeightForAge: [
+        getHeightForAge071(data1),
+        getHeightForAge071(data2),
+        {
+          normal: parseInt(
+            (getHeightForAge071(data1).normal +
+              getHeightForAge071(data2).normal) /
+              2
+          ),
+          tall: parseInt(
+            (getHeightForAge071(data1).tall + getHeightForAge071(data2).tall) /
+              2
+          ),
+          stunted: parseInt(
+            (getHeightForAge071(data1).stunted +
+              getHeightForAge071(data2).stunted) /
+              2
+          ),
+          severely_stunted: parseInt(
+            (getHeightForAge071(data1).severely_stunted +
+              getHeightForAge071(data2).severely_stunted) /
+              2
+          )
+        }
+      ],
+      getWeightForHeightLength: [
+        getWeightForHeightLength071(data1),
+        getWeightForHeightLength071(data2),
+        {
+          normal: parseInt(
+            (getWeightForHeightLength071(data1).normal +
+              getWeightForHeightLength071(data2).normal) /
+              2
+          ),
+          overweight: parseInt(
+            (getWeightForHeightLength071(data1).overweight +
+              getWeightForHeightLength071(data2).overweight) /
+              2
+          ),
+          obese: parseInt(
+            (getWeightForHeightLength071(data1).obese +
+              getWeightForHeightLength071(data2).obese) /
+              2
+          ),
+          wasted: parseInt(
+            (getWeightForHeightLength071(data1).wasted +
+              getWeightForHeightLength071(data2).wasted) /
+              2
+          ),
+          severely_wasted: parseInt(
+            (getWeightForHeightLength071(data1).severely_wasted +
+              getWeightForHeightLength071(data2).severely_wasted) /
+              2
+          )
+        }
+      ]
+    };
+    return res.json(data);
+  } catch (error) {
+    return res.json({ message: "No Available Prediction Missing Data" });
+  }
 });
 
 server.get("/accounts", async (req, res) => {
@@ -196,6 +226,15 @@ server.get("/heatmap/:year/:option", async (req, res) => {
   const { getHeatmapData } = require("./functions");
   const data = getHeatmapData(year, option);
   res.json(data);
+});
+
+server.get("/sample", (req, res) => {
+  const file = fs.createReadStream("./data/csv/sample/sample.csv");
+  const stat = fs.statSync("./data/csv/sample/sample.csv");
+  res.setHeader("Content-Length", stat.size);
+  res.setHeader("Content-Type", "application/csv");
+  res.setHeader("Content-Disposition", "attachment; filename=sample.csv");
+  file.pipe(res);
 });
 
 // Serve the static files from the React app

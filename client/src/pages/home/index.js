@@ -51,6 +51,8 @@ const Index = () => {
     const body = await res.json();
     setHeatmapData(body);
     console.log(body);
+
+    
   }
 
   const layerPaint = {

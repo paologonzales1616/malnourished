@@ -2,13 +2,18 @@ import React, { useContext, useEffect, useLayoutEffect, useState } from "react";
 import Content from "../../components/content/Content";
 import { AppContext, BrgyContext, DateContext } from "../../core/utils/Store";
 import { config } from "../../core/config";
-import { Card, Row, Col, Button, Table } from "react-bootstrap";
+import { Card, Row, Col, Button, Table, Modal } from "react-bootstrap";
 import { BARANGAY_PROPERITES } from "../../core/utils/Constants";
 const Index = () => {
   const { app, setApp } = useContext(AppContext);
   const { brgy, setBrgy } = useContext(BrgyContext);
   const { date, setDate } = useContext(DateContext);
   const [dataset, setDataset] = useState([]);
+  const [showDelete, setShowDelete] = useState(false);
+  const [showUpdate, setShowUpdate] = useState(false);
+  const [showNew, setShowNew] = useState(false);
+  const [selectedUserIndex, setSelectedUserIndex] = useState(0); // Selected index for delete
+
   useEffect(() => {
     document.title = config.title + " | Dataset";
     setApp({ ...app, page: "dataset" });
@@ -57,6 +62,30 @@ const Index = () => {
     }
   }
 
+  const handleShowDelete = index => {
+    setShowDelete(true);
+  };
+
+  const handleCloseDelete = () => {
+    setShowDelete(false);
+  };
+
+  const handleShowUpdate = user => {
+    setShowUpdate(true);
+  };
+
+  const handleCloseUpdate = () => {
+    setShowUpdate(false);
+  };
+
+  const handleShowNew = () => {
+    setShowNew(true);
+  };
+
+  const handleCloseNew = () => {
+    setShowNew(false);
+  };
+
   return (
     <Content>
       <Row>
@@ -64,9 +93,13 @@ const Index = () => {
           <Card className="p-2 mb-3">
             <h5 className="p-0 m-0">
               You can download a sample dataset here.{" "}
-              <Button variant="outline-success" size="sm">
+              <a
+                href="http://localhost:5000/sample"
+                class="btn btn-sm btn-outline-success"
+                target="_blank"
+              >
                 Download
-              </Button>
+              </a>
             </h5>
           </Card>
         </Col>
@@ -114,7 +147,11 @@ const Index = () => {
                   <td>{data["Height for Age Status"]}</td>
                   <td>{data["Height for Length/Height Status"]}</td>
                   <td>
-                    <Button size="sm" variant="outline-danger">
+                    <Button
+                      size="sm"
+                      variant="outline-danger"
+                      onClick={() => handleShowDelete()}
+                    >
                       Delete
                     </Button>{" "}
                     <Button size="sm" variant="secondary">
@@ -127,6 +164,20 @@ const Index = () => {
           </Table>
         </Col>
       </Row>
+      <Modal show={showDelete} onHide={handleCloseDelete}>
+        <Modal.Header closeButton>
+          <Modal.Title>Confirm</Modal.Title>
+        </Modal.Header>
+        <Modal.Body>Are you sure you want to delete?</Modal.Body>
+        <Modal.Footer>
+          <Button variant="danger" onClick={() => {}}>
+            Yes
+          </Button>
+          <Button variant="outline-secondary" onClick={handleCloseDelete}>
+            No
+          </Button>
+        </Modal.Footer>
+      </Modal>
     </Content>
   );
 };
