@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext, useLayoutEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faAlignLeft, faPowerOff } from "@fortawesome/free-solid-svg-icons";
 import {
@@ -18,6 +18,7 @@ const Navigationbar = ({ history }) => {
   const { app, setApp } = useContext(AppContext);
   const { brgy, setBrgy } = useContext(BrgyContext);
   const { date, setDate } = useContext(DateContext);
+
   return (
     <Navbar
       bg="light"
@@ -32,6 +33,20 @@ const Navigationbar = ({ history }) => {
       </Button>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
+        <Nav className="mr-auto pl-2" navbar>
+          {localStorage.getItem("accountType") == "user" ? (
+            <h4 className="p-0 m-0">
+              Brgy.{" "}
+              {
+                BARANGAY_PROPERITES.find(
+                  e => e.brgy == localStorage.getItem("brgy")
+                ).name
+              }
+            </h4>
+          ) : (
+            <></>
+          )}
+        </Nav>
         <Nav className="ml-auto pt-2" navbar>
           {app.page != "account" &&
           app.page != "about" &&
@@ -48,18 +63,22 @@ const Navigationbar = ({ history }) => {
               ) : (
                 <></>
               )}
-              <Form.Control
-                value={brgy}
-                onChange={e => setBrgy(e.target.value)}
-                as="select"
-                className="mr-5"
-              >
-                {BARANGAY_PROPERITES.map((val, index) => (
-                  <option value={index} key={index}>
-                    {val.name}
-                  </option>
-                ))}
-              </Form.Control>
+              {localStorage.getItem("accountType") != "user" ? (
+                <Form.Control
+                  value={brgy}
+                  onChange={e => setBrgy(e.target.value)}
+                  as="select"
+                  className="mr-5"
+                >
+                  {BARANGAY_PROPERITES.map((val, index) => (
+                    <option value={index} key={index}>
+                      {val.name}
+                    </option>
+                  ))}
+                </Form.Control>
+              ) : (
+                <></>
+              )}
             </>
           ) : (
             <></>
@@ -73,7 +92,7 @@ const Navigationbar = ({ history }) => {
                 e.preventDefault();
                 history.push("/login");
                 localStorage.removeItem("accountType");
-                localStorage.removeItem("brgy")
+                localStorage.removeItem("brgy");
               }}
               href="#"
             >

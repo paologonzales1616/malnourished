@@ -44,9 +44,8 @@ server.get("/data/:brgy_index/:year", async (req, res) => {
   const { brgys } = require("./constants");
   const brgy_index = req.params.brgy_index;
   const year = req.params.year;
-  let brgyData;
   try {
-    brgyData = require(`./data/${year}/${brgys[brgy_index]}.json`);
+    const brgyData = require(`./data/${year}/${brgys[brgy_index]}.json`);
     res.json({
       sex: functions.getGender(brgyData),
       age: functions.getAge(brgyData),
@@ -66,6 +65,92 @@ server.get("/data/:brgy_index/:year", async (req, res) => {
   }
 });
 
+server.get("/dataset/:brgy_index/:year", async (req, res) => {
+  const { brgys } = require("./constants");
+  const { year, brgy_index } = req.params;
+  try {
+    const brgyData = require(`./data/${year}/${brgys[brgy_index]}.json`);
+    return res.json(brgyData);
+  } catch (error) {
+    return res.json({ message: "No available data." });
+  }
+});
+
+server.get("/prediction/:brgy_index", async (req, res) => {
+  const { brgy_index } = req.params;
+  // const { brgys } = require("./constants");
+  // const { getHeatmapData } = require("./functions");
+  // const brgy = brgy[brgy_index];
+  // const year = parseInt(new Date().getFullYear().toString());
+  let data = {
+    getWeightForAge: [
+      {
+        normal: 0,
+        overweight: 0,
+        underweight: 0,
+        severely_underweight: 0
+      },
+      {
+        normal: 0,
+        overweight: 0,
+        underweight: 0,
+        severely_underweight: 0
+      },
+      {
+        normal: 0,
+        overweight: 0,
+        underweight: 0,
+        severely_underweight: 0
+      }
+    ],
+    getHeightForAge: [
+      {
+        normal: 0,
+        tall: 0,
+        stunted: 0,
+        severely_stunted: 0
+      },
+      {
+        normal: 0,
+        tall: 0,
+        stunted: 0,
+        severely_stunted: 0
+      },
+      {
+        normal: 0,
+        tall: 0,
+        stunted: 0,
+        severely_stunted: 0
+      }
+    ],
+    getWeightForHeightLength: [
+      {
+        normal: 0,
+        overweight: 0,
+        obese: 0,
+        wasted: 0,
+        severely_wasted: 0
+      },
+      {
+        normal: 0,
+        overweight: 0,
+        obese: 0,
+        wasted: 0,
+        severely_wasted: 0
+      },
+      {
+        normal: 0,
+        overweight: 0,
+        obese: 0,
+        wasted: 0,
+        severely_wasted: 0
+      }
+    ]
+  };
+
+ return res.json(data);
+});
+
 server.get("/accounts", async (req, res) => {
   const accounts = require("./data/accounts/accounts.json");
   res.json(accounts);
@@ -73,7 +158,7 @@ server.get("/accounts", async (req, res) => {
 
 server.delete("/accounts", async (req, res) => {
   const { userIndex } = req.body;
-  console.log(userIndex)
+  console.log(userIndex);
   const accounts = require("./data/accounts/accounts.json");
   accounts.splice(userIndex, 1);
   fs.writeFileSync("./data/accounts/accounts.json", JSON.stringify(accounts));
@@ -104,6 +189,13 @@ server.put("/accounts", async (req, res) => {
   return res.json({
     message: "success"
   });
+});
+
+server.get("/heatmap/:year/:option", async (req, res) => {
+  const { year, option } = req.params;
+  const { getHeatmapData } = require("./functions");
+  const data = getHeatmapData(year, option);
+  res.json(data);
 });
 
 // Serve the static files from the React app

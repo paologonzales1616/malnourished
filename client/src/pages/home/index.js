@@ -29,7 +29,7 @@ const Index = () => {
   const [selectedBrgy, setselectedBrgy] = useState(0);
   const [date, setDate] = useState(new Date().getFullYear().toString());
   const [heatmapOption, setheatmapOption] = useState(0);
-
+  const [heatmapData, setHeatmapData] = useState([]);
   useEffect(() => {
     document.title = config.title + " | Home";
     setApp({ ...app, page: "home" });
@@ -37,17 +37,67 @@ const Index = () => {
   }, []);
 
   useLayoutEffect(() => {
-    // getHeatMap();
-  }, []);
+    getHeatMap();
+  }, [date, heatmapOption]);
 
   async function getHeatMap() {
     const options = {
       header: config.headers
     };
-    const res = await fetch(`${config.host}/heatmap/${heatmapOption}`, options)
-    const body = await res.json()
-    console.log(body)
+    const res = await fetch(
+      `${config.host}/heatmap/${date}/${heatmapOption}`,
+      options
+    );
+    const body = await res.json();
+    setHeatmapData(body);
+    console.log(body);
   }
+
+  const layerPaint = {
+    "heatmap-weight": {
+      property: "heat",
+      type: "exponential",
+      stops: [
+        [0, 0],
+        [5, 2]
+      ]
+    },
+    // Increase the heatmap color weight weight by zoom level
+    // heatmap-ntensity is a multiplier on top of heatmap-weight
+    "heatmap-intensity": {
+      stops: [
+        [0, 0],
+        [5, 1.2]
+      ]
+    },
+    // Color ramp for heatmap.  Domain is 0 (low) to 1 (high).
+    // Begin color ramp at 0-stop with a 0-transparancy color
+    // to create a blur-like effect.
+    "heatmap-color": [
+      "interpolate",
+      ["linear"],
+      ["heatmap-density"],
+      0,
+      "rgba(33,102,172,0)",
+      0.2,
+      "rgb(103,169,207)",
+      0.4,
+      "rgb(209,229,240)",
+      0.6,
+      "rgb(253,219,199)",
+      0.8,
+      "rgb(239,138,98)",
+      1,
+      "rgb(178,24,43)"
+    ],
+    // Adjust the heatmap radius by zoom level
+    "heatmap-radius": {
+      stops: [
+        [0, 1],
+        [5, 50]
+      ]
+    }
+  };
 
   return (
     <Content>
@@ -56,7 +106,7 @@ const Index = () => {
           <Card className="shadow-sm">
             <Map
               className="rounded"
-              style="mapbox://styles/mapbox/streets-v11"
+              style="mapbox://styles/mapbox/dark-v9"
               containerStyle={{
                 height: "calc(100vh * .50)",
                 width: "100%"
@@ -75,14 +125,25 @@ const Index = () => {
                   "line-width": 2
                 }}
               />
-              <Layer
+              <Layer type="heatmap" paint={layerPaint}>
+                {heatmapData.map(data =>
+                  data.coords.map((coords, index) => (
+                    <Feature
+                      key={index}
+                      coordinates={coords}
+                      properties={{ heat: .5 }}
+                    />
+                  ))
+                )}
+              </Layer>
+              {/* <Layer
                 type="fill"
                 paint={{ "fill-color": "rgba(184, 218, 255, 0.80)" }}
               >
                 <Feature
                   coordinates={BARANGAY_PROPERITES[selectedBrgy].boundary}
                 />
-              </Layer>
+              </Layer> */}
 
               {BARANGAY_PROPERITES.map((v, index) => (
                 <Layer
@@ -140,7 +201,7 @@ const Index = () => {
                 </tr>
               </thead>
               <tbody>
-                {BARANGAY_PROPERITES.map((v, index) => (
+                {heatmapData.map((v, index) => (
                   <tr
                     style={{ cursor: "pointer" }}
                     className={classNames({
@@ -149,8 +210,8 @@ const Index = () => {
                     key={index}
                     onClick={() => setselectedBrgy(index)}
                   >
-                    <td>{v.name}</td>
-                    <td>{v.population}</td>
+                    <td>{BARANGAY_PROPERITES[index].name}</td>
+                    <td>{v.length}</td>
                   </tr>
                 ))}
               </tbody>

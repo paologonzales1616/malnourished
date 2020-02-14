@@ -6,13 +6,14 @@ import { Card, Form, Button, InputGroup } from "react-bootstrap";
 import styles from "./index.module.css";
 import { withRouter } from "react-router-dom";
 import logo from "../../assets/images/logo.png";
-import { UserContext } from "../../core/utils/Store";
+import { UserContext, BrgyContext } from "../../core/utils/Store";
 import { BARANGAY_PROPERITES } from "../../core/utils/Constants";
 import { ToastContainer, toast } from "react-toastify";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEyeSlash, faEye } from "@fortawesome/free-solid-svg-icons";
 
 const Index = ({ history }) => {
+  const { brgy, setBrgy } = useContext(BrgyContext);
   const { setUser } = useContext(UserContext);
   const [showPassword, setShowPassword] = useState(false);
 
@@ -37,11 +38,15 @@ const Index = ({ history }) => {
       loggedIn: true,
       accountType: content.account_type
     });
+
     localStorage.setItem("accountType", content.account_type);
     if (content.account_type == "admin") {
       await history.push("/admin");
     }
     localStorage.setItem("brgy", values.brgy);
+    setBrgy(
+      BARANGAY_PROPERITES.findIndex(e => e.brgy == localStorage.getItem("brgy"))
+    );
     await history.push("/home");
   };
 

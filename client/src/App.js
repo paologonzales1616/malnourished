@@ -26,7 +26,6 @@ const App = () => {
           <Route path="/about" component={AboutPage} />
           <Route path="/dataset" component={DatasetPage} />
           <Route path="/account" component={AccountPage} />
-
           <Route path="/prediction" component={PredictionPage} />
           <Route path="/visualization" component={VisualizationPage} />
         </Switch>

@@ -11,7 +11,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "2",
@@ -25,7 +29,11 @@
         "Age in Months": "52",
         "Weight for Age Status": "N",
         "Height for Age Status": "SS",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "3",
@@ -39,7 +47,11 @@
         "Age in Months": "100",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "4",
@@ -53,7 +65,11 @@
         "Age in Months": "75.5",
         "Weight for Age Status": "SUW",
         "Height for Age Status": "S",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "5",
@@ -67,7 +83,11 @@
         "Age in Months": "105",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "6",
@@ -81,7 +101,11 @@
         "Age in Months": "89",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "7",
@@ -95,7 +119,11 @@
         "Age in Months": "84",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "8",
@@ -109,7 +137,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "UW",
         "Height for Age Status": "S",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "9",
@@ -123,7 +155,11 @@
         "Age in Months": "98.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "10",
@@ -137,7 +173,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "11",
@@ -151,7 +191,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "12",
@@ -165,7 +209,11 @@
         "Age in Months": "87",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "13",
@@ -179,7 +227,11 @@
         "Age in Months": "71",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "14",
@@ -193,7 +245,11 @@
         "Age in Months": "106",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "15",
@@ -207,7 +263,11 @@
         "Age in Months": "104.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "16",
@@ -221,7 +281,11 @@
         "Age in Months": "95",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "17",
@@ -235,7 +299,11 @@
         "Age in Months": "99",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "18",
@@ -249,7 +317,11 @@
         "Age in Months": "74",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "19",
@@ -263,7 +335,11 @@
         "Age in Months": "83",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "20",
@@ -277,7 +353,11 @@
         "Age in Months": "94",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "21",
@@ -291,7 +371,11 @@
         "Age in Months": "92",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "22",
@@ -305,7 +389,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "23",
@@ -319,7 +407,11 @@
         "Age in Months": "83",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "24",
@@ -333,7 +425,11 @@
         "Age in Months": "89",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "25",
@@ -347,7 +443,11 @@
         "Age in Months": "86",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "26",
@@ -361,7 +461,11 @@
         "Age in Months": "100.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "27",
@@ -375,7 +479,11 @@
         "Age in Months": "91",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "28",
@@ -389,7 +497,11 @@
         "Age in Months": "87",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "29",
@@ -403,7 +515,11 @@
         "Age in Months": "99",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "30",
@@ -417,7 +533,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "31",
@@ -431,7 +551,11 @@
         "Age in Months": "109",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "32",
@@ -445,7 +569,11 @@
         "Age in Months": "105",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "33",
@@ -459,7 +587,11 @@
         "Age in Months": "86",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "34",
@@ -473,7 +605,11 @@
         "Age in Months": "91",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "35",
@@ -487,7 +623,11 @@
         "Age in Months": "86",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "36",
@@ -501,7 +641,11 @@
         "Age in Months": "95",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "37",
@@ -515,7 +659,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "38",
@@ -529,7 +677,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "39",
@@ -543,7 +695,11 @@
         "Age in Months": "84",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "40",
@@ -557,7 +713,11 @@
         "Age in Months": "70",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "41",
@@ -571,7 +731,11 @@
         "Age in Months": "106",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "42",
@@ -585,7 +749,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "43",
@@ -599,7 +767,11 @@
         "Age in Months": "71",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "44",
@@ -613,7 +785,11 @@
         "Age in Months": "112",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "45",
@@ -627,7 +803,11 @@
         "Age in Months": "84.4",
         "Weight for Age Status": "UW",
         "Height for Age Status": "S",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "46",
@@ -641,7 +821,11 @@
         "Age in Months": "90",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "47",
@@ -655,7 +839,11 @@
         "Age in Months": "90",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "48",
@@ -669,7 +857,11 @@
         "Age in Months": "109",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "49",
@@ -683,7 +875,11 @@
         "Age in Months": "105",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "50",
@@ -697,7 +893,11 @@
         "Age in Months": "123",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "Ob"
+        "Height for Length/Height Status": "Ob",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "51",
@@ -711,7 +911,11 @@
         "Age in Months": "113",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "52",
@@ -725,7 +929,11 @@
         "Age in Months": "103",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "53",
@@ -739,7 +947,11 @@
         "Age in Months": "88",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "54",
@@ -753,7 +965,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "55",
@@ -767,7 +983,11 @@
         "Age in Months": "77",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "56",
@@ -781,7 +1001,11 @@
         "Age in Months": "103",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "57",
@@ -795,7 +1019,11 @@
         "Age in Months": "99",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "58",
@@ -809,7 +1037,11 @@
         "Age in Months": "103",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "59",
@@ -823,7 +1055,11 @@
         "Age in Months": "82",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "60",
@@ -837,7 +1073,11 @@
         "Age in Months": "66.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "61",
@@ -851,7 +1091,11 @@
         "Age in Months": "72",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "62",
@@ -865,7 +1109,11 @@
         "Age in Months": "101",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "63",
@@ -879,7 +1127,11 @@
         "Age in Months": "83",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "64",
@@ -893,7 +1145,11 @@
         "Age in Months": "94",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "65",
@@ -907,7 +1163,11 @@
         "Age in Months": "75",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "66",
@@ -921,7 +1181,11 @@
         "Age in Months": "102",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "67",
@@ -935,7 +1199,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "68",
@@ -949,7 +1217,11 @@
         "Age in Months": "53",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "69",
@@ -963,7 +1235,11 @@
         "Age in Months": "100.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "70",
@@ -977,7 +1253,11 @@
         "Age in Months": "98.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "71",
@@ -991,7 +1271,11 @@
         "Age in Months": "107.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "72",
@@ -1005,7 +1289,11 @@
         "Age in Months": "86.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "73",
@@ -1019,7 +1307,11 @@
         "Age in Months": "108",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "74",
@@ -1033,7 +1325,11 @@
         "Age in Months": "84",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "75",
@@ -1047,7 +1343,11 @@
         "Age in Months": "100",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "76",
@@ -1061,7 +1361,11 @@
         "Age in Months": "80",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "77",
@@ -1075,7 +1379,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "78",
@@ -1089,7 +1397,11 @@
         "Age in Months": "73",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "79",
@@ -1103,7 +1415,11 @@
         "Age in Months": "85.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "80",
@@ -1117,7 +1433,11 @@
         "Age in Months": "92",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "81",
@@ -1131,7 +1451,11 @@
         "Age in Months": "96",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "82",
@@ -1145,7 +1469,11 @@
         "Age in Months": "70",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "83",
@@ -1159,7 +1487,11 @@
         "Age in Months": "69",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "84",
@@ -1173,7 +1505,11 @@
         "Age in Months": "95",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "85",
@@ -1187,7 +1523,11 @@
         "Age in Months": "92",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "86",
@@ -1201,7 +1541,11 @@
         "Age in Months": "90",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "87",
@@ -1215,7 +1559,11 @@
         "Age in Months": "101.5",
         "Weight for Age Status": "UW",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "88",
@@ -1229,7 +1577,11 @@
         "Age in Months": "76",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "89",
@@ -1243,7 +1595,11 @@
         "Age in Months": "68",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "90",
@@ -1257,7 +1613,11 @@
         "Age in Months": "68",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "91",
@@ -1271,7 +1631,11 @@
         "Age in Months": "100",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "92",
@@ -1285,7 +1649,11 @@
         "Age in Months": "107",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "93",
@@ -1299,7 +1667,11 @@
         "Age in Months": "110",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "94",
@@ -1313,7 +1685,11 @@
         "Age in Months": "110.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "95",
@@ -1327,7 +1703,11 @@
         "Age in Months": "85.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "96",
@@ -1341,7 +1721,11 @@
         "Age in Months": "100.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "97",
@@ -1355,7 +1739,11 @@
         "Age in Months": "93",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "98",
@@ -1369,7 +1757,11 @@
         "Age in Months": "102",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "99",
@@ -1383,7 +1775,11 @@
         "Age in Months": "95",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "100",
@@ -1397,7 +1793,11 @@
         "Age in Months": "72",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "101",
@@ -1411,7 +1811,11 @@
         "Age in Months": "91",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "102",
@@ -1425,7 +1829,11 @@
         "Age in Months": "96",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "103",
@@ -1439,7 +1847,11 @@
         "Age in Months": "93",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "104",
@@ -1453,7 +1865,11 @@
         "Age in Months": "100",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "105",
@@ -1467,7 +1883,11 @@
         "Age in Months": "101",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "106",
@@ -1481,7 +1901,11 @@
         "Age in Months": "74",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "107",
@@ -1495,7 +1919,11 @@
         "Age in Months": "83",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "108",
@@ -1509,7 +1937,11 @@
         "Age in Months": "84",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "109",
@@ -1523,7 +1955,11 @@
         "Age in Months": "106",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "110",
@@ -1537,7 +1973,11 @@
         "Age in Months": "99",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "111",
@@ -1551,7 +1991,11 @@
         "Age in Months": "105",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "112",
@@ -1565,7 +2009,11 @@
         "Age in Months": "81.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "113",
@@ -1579,7 +2027,11 @@
         "Age in Months": "76",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "114",
@@ -1593,7 +2045,11 @@
         "Age in Months": "91",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "115",
@@ -1607,7 +2063,11 @@
         "Age in Months": "107",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "116",
@@ -1621,7 +2081,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "117",
@@ -1635,7 +2099,11 @@
         "Age in Months": "106",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "118",
@@ -1649,7 +2117,11 @@
         "Age in Months": "101",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "119",
@@ -1663,7 +2135,11 @@
         "Age in Months": "85",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "120",
@@ -1677,7 +2153,11 @@
         "Age in Months": "106",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "121",
@@ -1691,7 +2171,11 @@
         "Age in Months": "111",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "122",
@@ -1705,7 +2189,11 @@
         "Age in Months": "84",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "123",
@@ -1719,7 +2207,11 @@
         "Age in Months": "94",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "SW"
+        "Height for Length/Height Status": "SW",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "124",
@@ -1733,7 +2225,11 @@
         "Age in Months": "96",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "125",
@@ -1747,7 +2243,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "126",
@@ -1761,7 +2261,11 @@
         "Age in Months": "99.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "127",
@@ -1775,7 +2279,11 @@
         "Age in Months": "105.5",
         "Weight for Age Status": "OW",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "Ob"
+        "Height for Length/Height Status": "Ob",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "128",
@@ -1789,7 +2297,11 @@
         "Age in Months": "110",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "129",
@@ -1803,7 +2315,11 @@
         "Age in Months": "109",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "130",
@@ -1817,7 +2333,11 @@
         "Age in Months": "110",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "131",
@@ -1831,7 +2351,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "132",
@@ -1845,7 +2369,11 @@
         "Age in Months": "75",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "133",
@@ -1859,7 +2387,11 @@
         "Age in Months": "105",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "134",
@@ -1873,7 +2405,11 @@
         "Age in Months": "87",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "135",
@@ -1887,7 +2423,11 @@
         "Age in Months": "79",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "136",
@@ -1901,7 +2441,11 @@
         "Age in Months": "91",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "137",
@@ -1915,7 +2459,11 @@
         "Age in Months": "87",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "138",
@@ -1929,7 +2477,11 @@
         "Age in Months": "83",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "139",
@@ -1943,7 +2495,11 @@
         "Age in Months": "69",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "140",
@@ -1957,7 +2513,11 @@
         "Age in Months": "76",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "141",
@@ -1971,7 +2531,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "142",
@@ -1985,7 +2549,11 @@
         "Age in Months": "89",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "143",
@@ -1999,7 +2567,11 @@
         "Age in Months": "79",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "144",
@@ -2013,7 +2585,11 @@
         "Age in Months": "62",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "145",
@@ -2027,7 +2603,11 @@
         "Age in Months": "103",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "146",
@@ -2041,7 +2621,11 @@
         "Age in Months": "102",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "147",
@@ -2055,7 +2639,11 @@
         "Age in Months": "108",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "148",
@@ -2069,7 +2657,11 @@
         "Age in Months": "99",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "149",
@@ -2083,7 +2675,11 @@
         "Age in Months": "74",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "150",
@@ -2097,7 +2693,11 @@
         "Age in Months": "86",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "151",
@@ -2111,7 +2711,11 @@
         "Age in Months": "112",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "152",
@@ -2125,7 +2729,11 @@
         "Age in Months": "92",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "153",
@@ -2139,7 +2747,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "154",
@@ -2153,7 +2765,11 @@
         "Age in Months": "106",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "155",
@@ -2167,7 +2783,11 @@
         "Age in Months": "105",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "156",
@@ -2181,7 +2801,11 @@
         "Age in Months": "75",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "157",
@@ -2195,7 +2819,11 @@
         "Age in Months": "71",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "158",
@@ -2209,7 +2837,11 @@
         "Age in Months": "106",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "159",
@@ -2223,7 +2855,11 @@
         "Age in Months": "81",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "160",
@@ -2237,7 +2873,11 @@
         "Age in Months": "88",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "161",
@@ -2251,7 +2891,11 @@
         "Age in Months": "87.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "162",
@@ -2265,7 +2909,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "163",
@@ -2279,7 +2927,11 @@
         "Age in Months": "107",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "164",
@@ -2293,7 +2945,11 @@
         "Age in Months": "107",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "165",
@@ -2307,7 +2963,11 @@
         "Age in Months": "85",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "166",
@@ -2321,7 +2981,11 @@
         "Age in Months": "69",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "167",
@@ -2335,7 +2999,11 @@
         "Age in Months": "102.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "168",
@@ -2349,7 +3017,11 @@
         "Age in Months": "100",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "169",
@@ -2363,7 +3035,11 @@
         "Age in Months": "59",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "170",
@@ -2377,7 +3053,11 @@
         "Age in Months": "80",
         "Weight for Age Status": "N",
         "Height for Age Status": "S",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "171",
@@ -2391,7 +3071,11 @@
         "Age in Months": "87",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "172",
@@ -2405,7 +3089,11 @@
         "Age in Months": "51",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "173",
@@ -2419,7 +3107,11 @@
         "Age in Months": "101",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "174",
@@ -2433,7 +3125,11 @@
         "Age in Months": "102.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "175",
@@ -2447,7 +3143,11 @@
         "Age in Months": "102",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "176",
@@ -2461,7 +3161,11 @@
         "Age in Months": "103",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "177",
@@ -2475,7 +3179,11 @@
         "Age in Months": "76",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "Ob"
+        "Height for Length/Height Status": "Ob",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "178",
@@ -2489,7 +3197,11 @@
         "Age in Months": "90",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "179",
@@ -2503,7 +3215,11 @@
         "Age in Months": "83.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "180",
@@ -2517,7 +3233,11 @@
         "Age in Months": "92",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "181",
@@ -2531,7 +3251,11 @@
         "Age in Months": "99",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "182",
@@ -2545,7 +3269,11 @@
         "Age in Months": "72",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "183",
@@ -2559,7 +3287,11 @@
         "Age in Months": "80",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "184",
@@ -2573,7 +3305,11 @@
         "Age in Months": "82.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "185",
@@ -2587,7 +3323,11 @@
         "Age in Months": "75",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "186",
@@ -2601,7 +3341,11 @@
         "Age in Months": "74",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "187",
@@ -2615,7 +3359,11 @@
         "Age in Months": "110",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "188",
@@ -2629,7 +3377,11 @@
         "Age in Months": "96",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "189",
@@ -2643,7 +3395,11 @@
         "Age in Months": "99",
         "Weight for Age Status": "UW",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "190",
@@ -2657,7 +3413,11 @@
         "Age in Months": "88",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "191",
@@ -2671,7 +3431,11 @@
         "Age in Months": "102.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "192",
@@ -2685,7 +3449,11 @@
         "Age in Months": "105.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "193",
@@ -2699,7 +3467,11 @@
         "Age in Months": "89",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "194",
@@ -2713,7 +3485,11 @@
         "Age in Months": "92",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "195",
@@ -2727,7 +3503,11 @@
         "Age in Months": "91",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "196",
@@ -2741,7 +3521,11 @@
         "Age in Months": "89",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "197",
@@ -2755,7 +3539,11 @@
         "Age in Months": "89",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "OW"
+        "Height for Length/Height Status": "OW",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "198",
@@ -2769,7 +3557,11 @@
         "Age in Months": "88.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "199",
@@ -2783,7 +3575,11 @@
         "Age in Months": "86",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "200",
@@ -2797,7 +3593,11 @@
         "Age in Months": "86",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "201",
@@ -2811,7 +3611,11 @@
         "Age in Months": "85.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "202",
@@ -2825,7 +3629,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "203",
@@ -2839,7 +3647,11 @@
         "Age in Months": "96",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "204",
@@ -2853,7 +3665,11 @@
         "Age in Months": "99",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "205",
@@ -2867,7 +3683,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "206",
@@ -2881,7 +3701,11 @@
         "Age in Months": "101",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "207",
@@ -2895,7 +3719,11 @@
         "Age in Months": "102",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "208",
@@ -2909,7 +3737,11 @@
         "Age in Months": "101",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "209",
@@ -2923,7 +3755,11 @@
         "Age in Months": "102",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "210",
@@ -2937,7 +3773,11 @@
         "Age in Months": "71.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "211",
@@ -2951,7 +3791,11 @@
         "Age in Months": "68.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "212",
@@ -2965,7 +3809,11 @@
         "Age in Months": "74.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "213",
@@ -2979,7 +3827,11 @@
         "Age in Months": "65.1",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "214",
@@ -2993,7 +3845,11 @@
         "Age in Months": "64.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "215",
@@ -3007,7 +3863,11 @@
         "Age in Months": "60.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "216",
@@ -3021,7 +3881,11 @@
         "Age in Months": "60.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "S",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "217",
@@ -3035,7 +3899,11 @@
         "Age in Months": "65",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "218",
@@ -3049,7 +3917,11 @@
         "Age in Months": "75",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "219",
@@ -3063,7 +3935,11 @@
         "Age in Months": "65.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "220",
@@ -3077,7 +3953,11 @@
         "Age in Months": "63",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "221",
@@ -3091,7 +3971,11 @@
         "Age in Months": "66",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "222",
@@ -3105,7 +3989,11 @@
         "Age in Months": "68.1",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "223",
@@ -3119,7 +4007,11 @@
         "Age in Months": "67",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "224",
@@ -3133,7 +4025,11 @@
         "Age in Months": "67",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "225",
@@ -3147,7 +4043,11 @@
         "Age in Months": "63",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "226",
@@ -3161,7 +4061,11 @@
         "Age in Months": "65",
         "Weight for Age Status": "N",
         "Height for Age Status": "SS",
-        "Height for Length/Height Status": "OW"
+        "Height for Length/Height Status": "OW",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "227",
@@ -3175,7 +4079,11 @@
         "Age in Months": "62.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "228",
@@ -3189,7 +4097,11 @@
         "Age in Months": "62.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "229",
@@ -3203,7 +4115,11 @@
         "Age in Months": "61.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "230",
@@ -3217,7 +4133,11 @@
         "Age in Months": "55.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "S",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "231",
@@ -3231,7 +4151,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "232",
@@ -3245,7 +4169,11 @@
         "Age in Months": "57",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "233",
@@ -3259,7 +4187,11 @@
         "Age in Months": "53",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "234",
@@ -3273,7 +4205,11 @@
         "Age in Months": "53",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "235",
@@ -3287,7 +4223,11 @@
         "Age in Months": "59.8",
         "Weight for Age Status": "OW",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "236",
@@ -3301,7 +4241,11 @@
         "Age in Months": "69",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "237",
@@ -3315,7 +4259,11 @@
         "Age in Months": "70",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "238",
@@ -3329,7 +4277,11 @@
         "Age in Months": "90",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "239",
@@ -3343,7 +4295,11 @@
         "Age in Months": "107.3",
         "Weight for Age Status": "OW",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "240",
@@ -3357,7 +4313,11 @@
         "Age in Months": "68",
         "Weight for Age Status": "N",
         "Height for Age Status": "SS",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "241",
@@ -3371,7 +4331,11 @@
         "Age in Months": "68",
         "Weight for Age Status": "N",
         "Height for Age Status": "T",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "242",
@@ -3385,7 +4349,11 @@
         "Age in Months": "93.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "243",
@@ -3399,7 +4367,11 @@
         "Age in Months": "99",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "244",
@@ -3413,7 +4385,11 @@
         "Age in Months": "102.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "245",
@@ -3427,7 +4403,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "246",
@@ -3441,7 +4421,11 @@
         "Age in Months": "66",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "247",
@@ -3455,7 +4439,11 @@
         "Age in Months": "108",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "248",
@@ -3469,7 +4457,11 @@
         "Age in Months": "91",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "249",
@@ -3483,7 +4475,11 @@
         "Age in Months": "67.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "250",
@@ -3497,7 +4493,11 @@
         "Age in Months": "85.1",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "251",
@@ -3511,7 +4511,11 @@
         "Age in Months": "75",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "252",
@@ -3525,7 +4529,11 @@
         "Age in Months": "74.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "253",
@@ -3539,7 +4547,11 @@
         "Age in Months": "101",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "254",
@@ -3553,7 +4565,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "255",
@@ -3567,7 +4583,11 @@
         "Age in Months": "87.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "256",
@@ -3581,7 +4601,11 @@
         "Age in Months": "100.8",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "257",
@@ -3595,7 +4619,11 @@
         "Age in Months": "65.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "258",
@@ -3609,7 +4637,11 @@
         "Age in Months": "92.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "259",
@@ -3623,7 +4655,11 @@
         "Age in Months": "67.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "260",
@@ -3637,7 +4673,11 @@
         "Age in Months": "102.8",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "261",
@@ -3651,7 +4691,11 @@
         "Age in Months": "106",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "262",
@@ -3665,7 +4709,11 @@
         "Age in Months": "99",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "263",
@@ -3679,7 +4727,11 @@
         "Age in Months": "67",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "264",
@@ -3693,7 +4745,11 @@
         "Age in Months": "84.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "265",
@@ -3707,7 +4763,11 @@
         "Age in Months": "86.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "266",
@@ -3721,7 +4781,11 @@
         "Age in Months": "80",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "267",
@@ -3735,7 +4799,11 @@
         "Age in Months": "102",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "268",
@@ -3749,7 +4817,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "269",
@@ -3763,7 +4835,11 @@
         "Age in Months": "115.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "270",
@@ -3777,7 +4853,11 @@
         "Age in Months": "96.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "271",
@@ -3791,7 +4871,11 @@
         "Age in Months": "82.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "272",
@@ -3805,7 +4889,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "273",
@@ -3819,7 +4907,11 @@
         "Age in Months": "58.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "274",
@@ -3833,7 +4925,11 @@
         "Age in Months": "56",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "275",
@@ -3847,7 +4943,11 @@
         "Age in Months": "59.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "276",
@@ -3861,7 +4961,11 @@
         "Age in Months": "90.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "277",
@@ -3875,7 +4979,11 @@
         "Age in Months": "104.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "278",
@@ -3889,7 +4997,11 @@
         "Age in Months": "92.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "279",
@@ -3903,7 +5015,11 @@
         "Age in Months": "96.8",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "280",
@@ -3917,7 +5033,11 @@
         "Age in Months": "102.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "281",
@@ -3931,7 +5051,11 @@
         "Age in Months": "94.5",
         "Weight for Age Status": "OW",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "OW"
+        "Height for Length/Height Status": "OW",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "282",
@@ -3945,7 +5069,11 @@
         "Age in Months": "96.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "283",
@@ -3959,7 +5087,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "UW",
         "Height for Age Status": "S",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "284",
@@ -3973,7 +5105,11 @@
         "Age in Months": "91.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "285",
@@ -3987,7 +5123,11 @@
         "Age in Months": "93",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "286",
@@ -4001,7 +5141,11 @@
         "Age in Months": "104.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "287",
@@ -4015,7 +5159,11 @@
         "Age in Months": "95.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "288",
@@ -4029,7 +5177,11 @@
         "Age in Months": "65",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "289",
@@ -4043,7 +5195,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "290",
@@ -4057,7 +5213,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "291",
@@ -4071,7 +5231,11 @@
         "Age in Months": "86.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "292",
@@ -4085,7 +5249,11 @@
         "Age in Months": "107",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "293",
@@ -4099,7 +5267,11 @@
         "Age in Months": "114",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "294",
@@ -4113,7 +5285,11 @@
         "Age in Months": "102.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "295",
@@ -4127,7 +5303,11 @@
         "Age in Months": "57.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "296",
@@ -4141,7 +5321,11 @@
         "Age in Months": "73",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "297",
@@ -4155,7 +5339,11 @@
         "Age in Months": "105",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "298",
@@ -4169,7 +5357,11 @@
         "Age in Months": "94.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "299",
@@ -4183,7 +5375,11 @@
         "Age in Months": "107",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "300",
@@ -4197,7 +5393,11 @@
         "Age in Months": "100.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "301",
@@ -4211,7 +5411,11 @@
         "Age in Months": "68.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "302",
@@ -4225,7 +5429,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "303",
@@ -4239,7 +5447,11 @@
         "Age in Months": "102",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "304",
@@ -4253,7 +5465,11 @@
         "Age in Months": "65",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "305",
@@ -4267,7 +5483,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "306",
@@ -4281,7 +5501,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "307",
@@ -4295,7 +5519,11 @@
         "Age in Months": "94",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "308",
@@ -4309,7 +5537,11 @@
         "Age in Months": "79.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "309",
@@ -4323,7 +5555,11 @@
         "Age in Months": "105.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "310",
@@ -4337,7 +5573,11 @@
         "Age in Months": "51",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "311",
@@ -4351,7 +5591,11 @@
         "Age in Months": "55",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "312",
@@ -4365,7 +5609,11 @@
         "Age in Months": "103",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "313",
@@ -4379,7 +5627,11 @@
         "Age in Months": "101",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "314",
@@ -4393,7 +5645,11 @@
         "Age in Months": "102",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "315",
@@ -4407,7 +5663,11 @@
         "Age in Months": "97.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "316",
@@ -4421,7 +5681,11 @@
         "Age in Months": "98.1",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "317",
@@ -4435,7 +5699,11 @@
         "Age in Months": "104",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "318",
@@ -4449,7 +5717,11 @@
         "Age in Months": "101.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "319",
@@ -4463,7 +5735,11 @@
         "Age in Months": "97.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "320",
@@ -4477,7 +5753,11 @@
         "Age in Months": "100.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "321",
@@ -4491,7 +5771,11 @@
         "Age in Months": "96.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "322",
@@ -4505,7 +5789,11 @@
         "Age in Months": "105.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "323",
@@ -4519,7 +5807,11 @@
         "Age in Months": "71",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "324",
@@ -4533,7 +5825,11 @@
         "Age in Months": "79.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "325",
@@ -4547,7 +5843,11 @@
         "Age in Months": "82.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "326",
@@ -4561,7 +5861,11 @@
         "Age in Months": "80.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "327",
@@ -4575,7 +5879,11 @@
         "Age in Months": "82",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "328",
@@ -4589,7 +5897,11 @@
         "Age in Months": "78.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "329",
@@ -4603,7 +5915,11 @@
         "Age in Months": "64.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "330",
@@ -4617,7 +5933,11 @@
         "Age in Months": "71.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "331",
@@ -4631,7 +5951,11 @@
         "Age in Months": "62.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "332",
@@ -4645,7 +5969,11 @@
         "Age in Months": "48",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "333",
@@ -4659,7 +5987,11 @@
         "Age in Months": "51",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "334",
@@ -4673,7 +6005,11 @@
         "Age in Months": "80",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "335",
@@ -4687,7 +6023,11 @@
         "Age in Months": "93",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "336",
@@ -4701,7 +6041,11 @@
         "Age in Months": "108",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "337",
@@ -4715,7 +6059,11 @@
         "Age in Months": "104.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "338",
@@ -4729,7 +6077,11 @@
         "Age in Months": "72",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "339",
@@ -4743,7 +6095,11 @@
         "Age in Months": "100.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "340",
@@ -4757,7 +6113,11 @@
         "Age in Months": "94",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "341",
@@ -4771,7 +6131,11 @@
         "Age in Months": "101.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "342",
@@ -4785,7 +6149,11 @@
         "Age in Months": "84",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "343",
@@ -4799,7 +6167,11 @@
         "Age in Months": "86.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "344",
@@ -4813,7 +6185,11 @@
         "Age in Months": "106.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "345",
@@ -4827,7 +6203,11 @@
         "Age in Months": "92.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "346",
@@ -4841,7 +6221,11 @@
         "Age in Months": "87.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "347",
@@ -4855,7 +6239,11 @@
         "Age in Months": "70",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "348",
@@ -4869,7 +6257,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "349",
@@ -4883,7 +6275,11 @@
         "Age in Months": "103",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "350",
@@ -4897,7 +6293,11 @@
         "Age in Months": "100",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "351",
@@ -4911,7 +6311,11 @@
         "Age in Months": "83.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "352",
@@ -4925,7 +6329,11 @@
         "Age in Months": "48",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "353",
@@ -4939,7 +6347,11 @@
         "Age in Months": "70.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "354",
@@ -4953,7 +6365,11 @@
         "Age in Months": "57",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "355",
@@ -4967,7 +6383,11 @@
         "Age in Months": "96",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "356",
@@ -4981,7 +6401,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "357",
@@ -4995,7 +6419,11 @@
         "Age in Months": "107",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "358",
@@ -5009,7 +6437,11 @@
         "Age in Months": "62",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "359",
@@ -5023,7 +6455,11 @@
         "Age in Months": "60.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "360",
@@ -5037,7 +6473,11 @@
         "Age in Months": "78.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "361",
@@ -5051,7 +6491,11 @@
         "Age in Months": "75.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "362",
@@ -5065,7 +6509,11 @@
         "Age in Months": "78",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "363",
@@ -5079,7 +6527,11 @@
         "Age in Months": "73.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "364",
@@ -5093,7 +6545,11 @@
         "Age in Months": "68.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "365",
@@ -5107,7 +6563,11 @@
         "Age in Months": "74.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "366",
@@ -5121,7 +6581,11 @@
         "Age in Months": "67.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "367",
@@ -5135,7 +6599,11 @@
         "Age in Months": "79",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "368",
@@ -5149,7 +6617,11 @@
         "Age in Months": "75",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "369",
@@ -5163,7 +6635,11 @@
         "Age in Months": "86",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "370",
@@ -5177,7 +6653,11 @@
         "Age in Months": "76.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "371",
@@ -5191,7 +6671,11 @@
         "Age in Months": "64",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "372",
@@ -5205,7 +6689,11 @@
         "Age in Months": "64.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "373",
@@ -5219,7 +6707,11 @@
         "Age in Months": "63.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "374",
@@ -5233,7 +6725,11 @@
         "Age in Months": "62",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "375",
@@ -5247,7 +6743,11 @@
         "Age in Months": "58.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "376",
@@ -5261,7 +6761,11 @@
         "Age in Months": "104",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "377",
@@ -5275,7 +6779,11 @@
         "Age in Months": "102.1",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "378",
@@ -5289,7 +6797,11 @@
         "Age in Months": "103",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "379",
@@ -5303,7 +6815,11 @@
         "Age in Months": "56.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "380",
@@ -5317,7 +6833,11 @@
         "Age in Months": "72.1",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "381",
@@ -5331,7 +6851,11 @@
         "Age in Months": "50.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "382",
@@ -5345,7 +6869,11 @@
         "Age in Months": "96",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "383",
@@ -5359,7 +6887,11 @@
         "Age in Months": "95",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "384",
@@ -5373,7 +6905,11 @@
         "Age in Months": "95.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "385",
@@ -5387,7 +6923,11 @@
         "Age in Months": "107",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "386",
@@ -5401,7 +6941,11 @@
         "Age in Months": "85",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "387",
@@ -5415,7 +6959,11 @@
         "Age in Months": "80",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "388",
@@ -5429,7 +6977,11 @@
         "Age in Months": "91.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "389",
@@ -5443,7 +6995,11 @@
         "Age in Months": "100.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "390",
@@ -5457,7 +7013,11 @@
         "Age in Months": "49",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "391",
@@ -5471,7 +7031,11 @@
         "Age in Months": "75.8",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "392",
@@ -5485,7 +7049,11 @@
         "Age in Months": "80",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "393",
@@ -5499,7 +7067,11 @@
         "Age in Months": "85.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "394",
@@ -5513,7 +7085,11 @@
         "Age in Months": "90",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "395",
@@ -5527,7 +7103,11 @@
         "Age in Months": "89.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "396",
@@ -5541,7 +7121,11 @@
         "Age in Months": "104",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "397",
@@ -5555,7 +7139,11 @@
         "Age in Months": "79.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "398",
@@ -5569,7 +7157,11 @@
         "Age in Months": "69.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "399",
@@ -5583,7 +7175,11 @@
         "Age in Months": "87",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "400",
@@ -5597,7 +7193,11 @@
         "Age in Months": "108.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "401",
@@ -5611,7 +7211,11 @@
         "Age in Months": "95",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "402",
@@ -5625,7 +7229,11 @@
         "Age in Months": "92.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "403",
@@ -5639,7 +7247,11 @@
         "Age in Months": "92.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "404",
@@ -5653,7 +7265,11 @@
         "Age in Months": "108",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "405",
@@ -5667,7 +7283,11 @@
         "Age in Months": "104",
         "Weight for Age Status": "UW",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "SW"
+        "Height for Length/Height Status": "SW",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "406",
@@ -5681,7 +7301,11 @@
         "Age in Months": "102.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "407",
@@ -5695,7 +7319,11 @@
         "Age in Months": "94",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "408",
@@ -5709,7 +7337,11 @@
         "Age in Months": "80",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "409",
@@ -5723,7 +7355,11 @@
         "Age in Months": "100",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "410",
@@ -5737,7 +7373,11 @@
         "Age in Months": "88",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "411",
@@ -5751,7 +7391,11 @@
         "Age in Months": "70.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "412",
@@ -5765,7 +7409,11 @@
         "Age in Months": "106",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "413",
@@ -5779,7 +7427,11 @@
         "Age in Months": "113",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "414",
@@ -5793,7 +7445,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "415",
@@ -5807,7 +7463,11 @@
         "Age in Months": "67",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "416",
@@ -5821,7 +7481,11 @@
         "Age in Months": "82",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "417",
@@ -5835,7 +7499,11 @@
         "Age in Months": "78.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "418",
@@ -5849,7 +7517,11 @@
         "Age in Months": "81",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "419",
@@ -5863,7 +7535,11 @@
         "Age in Months": "68.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "420",
@@ -5877,7 +7553,11 @@
         "Age in Months": "76.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "421",
@@ -5891,7 +7571,11 @@
         "Age in Months": "74",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "422",
@@ -5905,7 +7589,11 @@
         "Age in Months": "62.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "423",
@@ -5919,7 +7607,11 @@
         "Age in Months": "78.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "424",
@@ -5933,7 +7625,11 @@
         "Age in Months": "71",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "425",
@@ -5947,7 +7643,11 @@
         "Age in Months": "73",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "426",
@@ -5961,7 +7661,11 @@
         "Age in Months": "80",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "427",
@@ -5975,7 +7679,11 @@
         "Age in Months": "61",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "428",
@@ -5989,7 +7697,11 @@
         "Age in Months": "58",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "429",
@@ -6003,7 +7715,11 @@
         "Age in Months": "68.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "430",
@@ -6017,7 +7733,11 @@
         "Age in Months": "53.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "431",
@@ -6031,7 +7751,11 @@
         "Age in Months": "55",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "432",
@@ -6045,7 +7769,11 @@
         "Age in Months": "100",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "433",
@@ -6059,7 +7787,11 @@
         "Age in Months": "102.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "434",
@@ -6073,7 +7805,11 @@
         "Age in Months": "82",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "435",
@@ -6087,7 +7823,11 @@
         "Age in Months": "72.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "436",
@@ -6101,7 +7841,11 @@
         "Age in Months": "73",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "437",
@@ -6115,7 +7859,11 @@
         "Age in Months": "75.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "438",
@@ -6129,7 +7877,11 @@
         "Age in Months": "73",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "439",
@@ -6143,7 +7895,11 @@
         "Age in Months": "83.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "440",
@@ -6157,7 +7913,11 @@
         "Age in Months": "65.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "441",
@@ -6171,7 +7931,11 @@
         "Age in Months": "71",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "442",
@@ -6185,7 +7949,11 @@
         "Age in Months": "85.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "443",
@@ -6199,7 +7967,11 @@
         "Age in Months": "63.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "444",
@@ -6213,7 +7985,11 @@
         "Age in Months": "62.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "445",
@@ -6227,7 +8003,11 @@
         "Age in Months": "65",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "446",
@@ -6241,7 +8021,11 @@
         "Age in Months": "67.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "447",
@@ -6255,7 +8039,11 @@
         "Age in Months": "56.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "448",
@@ -6269,7 +8057,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "449",
@@ -6283,7 +8075,11 @@
         "Age in Months": "110",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "450",
@@ -6297,7 +8093,11 @@
         "Age in Months": "115.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "451",
@@ -6311,7 +8111,11 @@
         "Age in Months": "104",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23287872424646,
+            14.168506473459871
+        ]
     },
     {
         "Child Seq.": "452",
@@ -6325,7 +8129,11 @@
         "Age in Months": "104",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "453",
@@ -6339,7 +8147,11 @@
         "Age in Months": "110",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "454",
@@ -6353,7 +8165,11 @@
         "Age in Months": "101",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "455",
@@ -6367,7 +8183,11 @@
         "Age in Months": "94.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "456",
@@ -6381,7 +8201,11 @@
         "Age in Months": "112",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "457",
@@ -6395,7 +8219,11 @@
         "Age in Months": "96",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "458",
@@ -6409,7 +8237,11 @@
         "Age in Months": "90.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "459",
@@ -6423,7 +8255,11 @@
         "Age in Months": "112",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "460",
@@ -6437,7 +8273,11 @@
         "Age in Months": "114",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "461",
@@ -6451,7 +8291,11 @@
         "Age in Months": "86.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "462",
@@ -6465,7 +8309,11 @@
         "Age in Months": "110.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "463",
@@ -6479,7 +8327,11 @@
         "Age in Months": "79",
         "Weight for Age Status": "UW",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "464",
@@ -6493,7 +8345,11 @@
         "Age in Months": "80.6",
         "Weight for Age Status": "UW",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "465",
@@ -6507,7 +8363,11 @@
         "Age in Months": "84.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "466",
@@ -6521,7 +8381,11 @@
         "Age in Months": "87.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "467",
@@ -6535,7 +8399,11 @@
         "Age in Months": "101.1",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "468",
@@ -6549,7 +8417,11 @@
         "Age in Months": "99.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "469",
@@ -6563,7 +8435,11 @@
         "Age in Months": "96",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "470",
@@ -6577,7 +8453,11 @@
         "Age in Months": "93",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "471",
@@ -6591,7 +8471,11 @@
         "Age in Months": "91.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "472",
@@ -6605,7 +8489,11 @@
         "Age in Months": "92.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "473",
@@ -6619,7 +8507,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "474",
@@ -6633,7 +8525,11 @@
         "Age in Months": "92",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "475",
@@ -6647,7 +8543,11 @@
         "Age in Months": "91",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "476",
@@ -6661,7 +8561,11 @@
         "Age in Months": "90",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "477",
@@ -6675,7 +8579,11 @@
         "Age in Months": "90.8",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "478",
@@ -6689,7 +8597,11 @@
         "Age in Months": "91.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "479",
@@ -6703,7 +8615,11 @@
         "Age in Months": "92",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "480",
@@ -6717,7 +8633,11 @@
         "Age in Months": "92.8",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "481",
@@ -6731,7 +8651,11 @@
         "Age in Months": "90.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "482",
@@ -6745,7 +8669,11 @@
         "Age in Months": "92.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "483",
@@ -6759,7 +8687,11 @@
         "Age in Months": "91.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "484",
@@ -6773,7 +8705,11 @@
         "Age in Months": "97.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "485",
@@ -6787,7 +8723,11 @@
         "Age in Months": "101.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "486",
@@ -6801,7 +8741,11 @@
         "Age in Months": "83",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "487",
@@ -6815,7 +8759,11 @@
         "Age in Months": "94.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "488",
@@ -6829,7 +8777,11 @@
         "Age in Months": "96.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "489",
@@ -6843,7 +8795,11 @@
         "Age in Months": "93",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "490",
@@ -6857,7 +8813,11 @@
         "Age in Months": "91.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "491",
@@ -6871,7 +8831,11 @@
         "Age in Months": "90.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "492",
@@ -6885,7 +8849,11 @@
         "Age in Months": "97.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "493",
@@ -6899,7 +8867,11 @@
         "Age in Months": "91.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "494",
@@ -6913,7 +8885,11 @@
         "Age in Months": "95.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "495",
@@ -6927,7 +8903,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "496",
@@ -6941,7 +8921,11 @@
         "Age in Months": "99.8",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "497",
@@ -6955,7 +8939,11 @@
         "Age in Months": "101",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "498",
@@ -6969,7 +8957,11 @@
         "Age in Months": "102.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "499",
@@ -6983,7 +8975,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22710855931473,
+            14.180560872343563
+        ]
     },
     {
         "Child Seq.": "500",
@@ -6997,7 +8993,11 @@
         "Age in Months": "100.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23004119258229,
+            14.171656938543734
+        ]
     },
     {
         "Child Seq.": "501",
@@ -7011,7 +9011,11 @@
         "Age in Months": "98.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "502",
@@ -7025,7 +9029,11 @@
         "Age in Months": "91",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "503",
@@ -7039,7 +9047,11 @@
         "Age in Months": "99.3",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "504",
@@ -7053,7 +9065,11 @@
         "Age in Months": "103.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "505",
@@ -7067,7 +9083,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "506",
@@ -7081,7 +9101,11 @@
         "Age in Months": "91",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "507",
@@ -7095,7 +9119,11 @@
         "Age in Months": "103",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23089369022273,
+            14.174234654672347
+        ]
     },
     {
         "Child Seq.": "508",
@@ -7109,7 +9137,11 @@
         "Age in Months": "103.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23603060371778,
+            14.174080934772263
+        ]
     },
     {
         "Child Seq.": "509",
@@ -7123,7 +9155,11 @@
         "Age in Months": "98",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23391932078522,
+            14.172493204971843
+        ]
     },
     {
         "Child Seq.": "510",
@@ -7137,7 +9173,11 @@
         "Age in Months": "97.5",
         "Weight for Age Status": "N",
         "Height for Age Status": "S",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "511",
@@ -7151,7 +9191,11 @@
         "Age in Months": "95.6",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2291179670404,
+            14.179030663214377
+        ]
     },
     {
         "Child Seq.": "512",
@@ -7165,7 +9209,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "513",
@@ -7179,7 +9227,11 @@
         "Age in Months": "104",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2351744514682,
+            14.178661743080795
+        ]
     },
     {
         "Child Seq.": "514",
@@ -7193,7 +9245,11 @@
         "Age in Months": "108",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "W"
+        "Height for Length/Height Status": "W",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "515",
@@ -7207,7 +9263,11 @@
         "Age in Months": "87",
         "Weight for Age Status": "N",
         "Height for Age Status": "S",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23866454772377,
+            14.173823543921444
+        ]
     },
     {
         "Child Seq.": "516",
@@ -7221,7 +9281,11 @@
         "Age in Months": "97",
         "Weight for Age Status": "N",
         "Height for Age Status": "S",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "517",
@@ -7235,7 +9299,11 @@
         "Age in Months": "97.2",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23227287613861,
+            14.17197063468464
+        ]
     },
     {
         "Child Seq.": "518",
@@ -7249,7 +9317,11 @@
         "Age in Months": "96.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     },
     {
         "Child Seq.": "519",
@@ -7263,7 +9335,11 @@
         "Age in Months": "96.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23662660871645,
+            14.171677208382235
+        ]
     },
     {
         "Child Seq.": "520",
@@ -7277,7 +9353,11 @@
         "Age in Months": "89.1",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23143163468421,
+            14.175126128269966
+        ]
     },
     {
         "Child Seq.": "521",
@@ -7291,7 +9371,11 @@
         "Age in Months": "91.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23481980031153,
+            14.181007822712218
+        ]
     },
     {
         "Child Seq.": "522",
@@ -7305,7 +9389,11 @@
         "Age in Months": "93.1",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23375607786596,
+            14.17397758983293
+        ]
     },
     {
         "Child Seq.": "523",
@@ -7319,7 +9407,11 @@
         "Age in Months": "92",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23238830532085,
+            14.178060442885155
+        ]
     },
     {
         "Child Seq.": "524",
@@ -7333,7 +9425,11 @@
         "Age in Months": "92",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "525",
@@ -7347,7 +9443,11 @@
         "Age in Months": "93",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "526",
@@ -7361,7 +9461,11 @@
         "Age in Months": "93.7",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23645468944113,
+            14.17600925826153
+        ]
     },
     {
         "Child Seq.": "527",
@@ -7375,7 +9479,11 @@
         "Age in Months": "96",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23292903575509,
+            14.175555223457152
+        ]
     },
     {
         "Child Seq.": "528",
@@ -7389,7 +9497,11 @@
         "Age in Months": "104",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.2322612397299,
+            14.17945472435244
+        ]
     },
     {
         "Child Seq.": "529",
@@ -7403,7 +9515,11 @@
         "Age in Months": "87.4",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.23358898434185,
+            14.170545348335068
+        ]
     },
     {
         "Child Seq.": "530",
@@ -7417,6 +9533,10 @@
         "Age in Months": "99",
         "Weight for Age Status": "N",
         "Height for Age Status": "N",
-        "Height for Length/Height Status": "N"
+        "Height for Length/Height Status": "N",
+        "coords": [
+            121.22872508310331,
+            14.176428381540987
+        ]
     }
 ]

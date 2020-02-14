@@ -10,7 +10,7 @@ import {
   faChartBar,
   faUser
 } from "@fortawesome/free-solid-svg-icons";
-import { Nav, Button, Row, Col, Container } from "react-bootstrap";
+import { Nav, Button } from "react-bootstrap";
 import classNames from "classnames";
 import { AppContext } from "../../core/utils/Store";
 import { Link, withRouter } from "react-router-dom";

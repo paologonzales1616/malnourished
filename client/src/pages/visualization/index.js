@@ -4,7 +4,11 @@ import { AppContext, DateContext, BrgyContext } from "../../core/utils/Store";
 import { config } from "../../core/config";
 import { Row, Col, Card } from "react-bootstrap";
 import { Pie, Bar } from "react-chartjs-2";
-import { HEADERS, DATA_VISUALIZATION_MODEL } from "../../core/utils/Constants";
+import {
+  HEADERS,
+  DATA_VISUALIZATION_MODEL,
+  BARANGAY_PROPERITES
+} from "../../core/utils/Constants";
 import "chartjs-plugin-labels";
 const Index = () => {
   const { app, setApp } = useContext(AppContext);
@@ -27,17 +31,33 @@ const Index = () => {
       headers: HEADERS
     };
     try {
-      const res = await fetch(
-        `${config.host}/data/${brgy}/${date}`,
-        optionsLegend
-      );
-      const data = await res.json();
-      console.log(data);
-      if (data.message) {
-        setBrgyData(DATA_VISUALIZATION_MODEL);
-        return;
+      if (localStorage.getItem("accountType") == "user") {
+        const res = await fetch(
+          `${config.host}/data/${BARANGAY_PROPERITES.findIndex(
+            e => e.brgy == localStorage.getItem("brgy")
+          )}/${date}`,
+          optionsLegend
+        );
+        const data = await res.json();
+        console.log(data);
+        if (data.message) {
+          setBrgyData(DATA_VISUALIZATION_MODEL);
+          return;
+        }
+        setBrgyData(data);
+      } else {
+        const res = await fetch(
+          `${config.host}/data/${brgy}/${date}`,
+          optionsLegend
+        );
+        const data = await res.json();
+        console.log(data);
+        if (data.message) {
+          setBrgyData(DATA_VISUALIZATION_MODEL);
+          return;
+        }
+        setBrgyData(data);
       }
-      setBrgyData(data);
     } catch (error) {
       console.error(error);
     }
@@ -47,7 +67,7 @@ const Index = () => {
     <Content>
       <Row className="pb-3">
         <Col sm={12} md={12}>
-          {(brgyData.sex.female == 0 || brgyData.sex.male == 0) ? (
+          {brgyData.sex.female == 0 || brgyData.sex.male == 0 ? (
             <Card className="text-center p-2 mb-3">
               <h3 className="p-0 m-0">No Available Data</h3>
             </Card>
@@ -146,129 +166,7 @@ const Index = () => {
           </Card>
         </Col>
       </Row>
-      <Row className="pb-3">
-        <Col sm={12} md={4}>
-          <Card className="shadow-sm p-2 text-center">
-            <p>WEIGHT FOR AGE SUMMARY (0-59 MONTHS)</p>
-            <Bar
-              options={{
-                responsive: true,
-                plugins: {
-                  labels: {
-                    render: "value",
-                    fontColor: ["black", "black", "black", "black"]
-                  }
-                }
-              }}
-              data={{
-                datasets: [
-                  {
-                    data: [
-                      brgyData.getWeightForAge059.normal,
-                      brgyData.getWeightForAge059.overweight,
-                      brgyData.getWeightForAge059.underweight,
-                      brgyData.getWeightForAge059.severely_underweight
-                    ],
-                    backgroundColor: [
-                      "#ff6384",
-                      "#36a2eb",
-                      "#ff9f40",
-                      "#ffcd56"
-                    ],
-                    label: "WEIGHT FOR AGE SUMMARY (0-59 MONTHS)"
-                  }
-                ],
-                labels: [
-                  "Normal",
-                  "Overweight",
-                  "Underweight",
-                  "Severely Underweight"
-                ]
-              }}
-            />
-          </Card>
-        </Col>
-        <Col sm={12} md={4}>
-          <Card className="shadow-sm p-2 text-center">
-            <p>HEIGHT FOR AGE SUMMARY (0-59 MONTHS)</p>
-            <Bar
-              options={{
-                responsive: true,
-                plugins: {
-                  labels: {
-                    render: "value",
-                    fontColor: ["black", "black", "black", "black"]
-                  }
-                }
-              }}
-              data={{
-                datasets: [
-                  {
-                    data: [
-                      brgyData.getHeightForAge059.normal,
-                      brgyData.getHeightForAge059.tall,
-                      brgyData.getHeightForAge059.stunted,
-                      brgyData.getHeightForAge059.severely_stunted
-                    ],
-                    backgroundColor: [
-                      "#ff6384",
-                      "#36a2eb",
-                      "#ff9f40",
-                      "#ffcd56"
-                    ],
-                    label: "HEIGHT FOR AGE SUMMARY (0-59 MONTHS)"
-                  }
-                ],
-                labels: ["Normal", "Tall", "Stunted", "Severely Stunted"]
-              }}
-            />
-          </Card>
-        </Col>
-        <Col sm={12} md={4}>
-          <Card className="shadow-sm p-2 text-center">
-            <p>WEIGHT FOR HEIGHT/LENGTH SUMMARY (0-59 MONTHS)</p>
-            <Bar
-              options={{
-                responsive: true,
-                plugins: {
-                  labels: {
-                    render: "value",
-                    fontColor: ["black", "black", "black", "black", "black"]
-                  }
-                }
-              }}
-              data={{
-                datasets: [
-                  {
-                    data: [
-                      brgyData.getWeightForHeightLength059.normal,
-                      brgyData.getWeightForHeightLength059.overweight,
-                      brgyData.getWeightForHeightLength059.obese,
-                      brgyData.getWeightForHeightLength059.wasted,
-                      brgyData.getWeightForHeightLength059.severely_wasted
-                    ],
-                    backgroundColor: [
-                      "#ff6384",
-                      "#36a2eb",
-                      "#ff9f40",
-                      "#ffcd56",
-                      "#bc98f5"
-                    ],
-                    label: "WEIGHT FOR HEIGHT/LENGTH SUMMARY (0-59 MONTHS)"
-                  }
-                ],
-                labels: [
-                  "Normal",
-                  "Overweight",
-                  "Obese",
-                  "Wasted",
-                  "Severely Wasted"
-                ]
-              }}
-            />
-          </Card>
-        </Col>
-      </Row>
+
       <Row className="pb-3">
         <Col sm={12} md={4}>
           <Card className="shadow-sm p-2 text-center">

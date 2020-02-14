@@ -95,9 +95,9 @@ function getHeightForAge059(data) {
         normal++;
       } else if (height == "T") {
         tall++;
-      } else if (height == "St" || height == "S") {
+      } else if (height == "St") {
         stunted++;
-      } else if (height == "SSt" || height == "SS") {
+      } else if (height == "SSt") {
         severely_stunted++;
       }
     }
@@ -180,9 +180,9 @@ function getHeightForAge071(data) {
       normal++;
     } else if (height == "T") {
       tall++;
-    } else if (height == "St" || height == "S") {
+    } else if (height == "St") {
       stunted++;
-    } else if (height == "SSt" || height == "SS") {
+    } else if (height == "SSt") {
       severely_stunted++;
     }
   });
@@ -222,6 +222,29 @@ function getWeightForHeightLength071(data) {
     severely_wasted
   };
 }
+// getHeatmapData(2018, 4);
+function getHeatmapData(year, option) {
+  const { brgys, heatmap_options } = require("./constants");
+  const heatmap_data = [];
+  brgys.map(data => {
+    try {
+      const temp = require(`./data/${year}/${data}.json`);
+      let coords = {coords: [], length: 0};
+      temp.map(entry => {
+        if (
+          entry[heatmap_options[option].key] == heatmap_options[option].value
+        ) {
+          coords.coords.push(entry.coords);
+          ++coords.length
+        }
+      });
+      heatmap_data.push(coords);
+    } catch (error) {
+      heatmap_data.push({coords: [], length: 0});
+    }
+  });
+  return heatmap_data;
+}
 
 module.exports = {
   getGender: getGender,
@@ -231,5 +254,20 @@ module.exports = {
   getWeightForHeightLength059: getWeightForHeightLength059,
   getWeightForAge071: getWeightForAge071,
   getHeightForAge071: getHeightForAge071,
-  getWeightForHeightLength071: getWeightForHeightLength071
+  getWeightForHeightLength071: getWeightForHeightLength071,
+  getHeatmapData: getHeatmapData
 };
+// let anos = 0;
+// let bagong_silang = 0;
+// let bambang = 0;
+// let batong_malake = 0;
+// let baybayin = 0;
+// let bayog = 0;
+// let lalakay = 0;
+// let maahas = 0;
+// let malinta = 0;
+// let mayondon = 0;
+// let putho_tuntungin = 0;
+// let san_antonio = 0;
+// let tadlac = 0;
+// let timugan = 0;
