@@ -1,12 +1,1 @@
-[
-    {
-        "username": "mayondon",
-        "password": "mayondon",
-        "brgy": "mayondon"
-    },
-    {
-        "username": "anos",
-        "password": "anos123",
-        "brgy": "anos"
-    }
-]
+[{"username":"mayondon","password":"mayondon","brgy":"mayondon"},{"username":"anos","password":"anos123","brgy":"anos"},{"username":"bambang","password":"bambang123","brgy":"bambang"}]

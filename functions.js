@@ -246,6 +246,11 @@ function getHeatmapData(year, option) {
   return heatmap_data;
 }
 
+function getRecommendation() {
+  const { brgys } = require("./constants")
+  
+}
+
 module.exports = {
   getGender: getGender,
   getAge: getAge,
@@ -255,7 +260,8 @@ module.exports = {
   getWeightForAge071: getWeightForAge071,
   getHeightForAge071: getHeightForAge071,
   getWeightForHeightLength071: getWeightForHeightLength071,
-  getHeatmapData: getHeatmapData
+  getHeatmapData: getHeatmapData,
+  getRecommendation: getRecommendation
 };
 // let anos = 0;
 // let bagong_silang = 0;

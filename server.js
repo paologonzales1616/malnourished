@@ -76,6 +76,45 @@ server.get("/dataset/:brgy_index/:year", async (req, res) => {
   }
 });
 
+server.post("/dataset/:brgy_index/:year", async (req, res) => {
+  const { brgys } = require("./constants");
+  const { brgy_index, year } = req.params;
+  const data = req.body;
+  const file = `./data/${year}/${brgys[brgy_index]}.json`;
+  try {
+    const brgyData = require(file);
+    brgyData.push(data);
+    fs.writeFileSync(file, JSON.stringify(brgyData));
+    res.json({ message: "success" });
+  } catch (error) {
+    const tempData = [];
+    tempData.push(data);
+    fs.writeFileSync(file, JSON.stringify(tempData));
+    res.json({ message: "success" });
+  }
+});
+
+server.put("/dataset/:brgy_index/:year/:index", async (req, res) => {
+  const { brgys } = require("./constants");
+  const { brgy_index, year, index } = req.params;
+  const data = req.body;
+  const file = `./data/${year}/${brgys[brgy_index]}.json`;
+  const brgyData = require(file);
+  brgyData[index] = data;
+  fs.writeFileSync(file, JSON.stringify(brgyData));
+  res.json({ message: "success" });
+});
+
+server.delete("/dataset/:brgy_index/:year/:index", async (req, res) => {
+  const { brgys } = require("./constants");
+  const { brgy_index, year, index } = req.params;
+  const file = `./data/${year}/${brgys[brgy_index]}.json`;
+  const brgyData = require(file);
+  delete brgyData[index];
+  fs.writeFileSync(file, JSON.stringify(brgyData));
+  res.json({ message: "success" });
+});
+
 server.get("/prediction/:brgy_index", async (req, res) => {
   const { brgy_index } = req.params;
   const { brgys } = require("./constants");

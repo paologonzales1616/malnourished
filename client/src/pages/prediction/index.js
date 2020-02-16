@@ -9,15 +9,17 @@ import {
 } from "../../core/utils/Constants";
 import { ToastContainer, toast } from "react-toastify";
 import { Row, Col, Card } from "react-bootstrap";
-import { Line, Bar } from "react-chartjs-2";
+import { Line } from "react-chartjs-2";
+const initialPrediction = {
+  getWeightForHeightLength: [],
+  getHeightForAge: [],
+  getWeightForAge: []
+};
+
 const Index = () => {
   const { app, setApp } = useContext(AppContext);
   const { brgy, setBrgy } = useContext(BrgyContext);
-  const [prediction, setPrediction] = useState({
-    getWeightForHeightLength: [],
-    getHeightForAge: [],
-    getWeightForAge: []
-  });
+  const [prediction, setPrediction] = useState(initialPrediction);
 
   useEffect(() => {
     document.title = config.title + " | Prediction";
@@ -43,8 +45,9 @@ const Index = () => {
         );
         const data = await res.json();
         if (data.message) {
-          notifyA()
-          return 
+          notifyA();
+          setPrediction(initialPrediction)
+          return;
         }
         setPrediction(data);
         console.log(data);
@@ -55,8 +58,8 @@ const Index = () => {
         );
         const data = await res.json();
         if (data.message) {
-          notifyA()
-          return 
+          notifyA();
+          return;
         }
         setPrediction(data);
         console.log(data);
@@ -66,142 +69,15 @@ const Index = () => {
     }
   }
   const notifyA = () =>
-    toast.error(`No available prediction`, { containerId: "A" });
+    toast.error(`No available prediction. Missing data`, { containerId: "A" });
   return (
     <Content>
-          <ToastContainer
+      <ToastContainer
+        autoClose={8000}
         enableMultiContainer
         containerId={"A"}
         position={toast.POSITION.TOP_RIGHT}
       />
-      <Row>
-        <Col className="pb-3" sm={12} md={4}>
-          <Card className="shadow-sm p-2 text-center h-100">
-            <p>TOP 3 BRGY. WEIGHT FOR AGE SUMMARY RECOMMENDATION</p>
-            {prediction.getWeightForAge.length > 0 && (
-              <Bar
-                options={{
-                  responsive: true,
-                  legend: {
-                    position: "top"
-                  },
-                  plugins: {
-                    labels: {
-                      render: "value",
-                      // precision: 2,
-                      fontColor: ["black", "black", "black"],
-                      fontSize: 16
-                    }
-                  }
-                }}
-                data={{
-                  datasets: [
-                    {
-                      data: [
-                        prediction.getWeightForAge[0].overweight +
-                          prediction.getWeightForAge[1].overweight +
-                          prediction.getWeightForAge[0].underweight +
-                          prediction.getWeightForAge[1].underweight +
-                          prediction.getWeightForAge[0].severely_underweight +
-                          prediction.getWeightForAge[1].severely_underweight,
-                        0,
-                        0
-                      ],
-                      backgroundColor: ["#ff6384", "#36a2eb", "#ff9f40"],
-                      label: "Brgys."
-                    }
-                  ],
-                  labels: ["Anos", "Mayondon", "Baybayin"]
-                }}
-              />
-            )}
-          </Card>
-        </Col>
-        <Col className="pb-3" sm={12} md={4}>
-          <Card className="shadow-sm p-2 text-center h-100">
-            <p>TOP 3 BRGY. HEIGHT FOR AGE SUMMARY RECOMMENDATION</p>
-            {prediction.getWeightForAge.length > 0 && (
-              <Bar
-                options={{
-                  responsive: true,
-                  legend: {
-                    position: "top"
-                  },
-                  plugins: {
-                    labels: {
-                      render: "value",
-                      // precision: 2,
-                      fontColor: ["black", "black", "black"],
-                      fontSize: 16
-                    }
-                  }
-                }}
-                data={{
-                  datasets: [
-                    {
-                      data: [
-                        prediction.getHeightForAge[0].tall +
-                          prediction.getHeightForAge[1].tall +
-                          prediction.getHeightForAge[0].stunted +
-                          prediction.getHeightForAge[1].stunted +
-                          prediction.getHeightForAge[0].severely_stunted +
-                          prediction.getHeightForAge[1].severely_stunted,
-                        0,
-                        0
-                      ],
-                      backgroundColor: ["#ff6384", "#36a2eb", "#ff9f40"],
-                      label: "Brgys."
-                    }
-                  ],
-                  labels: ["Anos", "Mayondon", "Baybayin"]
-                }}
-              />
-            )}
-          </Card>
-        </Col>
-        <Col className="pb-3" sm={12} md={4}>
-          <Card className="shadow-sm p-2 text-center h-100">
-            <p>TOP 3 BRGY. WEIGHT FOR HEIGHT/LENGTH SUMMARY RECOMMENDATION</p>
-            {prediction.getWeightForAge.length > 0 && (
-              <Bar
-                options={{
-                  responsive: true,
-                  legend: {
-                    position: "top"
-                  },
-                  plugins: {
-                    labels: {
-                      render: "value",
-                      // precision: 2,
-                      fontColor: ["black", "black", "black"],
-                      fontSize: 16
-                    }
-                  }
-                }}
-                data={{
-                  datasets: [
-                    {
-                      data: [
-                        prediction.getWeightForHeightLength[0].overweight +
-                          prediction.getWeightForHeightLength[1].overweight +
-                          prediction.getWeightForHeightLength[0].obese +
-                          prediction.getWeightForHeightLength[1].obese +
-                          prediction.getWeightForHeightLength[0].wasted +
-                          prediction.getWeightForHeightLength[1].severely_wasted,
-                        0,
-                        0
-                      ],
-                      backgroundColor: ["#ff6384", "#36a2eb", "#ff9f40"],
-                      label: "Brgys."
-                    }
-                  ],
-                  labels: ["Anos", "Mayondon", "Baybayin"]
-                }}
-              />
-            )}
-          </Card>
-        </Col>
-      </Row>
       <Row>
         {localStorage.getItem("accountType") == "user" ? (
           <Col className="pb-3" sm={12} md={12}>
@@ -221,7 +97,7 @@ const Index = () => {
           <></>
         )}
 
-        <Col className="pb-3" sm={12} md={12}>
+        <Col className="pb-3" sm={12} md={{ span: 8, offset: 2 }}>
           <Card className="shadow-sm p-2 text-center h-100">
             <p>WEIGHT FOR AGE SUMMARY</p>
             <Line
@@ -327,7 +203,7 @@ const Index = () => {
             />
           </Card>
         </Col>
-        <Col className="pb-3" sm={12} md={12}>
+        <Col className="pb-3" sm={12} md={{ span: 8, offset: 2 }}>
           <Card className="shadow-sm p-2 text-center h-100">
             <p>HEIGHT FOR AGE SUMMARY</p>
             <Line
@@ -429,7 +305,7 @@ const Index = () => {
             />
           </Card>
         </Col>
-        <Col className="pb-3" sm={12} md={12}>
+        <Col className="pb-3" sm={12} md={{ span: 8, offset: 2 }}>
           <Card className="shadow-sm p-2 text-center h-100">
             <p>WEIGHT FOR HEIGHT/LENGTH SUMMARY</p>
             <Line

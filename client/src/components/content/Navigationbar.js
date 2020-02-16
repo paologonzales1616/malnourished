@@ -48,7 +48,8 @@ const Navigationbar = ({ history }) => {
           )}
         </Nav>
         <Nav className="ml-auto pt-2" navbar>
-          {app.page != "account" &&
+          {app.page != "recommendation" &&
+          app.page != "account" &&
           app.page != "about" &&
           app.page != "home" ? (
             <>

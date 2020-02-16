@@ -12,7 +12,7 @@ import HomePage from "./pages/home";
 import AboutPage from "./pages/about";
 import DatasetPage from "./pages/dataset";
 import AccountPage from "./pages/account";
-
+import RecommendationPage from "./pages/recommendation"
 import PredictionPage from "./pages/prediction";
 import VisualizationPage from "./pages/visualization";
 
@@ -28,6 +28,7 @@ const App = () => {
           <Route path="/account" component={AccountPage} />
           <Route path="/prediction" component={PredictionPage} />
           <Route path="/visualization" component={VisualizationPage} />
+          <Route path="/recommendation" component={RecommendationPage} />
         </Switch>
       </Store>
     </Router>
